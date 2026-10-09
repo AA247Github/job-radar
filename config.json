@@ -1,0 +1,10 @@
+{
+  "greenhouse": ["doctolib", "swordhealth", "prolific", "monzo", "wise", "cleo", "tide", "gocardless", "form3", "isomorphiclabs", "clearscoretechnologylimited"],
+  "ashby": ["accurx", "tortus", "anima", "synthesia", "photoroom", "causaly", "paddle", "oviva", "multiverse", "lendable", "faculty", "tem"],
+  "lever": ["palantir", "veeva", "zopa"],
+  "lever_eu": ["numan", "ivcevidensia"],
+  "probe": ["huma", "lantum", "zava", "thriva", "peppy", "medefer", "econsult", "patchwork", "healx", "congenica", "genomicsengland", "lifebit", "benevolentai", "ourfuturehealth", "quell", "hokodo", "legl", "yulife", "marshmallow", "checkout", "thoughtmachine", "improbable", "starlingbank", "deliveroo", "octopusenergy", "nekohealth", "cera", "birdie", "kheiron", "skin-analytics", "flo", "babylon", "push-doctor", "medicspro", "cleo-ai", "elevenlabs", "trainline", "ohme", "teya", "paloma-health", "palomahealth"],
+  "title_keywords": ["data engineer", "analytics engineer", "data analyst", "data platform", "business intelligence", "bi analyst", "bi developer", "data scientist", "data architect", "informatics", "insight analyst", "insights analyst", "reporting analyst", "information analyst", "product analyst"],
+  "title_exclude": ["intern", "graduate", "apprentice", "junior", "working student"],
+  "location_keywords": ["london", "united kingdom", "uk", "england", "remote - uk", "remote uk", "remote (uk)", "gb"]
+}

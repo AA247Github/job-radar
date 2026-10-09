@@ -1,0 +1,25 @@
+name: job-radar nightly sweep
+on:
+  schedule:
+    - cron: "30 5 * * *"   # 05:30 UTC daily, before the Claude routine at ~06:00
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Sweep boards
+        run: python scripts/sweep.py
+      - name: Commit results
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          git add data/latest.json data/seen.json
+          git diff --cached --quiet || git commit -m "sweep $(date -u +%F)"
+          git push
