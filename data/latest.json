@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T11:35:16Z",
+ "generated_at": "2026-10-12T13:28:12Z",
  "counts": {
-  "matches": 60,
-  "new": 0,
+  "matches": 58,
+  "new": 1,
   "boards_ok": 28,
   "boards_failed": 0
  },
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 151
+   "open_jobs": 159
   },
   {
    "ats": "greenhouse",
@@ -25,7 +25,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 68
+   "open_jobs": 66
   },
   {
    "ats": "greenhouse",
@@ -45,7 +45,7 @@
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 31
+   "open_jobs": 29
   },
   {
    "ats": "greenhouse",
@@ -80,12 +80,12 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 46
+   "open_jobs": 45
   },
   {
    "ats": "ashby",
    "token": "photoroom",
-   "open_jobs": 14
+   "open_jobs": 12
   },
   {
    "ats": "ashby",
@@ -115,7 +115,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 82
+   "open_jobs": 80
   },
   {
    "ats": "ashby",
@@ -145,7 +145,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 514
+   "open_jobs": 519
   }
  ],
  "discovered_tokens": [
@@ -176,7 +176,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 199,
+   "open_jobs": 200,
    "matching": 5
   },
   {
@@ -194,8 +194,8 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 124,
-   "matching": 5
+   "open_jobs": 130,
+   "matching": 4
   },
   {
    "ats": "ashby",
@@ -212,12 +212,28 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 127,
+   "open_jobs": 123,
    "matching": 1
   }
  ],
  "failures": [],
  "jobs": [
+  {
+   "ats": "lever",
+   "token": "zopa",
+   "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "company": "zopa",
+   "role": "Senior BI Analyst (Collections & Recoveries)",
+   "location": "London; hybrid",
+   "url": "https://jobs.lever.co/zopa/9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "posted": "2026-09-19",
+   "updated": null,
+   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring Senior BI Analysts to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \nThe opportunity \nThis role has a strong BI and reporting focus, with a meaningful element of data modelling and collaboration with Analytics Engineering. You will build trusted data pipelines, establish semantic layers with clearly defined metrics and design self-serve reporting. You will enable analysis at scale and help teams monitor performance, identify opportunities and make informed decisions. \nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- \nSupport performance monitoring across either operational or risk-focused domains\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation  \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders.  \n\n- \nAn organised, curious approach to problem solving and managing priorities\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- \nExperience analysing credit, operational or customer performance metrics would be useful",
+   "salary_text": null,
+   "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "is_new": true,
+   "first_seen": "2026-10-12"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -599,54 +615,6 @@
    "description": "Senior Data Scientist - Full Stack\n\nPlease note visa sponsorship is not currently available for this position. \n\nWe are looking for a Senior Full Stack Data Scientist to join our Data &amp; Analytics team at ClearScore. Data Scientists play a key role in our business, driving strategy and decision-making at all levels, which ultimately benefits our users, partners, and other teams across the organisation. We are seeking a proactive, outcomes-oriented individual, ready to take on broad ownership of a range of initiatives, to join our growing Global Targeting team. Working to enhance the ClearScore user experience through improved dynamic content targeting and prioritisation, you will take end-to-end ownership of data science and machine learning solutions across a variety of use cases, business areas, and markets. You’ll bring the knowledge and expertise required to evaluate transformative new approaches in machine learning and AI against our current implementations, applying your judgement and craft to incorporate these where they can add real value. Your contributions will directly support the Global Targeting mission, enabling the organisation to realise its overall strategy and goals.\n\nClearScore is both a free credit score and report service and the UK's leading consumer credit marketplace. ClearScore has an amazing analytical community which includes Data Analysts, Scientists and Engineers. The community works collaboratively, sharing knowledge, tools, and best practice, to ensure a landscape in which team members can develop their full potential and deliver maximum positive business impact.\n\nWhat you’ll be doing\n\n- Leading the end-to-end development of data science and machine learning solutions - from business concept through to impact evaluation - to enable a better user experience through data-driven Targeting\n\n- Working closely with cross-functional stakeholders to shape how Data Science and the broader Targeting initiative can effectively support business needs to drive maximum impact\n\n- Keeping our modelling practice at the cutting-edge: building a deep understanding of new developments in ML and AI, like Foundation Models, testing these rigorously against our production systems, and leading our adoption of those that prove their value to drive better outcomes for our users and business\n\n- Helping to set the quality bar for what we put into production: scrutinising data, features and model behaviour, and surfacing problems in our data and processes before they reach our users\n\n- Identifying and implementing improvements and optimisations in our model development and management processes, driving more efficient and standardised ways of working, leading by example in what you deliver\n\n- Driving the strategic utilisation of model outputs for decision making, working with the Global Targeting squad to use model outputs to change what users see\n\nWhat you’ll need to succeed in the role\n\n- A self-starter mindset: curious, collaborative, and committed to continuous learning - including the adoption of new tools as they emerge. You stay abreast of advances in ML and AI, demonstrating the judgement required to assess when newer techniques will outperform conventional ones and when they won’t\n\n- A desire to deeply understand a problem and its importance to the business before attempting to solve it, and being comfortable proactively seeking that context rather than waiting for it\n\n- A strong ability to think critically about, and reason concisely with, data. A drive to understand our users, products, and how users interact with them, and to build an advanced knowledge of our data assets and how these connect to our users’ financial wellbeing through the product experience\n\n- Advanced Python and SQL skills, and a strong understanding of dbt and Analytics Engineering for feature engineering. In-depth knowledge of varied statistical and machine learning techniques. You're capable across the full model lifecycle, including how models get deployed and maintained effectively in a production environment\n\n- Demonstrable experience of using business-domain knowledge to drive model development or derive insights from data\n\n- The ability to explain the key findings from complex analysis and modelling exercises to both technical and non-technical audiences. You feel at home interacting with stakeholders from across different specialisms around the organisation\n\nWe’d especially love to hear from you if you have\n\n- Experience using AI tools as part of your everyday workflow, with the judgement to know what to trust, what to verify, and when the output isn't good enough. We’re increasingly adopting AI tools as part of our development cycle, so an interest and knowledge of harnessing these effectively would be highly valued\n\n- Hands-on experience developing and delivering solutions based on emerging ML/AI approaches in Deep Learning, such as representation learning, sequence models, transformer-based modelling, or foundation models\n\n- Experience developing or working on real-time / near real-time inference solutions and the infrastructure to support them\n\n- Experience working with and deploying solutions into Databricks\n\n- Experience working in a product-focussed environment, partnering closely with cross-functional teams to build and iterate quickly\n\n- A good understanding of consumer lending and the key drivers of credit and affordability strategies, as well as familiarity with credit bureau data and its effective utilisation for building predictive ML models\n\n- A postgraduate degree or equivalent qualification in a STEM field\n\nWhy ClearScore?\n\nClearScore is the UK's #1 credit score and report app. We are also present in South Africa, Australia and Canada, with more than 20 million users globally and growing fast. Someone joins ClearScore every 20 seconds. We have established relationships with over 50 of the main lenders in the U.K., and have been a trusted tool for customers to manage their credit ",
    "salary_text": null,
    "key": "greenhouse:clearscoretechnologylimited:4962201101",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
-   "token": "faculty",
-   "id": "b33d0939-ba49-4b52-9580-c089c45d1556",
-   "company": "faculty",
-   "role": "Senior Data Scientist ",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/faculty/b33d0939-ba49-4b52-9580-c089c45d1556",
-   "posted": "2026-08-28",
-   "updated": "2026-08-28",
-   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n \n\n\nABOUT THE TEAM \n\n \n\nOur Energy, Transition and Environment business unit is pioneering meaningful change in the clean energy revolution. Our vision is to accelerate the transition to net-zero emissions and drive efficiencies for a new era of utility companies.\n\n \n\nWe believe that the responsible, and intelligent, deployment of AI is critical to the success of this mission. We partner with a wide range of clients - from major energy operators, to GreenTech startups, and national infrastructure providers - to build solutions which return measurable impact and move us towards a smarter, cleaner, and more sustainable world.\n\n \n \n\n\nABOUT THE ROLE\n\n \n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions. This role requires hands-on technical excellence combined with crucial team leadership. \n\n\nYou will define data science approaches, design robust software architectures, mentor junior colleagues, and ensure delivery rigour across projects all while building deep client relationships and solidifying our reputation as a leader in practical, measurable AI.\n\n \n \n\n\nWHAT YOU'LL BE DOING:\n\n \n\n - Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the sector.\n\n - Conceiving the core data science approach and designing the associated robust software architecture for new engagements.\n\n - Mentoring a small number of data scientists and supporting the professional growth of technical team members on projects.\n\n - Partnering with commercial teams to build client relationships and shape project scope for technical feasibility.\n\n - Contributing to Faculty’s thought leadership and reputation through delivering courses, public speaking, or open-source projects.\n\n - Ensuring best practices are followed throughout the project lifecycle to guarantee high-quality, impactful delivery.\n   \n    \n\n\nWHO WE'RE LOOKING FOR:\n\n \n\n - You possess senior experience in a professional data science position or a quantitative academic field.\n\n - You demonstrate strong programming skills, with the ability to be a fluent Python programmer, using core libraries (NumPy, Pandas) and a deep-learning framework (e.g., PyTorch).\n\n - You have a deep expertise in core data science paradigms (supervised/unsupervised, NLP, validation), demonstrating a proficiency across the standard data science toolkit, including the ability to develop new, innovative algorithms.\n\n - You bring a leadership mindset, focused on growing the technical capabilities of the team and nurturing a collaborative culture.\n\n - You exhibit commercial awareness, with experience in client-facing work and the ability to translate business problems into a rigorous mathematical framework.\n\n - You are skilled in project planning, assessing technical feasibility, estimating delivery timelines, and leading a team to deliver high-quality work on a strict schedule.\n\n \n\n\nOUR INTERVIEW PROCESS\n\n \n\n 1. Talent Team Screen (30 minutes)\n\n 2. Take Home Technical Assessment\n\n 3. Technical Interview (90 minutes)\n\n 4. Commercial Interview (60 minutes)\n\n\n\n#LI-PRIO\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
-   "salary_text": null,
-   "key": "ashby:faculty:b33d0939-ba49-4b52-9580-c089c45d1556",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "lever",
-   "token": "zopa",
-   "id": "6536d687-2c94-451e-b777-5a8fa316c97e",
-   "company": "zopa",
-   "role": "Data Scientist (Mid and Senior Level)",
-   "location": "London; hybrid",
-   "url": "https://jobs.lever.co/zopa/6536d687-2c94-451e-b777-5a8fa316c97e",
-   "posted": "2026-08-28",
-   "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nThe team \nOur Data Science team helps Zopa make better credit decisions. We partner closely with Credit Strategy, Product and Engineering to turn ambiguous business problems into robust models, clear analysis and practical solutions. \nWe are growing a dedicated, product-facing data science capability focused predominantly on credit. The team will help rebuild and expand the models that support consumer-credit decisions, while increasing the sophistication of how we model risk, value and outcomes. \nThis is a hands-on individual-contributor role in a lean, collaborative environment. You will have real ownership, with space to shape the work and build alignment across the people needed to make it happen. \nWe are hiring at both mid and senior level, and will assess candidates at the level that best reflects their experience, technical depth and scope of impact. \n\n\nA day in the life \n- Take ambiguous credit-related questions from stakeholder discussion through to practical modelling and analysis\n\n- Build, improve and maintain models that support consumer-credit decisions\n\n- Work on flagship risk models and broader value-driver models, including revenue, profit prediction and customer lifetime value\n\n- Use Python and sound statistical judgement to develop classification and regression solutions\n\n- Partner with Credit Strategy to understand priorities and create useful, well-framed solutions\n\n- Collaborate with Product and Engineering to sequence work and support productionisation\n\n- Explain technical choices clearly, build consensus where views differ and help move decisions forward\n\n- Own your problems and delivery, while contributing to a low-ego team that works together\n\nAbout you \n- You have hands-on data science experience\n\n- Bring practical Python and Git capability\n\n- Understand common statistical-learning models and machine-learning algorithms for classification and regression\n\n- Have sound statistical fundamentals, including hypothesis testing and experimental design\n\n- Can independently take an ambiguous problem from discussion to a useful model or analysis\n\n- Communicate clearly and confidently with technical and non-technical stakeholders\n\n- Build alignment when there are differing views, and enjoy working collaboratively to move things forward\n\n- Are curious, practical and comfortable operating with limited hand-holding\n\n- Work effectively across business, Product and Engineering partners\n\nAdded bonus \n\n- Experience in consumer credit, lending, credit cards or a closely related credit-risk domain\n\n- Exposure to sequence-based deep-learning or transformer-style models\n\n- Experience building production-grade Python microservices",
-   "salary_text": null,
-   "key": "lever:zopa:6536d687-2c94-451e-b777-5a8fa316c97e",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
-   "token": "elevenlabs",
-   "id": "507e390a-eaeb-4000-936e-83e3e498c760",
-   "company": "elevenlabs",
-   "role": "Data Scientist - AI Safety",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760",
-   "posted": "2026-09-01",
-   "updated": "2026-09-01",
-   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\nAbout the role\n\nWe're looking for a Data Scientist to take ownership of the datasets and evaluation workflows that underpin our AI Safety work. You'll turn real-world product data into reliable, well-structured datasets for training and evaluating models, and help build the processes and infrastructure to continuously assess how those models perform in production.\n\nThis is a hands-on role at the intersection of data science, ML, AI safety, and policy. You'll work closely with safety researchers, engineers, and policy specialists to translate complex safety requirements into practical data and evaluation systems - starting hands-on with collection, analysis, and labelling, then building the methodologies, contributor networks, and quality standards that let this work scale.\n\n\n\nIn this role, you will\n\n - Own safety datasets end-to-end: collection, cleaning, labelling, quality control, versioning, and readiness for training and evaluation.\n\n - Translate safety policy into clear, consistent labelling and evaluation criteria, working closely with policy specialists.\n\n - Design and manage labelling processes, including sourcing, onboarding, and overseeing external contributors to a high quality bar.\n\n - Build evaluation workflows for models in production, using real-world data to track performance and surface issues.\n\n - Develop lightweight Python/SQL pipelines and tooling to make data work faster and reproducible, partnering with ML engineers on what \"training-ready\" looks like.\n\n\n\nWho you are\n\n - Experience as a Data Scientist, or similar, working with real-world datasets and ML models.\n\n - Strong grasp of what makes a good dataset: collection, cleaning, sampling, labelling, quality control, evaluation.\n\n - Comfortable with Python and SQL for analysis and practical data workflows.\n\n - Strong critical thinking and judgement - comfortable with ambiguity and nuance, and able to turn complex guidelines into consistent, scalable decisions.\n\n - Autonomous and a clear communicator, able to work across disciplines (policy, engineering, research) in a fast-moving, still-forming environment.\n\n\n\nBonus points\n\n - Experience in AI safety, trust & safety, content moderation, or fraud/abuse detection.\n\n - Experience building datasets or evaluation frameworks, or with adversarial/safety-focused ML.\n\n - Experience managing human-in-the-loop labelling processes, dataset versioning, or ML pipeline tooling.\n\n - Experience operationalising guidelines with policy or legal teams.\n\n\n\nLocation\n\nThis role is based in London, where you'll work closely with our AI Safety and Policy teams.\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
-   "salary_text": null,
-   "key": "ashby:elevenlabs:507e390a-eaeb-4000-936e-83e3e498c760",
    "is_new": false,
    "first_seen": "2026-10-09"
   },
