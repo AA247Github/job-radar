@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-12T13:28:12Z",
+ "generated_at": "2026-10-13T12:56:05Z",
  "counts": {
-  "matches": 58,
-  "new": 1,
+  "matches": 56,
+  "new": 0,
   "boards_ok": 28,
   "boards_failed": 0
  },
@@ -10,12 +10,12 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 159
+   "open_jobs": 156
   },
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 46
+   "open_jobs": 45
   },
   {
    "ats": "greenhouse",
@@ -25,7 +25,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 66
+   "open_jobs": 67
   },
   {
    "ats": "greenhouse",
@@ -35,17 +35,17 @@
   {
    "ats": "greenhouse",
    "token": "cleo",
-   "open_jobs": 4
+   "open_jobs": 5
   },
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 91
+   "open_jobs": 96
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 29
+   "open_jobs": 30
   },
   {
    "ats": "greenhouse",
@@ -55,7 +55,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 30
+   "open_jobs": 31
   },
   {
    "ats": "greenhouse",
@@ -70,7 +70,7 @@
   {
    "ats": "ashby",
    "token": "tortus",
-   "open_jobs": 2
+   "open_jobs": 0
   },
   {
    "ats": "ashby",
@@ -80,7 +80,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 45
+   "open_jobs": 46
   },
   {
    "ats": "ashby",
@@ -100,37 +100,37 @@
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 35
+   "open_jobs": 34
   },
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 25
+   "open_jobs": 24
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 70
+   "open_jobs": 69
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 80
+   "open_jobs": 81
   },
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 21
+   "open_jobs": 20
   },
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 309
+   "open_jobs": 310
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 938
+   "open_jobs": 937
   },
   {
    "ats": "lever",
@@ -140,12 +140,12 @@
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 8
+   "open_jobs": 14
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 519
+   "open_jobs": 520
   }
  ],
  "discovered_tokens": [
@@ -164,7 +164,7 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 11,
+   "open_jobs": 12,
    "matching": 4
   },
   {
@@ -176,13 +176,13 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 200,
+   "open_jobs": 217,
    "matching": 5
   },
   {
    "ats": "ashby",
    "token": "birdie",
-   "open_jobs": 2,
+   "open_jobs": 1,
    "matching": 0
   },
   {
@@ -194,46 +194,30 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 130,
+   "open_jobs": 137,
    "matching": 4
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 29,
+   "open_jobs": 30,
    "matching": 4
   },
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 23,
+   "open_jobs": 21,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 123,
+   "open_jobs": 125,
    "matching": 1
   }
  ],
  "failures": [],
  "jobs": [
-  {
-   "ats": "lever",
-   "token": "zopa",
-   "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "company": "zopa",
-   "role": "Senior BI Analyst (Collections & Recoveries)",
-   "location": "London; hybrid",
-   "url": "https://jobs.lever.co/zopa/9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "posted": "2026-09-19",
-   "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring Senior BI Analysts to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \nThe opportunity \nThis role has a strong BI and reporting focus, with a meaningful element of data modelling and collaboration with Analytics Engineering. You will build trusted data pipelines, establish semantic layers with clearly defined metrics and design self-serve reporting. You will enable analysis at scale and help teams monitor performance, identify opportunities and make informed decisions. \nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- \nSupport performance monitoring across either operational or risk-focused domains\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation  \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders.  \n\n- \nAn organised, curious approach to problem solving and managing priorities\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- \nExperience analysing credit, operational or customer performance metrics would be useful",
-   "salary_text": null,
-   "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "is_new": true,
-   "first_seen": "2026-10-12"
-  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -263,22 +247,6 @@
    "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\n📍London or Barcelona | UK remote | 💰 £95,000 to £130,000 + Incentive Awards tied to your performance + Benefits| Technology - Data &nbsp;\n\nAbout our Data Science Teams:\n\nWe're looking for a Lead Data Scientist excited to help build the bank of the future. You'll have the opportunity to super charge our user engagement in 2026 and help us to build a bank that customers truly love.\n\nAt Monzo, we're building a bank that is fair, transparent and a delight to use. We’re growing extremely fast and have over 11 million customers in the UK. We’ve built a product that people love and more than 80% of our growth comes from word of mouth and referrals.\n\nEnable Monzo to Make Better Decisions, Faster\n\nWe have a strong culture of data-driven decision making across the whole company. And we're great believers in powerful, real-time analytics and empowerment of the wider business. All our data lives in one place and is super easy to use. 90% of day-to-day data-driven decisions are covered by self-serve analytics through Looker which gives data scientists the head space to focus on more impactful business questions and analyses.\n\nHow we hire\n\nWe are excited to be expanding and are hiring for multiple roles across our Data Science teams! Whether your interests lie in Borrowing, Growth, Payments, Fincrime, Wealth, or Core, we are looking for talented individuals with a versatile skill set to contribute across our squads. While we allocate teams after the interview process, we aim to match your skills and aspirations with the most suitable role. Throughout the process, you will meet team members from across our Data Science collectives, who will guide you through the opportunities available. Join us and be part of shaping our future!\n\nWhat you’ll be working on:\n\n- Lead the data strategy and continue to evolve Monzo for our customers to make it magically simple to manage money day-to-day\n\n- Develop and execute best practices for experimentation enabling our team to make data informed decisions\n\n- Collaboratively set standards and work with data across Monzo, fostering knowledge sharing and continuously improving data practices.\n\n- Work closely with leaders in product, engineering, design and research to build and iterate on product ideas&nbsp;\n\nYou should apply if:\n\n- You enjoy working with cross functional fast moving teams\n\n- You are able to think strategically about commercial products and how decisions using data can unlock more value for our customers\n\n- You are excited about mentoring other data scientists and analytics engineers&nbsp;\n\n- You are excited by experimentation and utilising new data techniques to solve challenging problems&nbsp;\n\n- You want to understand the nuances of our data and are excited about laying the key foundational knowledge for our new products and features\n\n- You are opinionated about how to think about measuring success and are willing to challenge the status quo\n\nThe interview process:\n\nOur interview process involves:&nbsp;\n\n- Recruiter Call\n\n- Initial Call&nbsp;\n\n- Technical assessment\n\n- Final Interviews\n\n- Business Fit/Collaboration\n\n- Case Study\n\n- Technical Interview\n\nOur average process takes around 2-3 weeks but we will always work around your availability. You will have the chance to speak to our recruitment team at various points during your process.\n\nOne of our recruiters has written a blog on the process, for extra details, hints and tips please see Data Hiring at Monzo\n\nWhat’s in it for you:\n\n💰 £95,000 to £130,000 + Incentive Awards tied to your performance + Benefits\n\n✈️ We can help you relocate to the UK or Spain\n\n✅ We can sponsor visas&nbsp;\n\n📍This role can be based in our London or Barcelona offices, but we're also open to distributed working within the UK (with ad hoc meetings in London).\n\n⏰ We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.\n\n📚Learning budget of £1,000 a year for books, training courses and conferences\n\n➕And much more, see our full list of benefits here\n\nIf you prefer to work part-time, we'll make this happen whenever we can - whether this is to help you meet other commitments or strike a great work-life balance.\n\n&nbsp;\n\n&nbsp;\n\n#LI-NB2 #LI-Remote\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
    "salary_text": null,
    "key": "greenhouse:monzo:6369658",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
-   "token": "faculty",
-   "id": "aafc6889-c160-4172-b5ae-87a3557830d8",
-   "company": "faculty",
-   "role": "Senior Data Scientist ",
-   "location": "Remote (UK); remote",
-   "url": "https://jobs.ashbyhq.com/faculty/aafc6889-c160-4172-b5ae-87a3557830d8",
-   "posted": "2025-09-09",
-   "updated": "2025-09-09",
-   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\n\n\nABOUT THE TEAM \n\n\n\nOur Defence team is focused on building and embedding human-centered AI solutions which give our nation a competitive edge in the defence sector. We collaborate with our clients to bring ethical, reliable and cutting-edge AI to high-stakes situations and maintain the balance of global powers essential to our liberty.\n\nBecause of the nature of the work we do with our Defence clients, you will need to be eligible for UK Security Clearance (SC) and willing to work between 2 to 4 days per week on-site with  these customers which may require travel to locations throughout the UK.\n\nWhen not required on client sites, you’ll have the flexibility to work from our London office or remotely from elsewhere within the UK.\n\n\n\n\n\n\nABOUT THE ROLE:\n\n\n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions. This role requires hands-on technical excellence combined with crucial team leadership. \n\nYou will define data science approaches, design robust software architectures, mentor junior colleagues, and ensure delivery rigor across projects all while building deep client relationships and solidifying our reputation as a leader in practical, measurable AI.\n\n\n\n\nWHAT YOU'LL BE DOING:\n\n\n\n - Mapping the end-to-end data science approach and designing the associated software Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the sector.\n\n - Conceiving the core data science approach and designing the associated robust software architecture for new engagements.\n\n - Mentoring a small number of data scientists and supporting the professional growth of technical team members on projects.\n\n - Partnering with commercial teams to build client relationships and shape project scope for technical feasibility.\n\n - Contributing to Faculty’s thought leadership and reputation through delivering courses, public speaking, or open-source projects.\n\n - Ensuring best practices are followed throughout the project lifecycle to guarantee high-quality, impactful delivery.\n\n\n\n\nWHO WE'RE LOOKING FOR:\n\n\n\n - You possess senior experience in a professional data science position or a quantitative academic field.\n\n - You demonstrate strong programming skills, with the ability to be a fluent Python programmer, using core libraries (NumPy, Pandas) and a deep-learning framework (e.g., PyTorch).\n\n - You have a deep expertise in core data science paradigms (supervised/unsupervised, NLP, validation), demonstrating a proficiency across the standard data science toolkit, including the ability to develop new, innovative algorithms.\n\n - You bring a leadership mindset, focused on growing the technical capabilities of the team and nurturing a collaborative culture.\n\n - You exhibit commercial awareness, with experience in client-facing work and the ability to translate business problems into a rigorous mathematical framework.\n\n - You are skilled in project planning, assessing technical feasibility, estimating delivery timelines, and leading a team to deliver high-quality work on a strict schedule.\n\n\n\n\nOUR INTERVIEW PROCESS\n\n\n\n - Talent Team Screen (30 minutes)\n\n - Take Home Technical Test\n\n - Technical Interview (90 minutes) \n\n - Commercial Interview (60 minutes)\n\n\n\n#LI-PRIO\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
-   "salary_text": null,
-   "key": "ashby:faculty:aafc6889-c160-4172-b5ae-87a3557830d8",
    "is_new": false,
    "first_seen": "2026-10-09"
   },
@@ -407,22 +375,6 @@
    "description": "Data Engineer&nbsp; &nbsp; &nbsp;&nbsp;\n\n&nbsp;\n\nProlific\n\nProlific is not just another player in the AI space—we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\nThe role\n\nWe're looking for a Data Engineer to help build scalable data solutions that serve teams across the business—from data scientists and analysts to AI engineers and product teams. You'll contribute to both the underlying platform and the way data is used in our products, working in a modern, cloud-native environment where privacy, security, and good data practices are part of how we build.\n\n&nbsp;\n\nWhat you’ll bring to the role\n\n- Technical Expertise: 3+ years building and shipping production-grade data systems, with strong SQL skills and proficiency in Python or another object-oriented language (Java, Scala etc.)\n\n- Familiarity with cloud-native infrastructure—ideally&nbsp;some exposure to Terraform, Kubernetes, or similar IaC and container orchestration tools. We don't expect deep expertise in all of these, but comfort working in this kind of environment matters.\n\n- Experience designing data APIs or services that expose data to applications, or a strong interest in working across the analytical/operational boundary.\n\n- A thoughtful approach to data quality, privacy, and security—you&nbsp;understand that how data is used is as important as how it's moved.\n\n- Strong collaboration skills and comfort working across teams with different priorities—engineers, data scientists, AI engineers, and product.\n\n- A pragmatic, curious mindset—you&nbsp;enjoy keeping up with the field and know when to reach for a new tool versus when to stick with what works.\n\n- Pipeline Management: Hands-on experience with data pipeline tools (Airflow, dbt) and strong ability to optimize for performance and reliability.\n\n- Quality Focus: Commitment to continuously improving product quality, security, and performance through rigorous testing and code reviews.\n\n- Documentation: Meticulous approach to creating and maintaining architecture and systems documentation.\n\n- Problem-Solving: Exceptional analytical skills to troubleshoot complex data issues and implement effective solutions.\n\n- Independence: Capability to ship medium features independently while contributing to the team's overall objectives.\n\n&nbsp;\n\nWhat you’ll be doing in the role&nbsp;\n\n- Build and maintain data pipelines that power analytics, ML workloads, and product-facing applications—from internal databases, SaaS sources, and streaming systems through to the teams and services that consume them.\n\n- Evolve our data platform alongside cloud platform engineers, using infrastructure-as-code (Terraform) and Kubernetes-based deployments (Argo) to keep the platform scalable, reliable, and self-serve.\n\n- System Architecture: Design and implement scalable data infrastructure that accommodates our growing data volume and complexity.\n\n- Develop data services and APIs that expose trusted data to product applications, bridging analytical and operational systems.\n\n- Own data quality and observability, putting monitoring, testing, and alerting in place so issues are caught early and trust in the data stays high.\n\n- Partner with AI engineers, data scientists, analysts, and product teams to understand their data needs and design the right solutions—not just the quickest ones.\n\n- Uphold strong data privacy, security, and compliance practices in everything you build, particularly where data flows into product-facing contexts.\n\n- Technical Documentation: Create and maintain comprehensive documentation of data flows, models, and systems for knowledge sharing.\n\n- Security and Compliance: Ensure all data systems adhere to security best practices and compliance requirements.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioral data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviors into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation—one that reflects the breath and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunities for groundbreaking research. Join us to enjoy a competitive salary, benefits, and remote working within our impactful, mission-driven culture.\n\n&nbsp;\n\nLinks to more information on Prolific\n\nBenefits&nbsp;\n\nExternal Handbook&nbsp;\n\nWebsite&nbsp;\n\nYouTube&nbsp;\n\n&nbsp;\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organization planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal information.",
    "salary_text": null,
    "key": "greenhouse:prolific:4911780101",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "greenhouse",
-   "token": "monzo",
-   "id": "8053177",
-   "company": "Monzo",
-   "role": "Senior Regulatory Reporting Analyst",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8053177",
-   "posted": "2026-07-09",
-   "updated": "2026-09-25",
-   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\n📍London | 💰£56,100 - £64,000 ➕ Incentive Awards tied to your performance ➕ Benefits | Hear from the team ✨ \n\n⭐ Our Regulatory team\n\nWe are looking for a curious, adaptive and data-focused Senior Regulatory Reporting Analyst with a strong attention to detail to join our regulatory reporting team at Monzo. The team is responsible for understanding our prudential regulatory reporting requirements, working on projects and submissions relating to these and collaborating with teams across Monzo.\n\n🔑 You’ll play a key role by…\n\n- Taking ownership of the preparation, analysis and submission of regulatory reporting requirements (e.g. Capital, Liquidity)\n\n- Ensuring compliance with the applicable regulatory interpretations\n\n- Assisting the wider team in producing Monzo’s capital and liquidity regulatory reporting and disclosures (including Pillar 3)\n\n- Executing and improving the controls required to ensure regulatory reporting is timely, accurate and complete\n\n- Ensuring high data quality by performing data profiling and investigating data quality issues\n\n- Using data visualisation tools to build dashboards and facilitate sign-off and useful insights\n\n- Partnering with teams internally to help them make informed business decisions and providing input into new product launches\n\n- Designing brilliant ways to automate your work and leverage technology to ensure we scale with the business\n\n🤩We’d love to hear from you if…\n\n- You have a good understanding of capital requirements, liquidity reports and regulatory frameworks\n\n- You’re excited by data and have a sharp eye for detail\n\n- You have knowledge of coding languages (SQL would be a bonus), although a willingness to learn is just fine&nbsp;\n\n- You have strong analytical skills, high attention to detail and the ability to meet tight deadlines\n\n- You want to automate or enhance recurring processes, particularly by leveraging technology, and implement changes in collaboration with IT and regulatory change teams.\n\n🙌 What’s in it for you\n\n💰 £56,100 - £64,000 ➕ Incentive Awards tied to your performance\n\n📍 This role is based in our London office, with a hybrid working approach\n\n⏰ We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.&nbsp;\n\n📚 £1,000 learning budget each year to use on books, training courses and conferences.\n\n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps:\n\n- Phone call with recruiter\n\n- Initial call with hiring manager (30 mins)\n\n- Technical interview with hiring manager and team member (45 mins)\n\n- Monzo behavioural interview (45 min)\n\nThis process should take around 3 - 4 weeks - your schedule is really important to us, so we promise to be as flexible as possible!&nbsp;\n\nWe’ll only close this role once we have enough applications for the next stage. Please submit your application as soon as possible to make sure you don’t miss out.\n\nWe have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo 🤖&nbsp;You can read them here.\n\n#LI-NZ1\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
-   "salary_text": null,
-   "key": "greenhouse:monzo:8053177",
    "is_new": false,
    "first_seen": "2026-10-09"
   },
@@ -660,7 +612,7 @@
    "url": "https://jobs.ashbyhq.com/tem/a025fb07-7f68-4172-9d6f-0c650c31aefc",
    "posted": "2026-09-10",
    "updated": "2026-09-10",
-   "description": "📈 Who We Are:\n\nWe are rebuilding the energy transaction, making it transparent and fair.\n\nOur goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity.\n\ntem exists to fix a broken global energy market that’s long favoured legacy operators, intermediaries, and opaque pricing. Today’s electricity system was not designed for rapid decarbonisation, AI-driven efficiency or fair access for the actual users - businesses and generators.\n\nWe’ve built the first AI native transaction infrastructure to reinvent how electricity is bought, sold and priced. Our technology is designed to cut out the inefficient fees, automate complex market flows, and bring transparency and fairness to energy transactions at scale.\n\nIn late 2025, after extraordinary growth, we closed a $75 million Series B - led by Lightspeed Venture Partners with participation from Albion, Atomico, Allianz, Hitachi Ventures, Hitachi Ventures, Schroders Capital and others - positioning us for global expansion, deeper product innovation and category leadership.\n\nWe’re scaling internationally and building toward a future where AI-driven infrastructure is foundational to electricity markets worldwide.\n\nSince launch, our modern utility product, known as RED, has already facilitated thousands of business customers and billions in energy transaction value, proving that modern software and AI can transform an industry built on legacy systems.\n\nAt tem, we’re not just building another energy company, we’re rearchitecting market infrastructure so that transparency, efficiency and sustainability become the default, not the exception.\n\n\n\nThe Role\n\nWe're hiring a Senior Data Analyst.\n\nThis is not a reporting-only role. Embedded day to day within our commercial team, you'll be responsible for the core metrics that matter to the business - conversion rate, contracted volume, total sales, and margins - building on the pipeline tracking, forecasting and partner reporting that already exists. Priorities are set jointly with commercial; performance and development sit with the Analytics Manager, who you'll report into.\n\nAs a senior analyst, you'll take ambiguous commercial questions, decide the right approach, and turn analysis into clear recommendations rather than just presenting numbers. Success isn't measured by dashboards shipped - it's measured by whether stakeholders have metrics they understand and trust, analysis that changes what people do, and a team that can increasingly self-serve the answers it needs.\n\nResponsibilities\n\nPipeline & Revenue Forecasting Accuracy\n\n - Monitor the sales pipeline, catching and resolving cases where in-progress and confirmed revenue overlap or deals get double-counted.\n\n - Define and report on forecast accuracy against annual targets, setting the standard for how commercial metrics are tracked across the team.\n\n - Diagnose CRM data quality issues, such as parent-child asset relationships, that put pipeline and forecast reliability at risk.\n\nCommercial Analysis & Insight\n\n - Carry out commercial opportunity sizing and partner performance analysis to support sales and leadership decisions.\n\n - Identify underperformance, emerging trends and risks in the pipeline before they surface in headline forecast numbers.\n\n - Serve as the voice of data for the commercial team, translating complex analysis, including retention and renewal trends, into clear recommendations for senior stakeholders.\n\nPartnership & Storytelling\n\n - Work directly with commercial and sales stakeholders to understand what \"good\" looks like for their metrics, and translate that into clear, agreed definitions.\n\n - Translate complex data into clear, compelling stories that inspire action among non-technical stakeholders.\n\n - Increase data adoption across the commercial team so non-technical colleagues can self-serve for routine needs.\n\nRequirements\n\nMust haves\n\n - Solid SQL skills, used to investigate complex datasets across modern analytics stacks (e.g. dbt, Omni or similar BI tools).\n\n - Good commercial understanding, with an ability to connect analytical findings to revenue and margin outcomes.\n\n - Experience developing forecasts or scenario models, and explaining the drivers behind variance from actuals.\n\n - Ability to turn ambiguous stakeholder questions into well-defined analytical problems, and to present recommendations clearly to senior stakeholders.\n\n - Proven experience building trusted metrics or reporting from messy or inconsistent source data (e.g. CRM, transactional systems).\n\nBonus points\n\n - Experience in energy, fintech, or another commercially complex, data-heavy sector.\n\n - Python for deeper statistical or data-quality work.\n\n - Experience building metric frameworks that connect operational activity to commercial outcomes.\n\n - Familiarity with CRM systems and parent-child/account hierarchy data structures.\n\nBenefits & Perks\n\n - Competitive salary of £75,000 - 92,500GBP (or equivalent in your local currency)\n\n - Stock options so everyone has ownership in our mission.\n\n - 25 days holiday plus public holidays. Swap public holidays for the ones that matter most to you, and enjoy your birthday off.\n\n - Remote first within the UK and Europe.\n\nInterview Process\n\n - Intro call with Talent, 30 minutes.\n\n - Behavioural Interview with the Hiring Manager, 60 minutes.\n\n - Technical Skills interview with the team, 60 minutes.\n\n - Bar Raiser interview with leadership stakeholders, 45 minutes.\n\n\n\nWe welcome applications from people of all backgrounds, experiences, and identities, including those that are traditionally underrepresented in the tech and energy sectors. If you’re excited about this role but not sure you meet every requirement, we’d still love to hear from you. Your unique perspective could be exactly what we’re looking for.",
+   "description": "📈 Who We Are:\n\nWe are rebuilding the energy transaction, making it transparent and fair.\n\nOur goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity.\n\ntem exists to fix a broken global energy market that’s long favoured legacy operators, intermediaries, and opaque pricing. Today’s electricity system was not designed for rapid decarbonisation, AI-driven efficiency or fair access for the actual users - businesses and generators.\n\nWe’ve built the first AI native transaction infrastructure to reinvent how electricity is bought, sold and priced. Our technology is designed to cut out the inefficient fees, automate complex market flows, and bring transparency and fairness to energy transactions at scale.\n\nIn late 2025, after extraordinary growth, we closed a $75 million Series B - led by Lightspeed Venture Partners with participation from Albion, Atomico, Allianz, Hitachi Ventures, Hitachi Ventures, Schroders Capital and others - positioning us for global expansion, deeper product innovation and category leadership.\n\nWe’re scaling internationally and building toward a future where AI-driven infrastructure is foundational to electricity markets worldwide.\n\nSince launch, our modern utility product, known as RED, has already facilitated thousands of business customers and billions in energy transaction value, proving that modern software and AI can transform an industry built on legacy systems.\n\nAt tem, we’re not just building another energy company, we’re rearchitecting market infrastructure so that transparency, efficiency and sustainability become the default, not the exception.\n\n\n\nThe Role\n\nWe're hiring a Senior Data Analyst.\n\nThis is not a reporting-only role. Embedded day to day within our commercial team, you'll be responsible for the core metrics that matter to the business - conversion rate, contracted volume, total sales, and margins - building on the pipeline tracking, forecasting and partner reporting that already exists. Priorities are set jointly with commercial; performance and development sit with the Analytics Manager, who you'll report into.\n\nAs a senior analyst, you'll take ambiguous commercial questions, decide the right approach, and turn analysis into clear recommendations rather than just presenting numbers. Success isn't measured by dashboards shipped - it's measured by whether stakeholders have metrics they understand and trust, analysis that changes what people do, and a team that can increasingly self-serve the answers it needs.\n\nResponsibilities\n\nPipeline & Revenue Forecasting Accuracy\n\n - Monitor the sales pipeline, catching and resolving cases where in-progress and confirmed revenue overlap or deals get double-counted.\n\n - Define and report on forecast accuracy against annual targets, setting the standard for how commercial metrics are tracked across the team.\n\n - Diagnose CRM data quality issues, such as parent-child asset relationships, that put pipeline and forecast reliability at risk.\n\nCommercial Analysis & Insight\n\n - Carry out commercial opportunity sizing and partner performance analysis to support sales and leadership decisions.\n\n - Identify underperformance, emerging trends and risks in the pipeline before they surface in headline forecast numbers.\n\n - Serve as the voice of data for the commercial team, translating complex analysis, including retention and renewal trends, into clear recommendations for senior stakeholders.\n\nPartnership & Storytelling\n\n - Work directly with commercial and sales stakeholders to understand what \"good\" looks like for their metrics, and translate that into clear, agreed definitions.\n\n - Translate complex data into clear, compelling stories that inspire action among non-technical stakeholders.\n\n - Increase data adoption across the commercial team so non-technical colleagues can self-serve for routine needs.\n\nRequirements\n\nMust haves\n\n - Solid SQL skills, used to investigate complex datasets across modern analytics stacks (e.g. dbt, Omni or similar BI tools).\n\n - Good commercial understanding, with an ability to connect analytical findings to revenue and margin outcomes.\n\n - Experience developing forecasts or scenario models, and explaining the drivers behind variance from actuals.\n\n - Ability to turn ambiguous stakeholder questions into well-defined analytical problems, and to present recommendations clearly to senior stakeholders.\n\n - Proven experience building trusted metrics or reporting from messy or inconsistent source data (e.g. CRM, transactional systems).\n\nBonus points\n\n - Experience in energy, fintech, or another commercially complex, data-heavy sector.\n\n - Python for deeper statistical or data-quality work.\n\n - Experience building metric frameworks that connect operational activity to commercial outcomes.\n\n - Familiarity with CRM systems and parent-child/account hierarchy data structures.\n\nBenefits & Perks\n\n - Competitive salary of £75,000 - 92,500GBP (or equivalent in your local currency)\n\n - Stock options so everyone has ownership in our mission.\n\n - 25 days holiday plus public holidays. Swap public holidays for the ones that matter most to you, and enjoy your birthday off.\n\n - Remote first within the UK and Europe.\n\nInterview Process\n\n - Intro call with Talent, 30 minutes.\n\n - Behavioural Interview with the Hiring Manager, 60 minutes.\n\n - Technical Skills interview with the team, 75 minutes.\n\n - Bar Raiser interview with leadership stakeholders, 45 minutes.\n\n\n\nWe welcome applications from people of all backgrounds, experiences, and identities, including those that are traditionally underrepresented in the tech and energy sectors. If you’re excited about this role but not sure you meet every requirement, we’d still love to hear from you. Your unique perspective could be exactly what we’re looking for.",
    "salary_text": "£75K – £92.5K • Offers Equity",
    "key": "ashby:tem:a025fb07-7f68-4172-9d6f-0c650c31aefc",
    "is_new": false,
@@ -692,7 +644,7 @@
    "url": "https://jobs.ashbyhq.com/tem/08acef65-b3e5-4d4a-b761-995f5b526642",
    "posted": "2026-09-10",
    "updated": "2026-09-10",
-   "description": "📈 Who We Are:\n\nWe are rebuilding the energy transaction, making it transparent and fair.\n\nOur goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity.\n\ntem exists to fix a broken global energy market that’s long favoured legacy operators, intermediaries, and opaque pricing. Today’s electricity system was not designed for rapid decarbonisation, AI-driven efficiency or fair access for the actual users - businesses and generators.\n\nWe’ve built the first AI native transaction infrastructure to reinvent how electricity is bought, sold and priced. Our technology is designed to cut out the inefficient fees, automate complex market flows, and bring transparency and fairness to energy transactions at scale.\n\nIn late 2025, after extraordinary growth, we closed a $75 million Series B - led by Lightspeed Venture Partners with participation from Albion, Atomico, Allianz, Hitachi Ventures, Hitachi Ventures, Schroders Capital and others - positioning us for global expansion, deeper product innovation and category leadership.\n\nWe’re scaling internationally and building toward a future where AI-driven infrastructure is foundational to electricity markets worldwide.\n\nSince launch, our modern utility product, known as RED, has already facilitated thousands of business customers and billions in energy transaction value, proving that modern software and AI can transform an industry built on legacy systems.\n\nAt tem, we’re not just building another energy company, we’re rearchitecting market infrastructure so that transparency, efficiency and sustainability become the default, not the exception.\n\n\n\nThe Role\n\nWe're hiring a Staff Data Analyst.\n\nThis is not a reporting-only role. Embedded day to day within our commercial team, you'll be responsible for the core metrics that matter to the business - conversion rate, contracted volume, total sales, and margins - building on the pipeline tracking, forecasting and partner reporting that already exists. Priorities are set jointly with commercial; performance and development sit with the Analytics Manager, who you'll report into.\n\nAs a senior analyst, you'll take ambiguous commercial questions, decide the right approach, and turn analysis into clear recommendations rather than just presenting numbers. Success isn't measured by dashboards shipped - it's measured by whether stakeholders have metrics they understand and trust, analysis that changes what people do, and a team that can increasingly self-serve the answers it needs.\n\nResponsibilities\n\nPipeline & Revenue Forecasting Accuracy\n\n - Monitor the sales pipeline, catching and resolving cases where in-progress and confirmed revenue overlap or deals get double-counted.\n\n - Define and report on forecast accuracy against annual targets, setting the standard for how commercial metrics are tracked across the team.\n\n - Diagnose CRM data quality issues, such as parent-child asset relationships, that put pipeline and forecast reliability at risk.\n\nCommercial Analysis & Insight\n\n - Carry out commercial opportunity sizing and partner performance analysis to support sales and leadership decisions.\n\n - Identify underperformance, emerging trends and risks in the pipeline before they surface in headline forecast numbers.\n\n - Serve as the voice of data for the commercial team, translating complex analysis, including retention and renewal trends, into clear recommendations for senior stakeholders.\n\nPartnership & Storytelling\n\n - Work directly with commercial and sales stakeholders to understand what \"good\" looks like for their metrics, and translate that into clear, agreed definitions.\n\n - Translate complex data into clear, compelling stories that inspire action among non-technical stakeholders.\n\n - Increase data adoption across the commercial team so non-technical colleagues can self-serve for routine needs.\n\nRequirements\n\nMust haves\n\n - Solid SQL skills, used to investigate complex datasets across modern analytics stacks (e.g. dbt, Omni or similar BI tools).\n\n - Good commercial understanding, with an ability to connect analytical findings to revenue and margin outcomes.\n\n - Experience developing forecasts or scenario models, and explaining the drivers behind variance from actuals.\n\n - Ability to turn ambiguous stakeholder questions into well-defined analytical problems, and to present recommendations clearly to senior stakeholders.\n\n - Proven experience building trusted metrics or reporting from messy or inconsistent source data (e.g. CRM, transactional systems).\n\nBonus points\n\n - Experience in energy, fintech, or another commercially complex, data-heavy sector.\n\n - Python for deeper statistical or data-quality work.\n\n - Experience building metric frameworks that connect operational activity to commercial outcomes.\n\n - Familiarity with CRM systems and parent-child/account hierarchy data structures.\n\nBenefits & Perks\n\n - Competitive salary of £92,500 - 101,000GBP (or equivalent in your local currency)\n\n - Stock options so everyone has ownership in our mission.\n\n - 25 days holiday plus public holidays. Swap public holidays for the ones that matter most to you, and enjoy your birthday off.\n\n - Remote first within the UK and Europe.\n\nInterview Process\n\n - Intro call with Talent, 30 minutes.\n\n - Behavioural Interview with the Hiring Manager, 60 minutes.\n\n - Technical Skills interview with the team, 60 minutes.\n\n - Bar Raiser interview with leadership stakeholders, 45 minutes.\n\n\n\nWe welcome applications from people of all backgrounds, experiences, and identities, including those that are traditionally underrepresented in the tech and energy sectors. If you’re excited about this role but not sure you meet every requirement, we’d still love to hear from you. Your unique perspective could be exactly what we’re looking for.",
+   "description": "📈 Who We Are:\n\nWe are rebuilding the energy transaction, making it transparent and fair.\n\nOur goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity.\n\ntem exists to fix a broken global energy market that’s long favoured legacy operators, intermediaries, and opaque pricing. Today’s electricity system was not designed for rapid decarbonisation, AI-driven efficiency or fair access for the actual users - businesses and generators.\n\nWe’ve built the first AI native transaction infrastructure to reinvent how electricity is bought, sold and priced. Our technology is designed to cut out the inefficient fees, automate complex market flows, and bring transparency and fairness to energy transactions at scale.\n\nIn late 2025, after extraordinary growth, we closed a $75 million Series B - led by Lightspeed Venture Partners with participation from Albion, Atomico, Allianz, Hitachi Ventures, Hitachi Ventures, Schroders Capital and others - positioning us for global expansion, deeper product innovation and category leadership.\n\nWe’re scaling internationally and building toward a future where AI-driven infrastructure is foundational to electricity markets worldwide.\n\nSince launch, our modern utility product, known as RED, has already facilitated thousands of business customers and billions in energy transaction value, proving that modern software and AI can transform an industry built on legacy systems.\n\nAt tem, we’re not just building another energy company, we’re rearchitecting market infrastructure so that transparency, efficiency and sustainability become the default, not the exception.\n\n\n\nThe Role\n\nWe're hiring a Staff Data Analyst.\n\nThis is not a reporting-only role. Embedded day to day within our commercial team, you'll be responsible for the core metrics that matter to the business - conversion rate, contracted volume, total sales, and margins - building on the pipeline tracking, forecasting and partner reporting that already exists. Priorities are set jointly with commercial; performance and development sit with the Analytics Manager, who you'll report into.\n\nAs a senior analyst, you'll take ambiguous commercial questions, decide the right approach, and turn analysis into clear recommendations rather than just presenting numbers. Success isn't measured by dashboards shipped - it's measured by whether stakeholders have metrics they understand and trust, analysis that changes what people do, and a team that can increasingly self-serve the answers it needs.\n\nResponsibilities\n\nPipeline & Revenue Forecasting Accuracy\n\n - Monitor the sales pipeline, catching and resolving cases where in-progress and confirmed revenue overlap or deals get double-counted.\n\n - Define and report on forecast accuracy against annual targets, setting the standard for how commercial metrics are tracked across the team.\n\n - Diagnose CRM data quality issues, such as parent-child asset relationships, that put pipeline and forecast reliability at risk.\n\nCommercial Analysis & Insight\n\n - Carry out commercial opportunity sizing and partner performance analysis to support sales and leadership decisions.\n\n - Identify underperformance, emerging trends and risks in the pipeline before they surface in headline forecast numbers.\n\n - Serve as the voice of data for the commercial team, translating complex analysis, including retention and renewal trends, into clear recommendations for senior stakeholders.\n\nPartnership & Storytelling\n\n - Work directly with commercial and sales stakeholders to understand what \"good\" looks like for their metrics, and translate that into clear, agreed definitions.\n\n - Translate complex data into clear, compelling stories that inspire action among non-technical stakeholders.\n\n - Increase data adoption across the commercial team so non-technical colleagues can self-serve for routine needs.\n\nRequirements\n\nMust haves\n\n - Solid SQL skills, used to investigate complex datasets across modern analytics stacks (e.g. dbt, Omni or similar BI tools).\n\n - Good commercial understanding, with an ability to connect analytical findings to revenue and margin outcomes.\n\n - Experience developing forecasts or scenario models, and explaining the drivers behind variance from actuals.\n\n - Ability to turn ambiguous stakeholder questions into well-defined analytical problems, and to present recommendations clearly to senior stakeholders.\n\n - Proven experience building trusted metrics or reporting from messy or inconsistent source data (e.g. CRM, transactional systems).\n\nBonus points\n\n - Experience in energy, fintech, or another commercially complex, data-heavy sector.\n\n - Python for deeper statistical or data-quality work.\n\n - Experience building metric frameworks that connect operational activity to commercial outcomes.\n\n - Familiarity with CRM systems and parent-child/account hierarchy data structures.\n\nBenefits & Perks\n\n - Competitive salary of £92,500 - 101,000GBP (or equivalent in your local currency)\n\n - Stock options so everyone has ownership in our mission.\n\n - 25 days holiday plus public holidays. Swap public holidays for the ones that matter most to you, and enjoy your birthday off.\n\n - Remote first within the UK and Europe.\n\nInterview Process\n\n - Intro call with Talent, 30 minutes.\n\n - Behavioural Interview with the Hiring Manager, 60 minutes.\n\n - Technical Skills interview with the team, 75 minutes.\n\n - Bar Raiser interview with leadership stakeholders, 45 minutes.\n\n\n\nWe welcome applications from people of all backgrounds, experiences, and identities, including those that are traditionally underrepresented in the tech and energy sectors. If you’re excited about this role but not sure you meet every requirement, we’d still love to hear from you. Your unique perspective could be exactly what we’re looking for.",
    "salary_text": "£92.5K – £101K • Offers Equity",
    "key": "ashby:tem:08acef65-b3e5-4d4a-b761-995f5b526642",
    "is_new": false,
@@ -777,6 +729,22 @@
    "key": "greenhouse:deliveroo:8202372",
    "is_new": false,
    "first_seen": "2026-10-09"
+  },
+  {
+   "ats": "lever",
+   "token": "zopa",
+   "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "company": "zopa",
+   "role": "Senior BI Analyst (Collections & Recoveries)",
+   "location": "London; hybrid",
+   "url": "https://jobs.lever.co/zopa/9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "posted": "2026-09-19",
+   "updated": null,
+   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring Senior BI Analysts to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \nThe opportunity \nThis role has a strong BI and reporting focus, with a meaningful element of data modelling and collaboration with Analytics Engineering. You will build trusted data pipelines, establish semantic layers with clearly defined metrics and design self-serve reporting. You will enable analysis at scale and help teams monitor performance, identify opportunities and make informed decisions. \nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- \nSupport performance monitoring across either operational or risk-focused domains\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation  \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders.  \n\n- \nAn organised, curious approach to problem solving and managing priorities\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- \nExperience analysing credit, operational or customer performance metrics would be useful",
+   "salary_text": null,
+   "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "is_new": false,
+   "first_seen": "2026-10-12"
   },
   {
    "ats": "ashby",
