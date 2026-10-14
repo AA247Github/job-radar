@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T12:56:05Z",
+ "generated_at": "2026-10-14T10:33:17Z",
  "counts": {
   "matches": 56,
   "new": 0,
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 156
+   "open_jobs": 154
   },
   {
    "ats": "greenhouse",
@@ -25,7 +25,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 67
+   "open_jobs": 66
   },
   {
    "ats": "greenhouse",
@@ -40,7 +40,7 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 96
+   "open_jobs": 94
   },
   {
    "ats": "greenhouse",
@@ -65,7 +65,7 @@
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 16
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
@@ -80,7 +80,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 46
+   "open_jobs": 50
   },
   {
    "ats": "ashby",
@@ -95,42 +95,42 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 18
+   "open_jobs": 17
   },
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 34
+   "open_jobs": 35
   },
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 24
+   "open_jobs": 27
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 69
+   "open_jobs": 66
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 81
+   "open_jobs": 80
   },
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 20
+   "open_jobs": 19
   },
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 310
+   "open_jobs": 312
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 937
+   "open_jobs": 942
   },
   {
    "ats": "lever",
@@ -140,12 +140,12 @@
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 14
+   "open_jobs": 13
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 520
+   "open_jobs": 532
   }
  ],
  "discovered_tokens": [
@@ -176,7 +176,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 217,
+   "open_jobs": 219,
    "matching": 5
   },
   {
@@ -194,7 +194,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 137,
+   "open_jobs": 145,
    "matching": 4
   },
   {
@@ -212,7 +212,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 125,
+   "open_jobs": 130,
    "matching": 1
   }
  ],
@@ -468,7 +468,7 @@
    "url": "https://jobs.ashbyhq.com/paddle/938c6fbe-3167-4264-bca5-3b4ad104adee",
    "posted": "2026-08-13",
    "updated": "2026-08-13",
-   "description": "What do we do?\n\nPaddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better. \n\nWe’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 6000 software sellers in 245 territories globally. \n\n\n\nThe Role:  \n\nWe are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with business stakeholders to identify and deliver high-value data solutions and provide informal mentorship to junior team members, fostering their growth and enhancing team capabilities.\n\n\n\nWhat you'll do: \n\n - Create and maintain complex, scalable data models in Snowflake using dbt.\n\n - Expose datasets effectively in BI tooling to enable robust self-service analytics.\n\n - Perform simple data ingestion tasks using no-code tools and ensure streamlined data flows.\n\n - Add comprehensive metadata to datasets, including documentation, data quality checks, and sensitive data masking.\n\n - Activate data by pushing it from Snowflake into other operational tools.\n\n - Proactively identify and raise data quality issues to the respective process owners for resolution.\n\n - Lead training sessions and initiatives to drive adoption and effective use of BI tools across the organization.\n\n - Mentor junior analytics engineers, fostering knowledge-sharing and professional growth.\n\n\n\nWe'd love to hear from you if you:\n\n - Extensive experience in analytics engineering or related data roles, with demonstrated expertise in advanced SQL, dbt, and Snowflake.\n\n - Proficient in using BI tools (e.g. Tableau, Looker, PowerBI, Snowsight) to deliver clear, actionable insights for business stakeholders.\n\n - Skilled in performing data ingestion and activation using no-code tools (e.g. Fivetran, Stitch), ensuring efficient data integration into operational systems.\n\n - Knowledgeable in managing metadata, documentation, data quality checks, and sensitive data masking effectively.\n\n - Effective at collaborating closely with diverse stakeholders, understanding their data needs, and delivering impactful solutions.\n\n - Experienced in conducting training sessions and providing informal mentorship to junior analytics team members, fostering a collaborative and knowledge-sharing environment.\n\n\n\nEveryone is welcome at Paddle\n\nAt Paddle, we’re committed to removing invisible barriers, both for our customers and within our own teams. We recognise and celebrate that every Paddler is unique and we welcome every individual perspective. As an inclusive employer we don’t care if, or where, you studied, what you look like or where you’re from. We’re more interested in your craft, curiosity, passion for learning and what you’ll add to our culture. We encourage you to apply even if you don’t match every part of the job ad, especially if you’re part of an underrepresented group. \n\nPlease let us know if there’s anything we can do to better support you through the application process and in the workplace. We will do everything we can to support any accommodations needed. We’re committed to building a diverse team where everyone feels safe to be their authentic self. Let’s grow together.\n\n\nOur Values\n\n - Paddle Together - “None of us, is as smart as all of us” \n\n - Paddle Simply - “Simple can be harder than complex: you have to get your thinking clean to make it simple”\n\n - Paddle for others - “We can realise our wildest dreams, so long as we help enough other people to realise theirs”\n\n\n\nWhy you’ll love working at Paddle\n\nWe are a diverse, growing group of Paddlers across the globe who pride ourselves on our transparent, collaborative and respectful culture.\n\nWe are a ‘digital-first’ company, which means you can work remotely, from one of our stylish  hubs, or even a bit of both! We offer all team members unlimited holidays and 4 months paid family leave regardless of gender. We invest in learning and will help you with your personal development via constant exposure to new challenges, an annual learning fund, and regular internal and external training.",
+   "description": "What do we do?\n\nPaddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better. \n\nWe’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally. \n\n\n\nThe Role:  \n\nWe are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with business stakeholders to identify and deliver high-value data solutions and provide informal mentorship to junior team members, fostering their growth and enhancing team capabilities.\n\n\n\nWhat you'll do: \n\n - Create and maintain complex, scalable data models in Snowflake using dbt.\n\n - Expose datasets effectively in BI tooling to enable robust self-service analytics.\n\n - Perform simple data ingestion tasks using no-code tools and ensure streamlined data flows.\n\n - Add comprehensive metadata to datasets, including documentation, data quality checks, and sensitive data masking.\n\n - Activate data by pushing it from Snowflake into other operational tools.\n\n - Proactively identify and raise data quality issues to the respective process owners for resolution.\n\n - Lead training sessions and initiatives to drive adoption and effective use of BI tools across the organization.\n\n - Mentor junior analytics engineers, fostering knowledge-sharing and professional growth.\n\n\n\nWe'd love to hear from you if you:\n\n - Extensive experience in analytics engineering or related data roles, with demonstrated expertise in advanced SQL, dbt, and Snowflake.\n\n - Proficient in using BI tools (e.g. Tableau, Looker, PowerBI, Snowsight) to deliver clear, actionable insights for business stakeholders.\n\n - Skilled in performing data ingestion and activation using no-code tools (e.g. Fivetran, Stitch), ensuring efficient data integration into operational systems.\n\n - Knowledgeable in managing metadata, documentation, data quality checks, and sensitive data masking effectively.\n\n - Effective at collaborating closely with diverse stakeholders, understanding their data needs, and delivering impactful solutions.\n\n - Experienced in conducting training sessions and providing informal mentorship to junior analytics team members, fostering a collaborative and knowledge-sharing environment.\n\n\n\nEveryone is welcome at Paddle\n\nAt Paddle, we’re committed to removing invisible barriers, both for our customers and within our own teams. We recognise and celebrate that every Paddler is unique and we welcome every individual perspective. As an inclusive employer, we don’t care if, or where, you studied, what you look like or where you’re from. We’re more interested in your craft, curiosity, passion for learning and what you’ll add to our culture. We encourage you to apply even if you don’t match every part of the job ad, especially if you’re part of an underrepresented group.\n\nPlease let us know if there’s anything we can do to better support you through the application process and in the workplace. We will do everything we can to support any accommodations needed. We’re committed to building a diverse team where everyone feels safe to be their authentic self. Let’s grow together.\n\n \n\nWhy you’ll love working at Paddle\n\nWe’re a diverse, growing group of Paddlers who pride ourselves on our transparent, collaborative and respectful culture.\n\nWe live and breathe our values, which are:\n\n - Paddle Together - “None of us, is as smart as all of us”\n\n - Paddle Simply - “Simple can be harder than complex: you have to get your thinking clean to make it simple”\n\n - Paddle for others - “We can realise our wildest dreams, so long as we help enough other people to realise theirs”\n\n \n\nWe offer a full suite of benefits, including attractive salaries, stock options, unlimited holidays, enhanced parental leave, retirement plans, private healthcare and well-being initiatives.\n\n \n\nWe invest in learning and will help you with your personal development via constant exposure to new challenges, an annual learning fund, and regular internal and external training.\n\n \n\nConnecting at Paddle\n\nWe’re a ‘digital-first’ company, which means our Paddlers always have the freedom to choose where, when and how they work within our hub locations.\n\nWe recognize that where our Paddlers do their best work is unique to them and we provide trust and autonomy for everyone to work in a way which fits them best. We also value the power of connection and have invested in global hubs which help local communities flourish and bring us together for focused collaboration.\n\n \n\nOur Paddle hubs:\n\n - In Europe: UK (London headquarters), Portugal (Lisbon hub), Netherlands and Ireland (Dublin hub)\n\n - In North America: Austin, TX (USA) and Toronto (Canada)\n\nOur hub philosophy creates an engaging experience for all Paddlers, wherever, whenever and however we choose to work.\n\n \n\nTo support this, we focus hiring within our hubs and will always openly share the available locations for each open position on our job description.\n\n ",
    "salary_text": null,
    "key": "ashby:paddle:938c6fbe-3167-4264-bca5-3b4ad104adee",
    "is_new": false,
@@ -692,7 +692,7 @@
    "url": "https://jobs.lever.co/zopa/6d624de1-afcb-4e03-8cd8-40c55f8178d9",
    "posted": "2026-09-18",
    "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe’re looking for a Senior Product Analyst to join our Transaction Enrichment team. At heart this is a data and analytical role — but one where strong product thinking matters as much as technical ability. You'll be expected to care not just about what the data shows, but about what should change as a result. \nYou'll spend your time understanding where our AI-driven transaction enrichment falls short, forming hypotheses, building prototypes to test them, and shaping what we build next. This isn't a research role - you'll be expected to move quickly, make pragmatic trade-offs, and care about what ships and what lands, not just what looks good in a notebook. \nYou'll be comfortable writing code and using LLM APIs directly. You won't be starting from scratch every time - AI coding tools are part of how we work, but you'll need the underlying capability to use them well. \nYour output is insight and evaluation — shaping what we build and the implementation decisions behind it: which prompts work, how data should be processed, where the trade-offs lie. You'll work closely with the Product Manager and Engineering to ensure your findings land in the roadmap and translate into real changes. \nAbout the Transaction Enrichment Team \nThe team sits at the heart of how Zopa turns data into intelligent products. We build and evolve the capabilities that transform raw transaction data into reliable, structured intelligence - so customers can understand their money better, and the rest of the business can build confidently on top of it. \nA core focus is transaction enrichment: tagging merchants, assigning categories, ensuring data quality, and making sure everything integrates cleanly into our broader data models and customer-facing products. \nAs we move toward more AI-first ways of working, the tribe is also rethinking how transaction data should be accessed and used — not just by analysts and product teams, but by AI systems and LLM-powered tools. The work is foundational and long-term in nature: improving systems, shaping strategy, and building capabilities that compound in value over time. \n\n\nA day in the life\n- \nAnalyse enrichment data (using Python and SQL) to understand where and why enrichment falls short — quantifying problems and building the evidence base for what's worth fixing \n\n- \nSurface opportunities the team wouldn't otherwise see: patterns in the data that point to a product gap, a recurring failure mode that suggests a systemic fix, or a signal that something new is worth building \n\n- \nWork out how a proposed solution should actually behave in practice — what inputs it needs, where it will struggle, what trade-offs exist between accuracy, cost, and coverage \n\n- \nBuild quick test harnesses to put a hypothesis in front of data before any engineering resource is committed \n\n- \nDesign and run evaluations — including LLM-as-judge approaches — to give the team real signal on whether a change improves things and where it introduces new problems \n\n- \nTranslate what you find into clear recommendations: what to build, why it matters, and what good looks like — so Product and Engineering can make confident decisions \n\n- \nKeep up with developments in AI and data quality tooling — form a view on which new techniques are worth experimenting with in the enrichment context\n\nAbout you \n- \nComfortable writing code in SQL and/or Python (or a willingness to learn Python and use it with modern AI-assisted tooling) to explore data, clean outputs, call APIs, and prototype ideas  \n\n- \nSome experience working with LLM APIs: calling them, prompting them, structuring their outputs, and understanding why they sometimes give you nonsense \n\n- \nYou think in experiments: you form a hypothesis before looking at the data, design something that could prove you wrong, and interpret results with appropriate scepticism \n\n- \nNaturally curious about messy, imperfect systems — you want to understand why something breaks, not just that it does, and brainstorm ideas to improve it \n\n- \nYou keep the product goal in view: you care about what changes for customers and the business \n\n- \nComfortable owning ambiguous problems: you can scope the work, prioritise what to test first, and know when good enough is actually good enough \n\n- \nClear communicator — you can explain what you built, what you found, and what it means to engineers, PMs, and stakeholders who don't care about the implementation details \n\n- \n1–3 years in an analytical or technical role; experience in fintech, banking, or a fast-paced data-led environment is a plus but not required",
+   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe’re looking for a Senior Product Analyst to join our Transaction Enrichment team. At heart this is a data and analytical role — but one where strong product thinking matters as much as technical ability. You'll be expected to care not just about what the data shows, but about what should change as a result. \nYou'll spend your time understanding where our AI-driven transaction enrichment falls short, forming hypotheses, building prototypes to test them, and shaping what we build next. This isn't a research role - you'll be expected to move quickly, make pragmatic trade-offs, and care about what ships and what lands, not just what looks good in a notebook. \nYou'll be comfortable writing code and using LLM APIs directly. You won't be starting from scratch every time - AI coding tools are part of how we work, but you'll need the underlying capability to use them well. \nYour output is insight and evaluation — shaping what we build and the implementation decisions behind it: which prompts work, how data should be processed, where the trade-offs lie. You'll work closely with the Product Manager and Engineering to ensure your findings land in the roadmap and translate into real changes. \nAbout the Transaction Enrichment Team \nThe team sits at the heart of how Zopa turns data into intelligent products. We build and evolve the capabilities that transform raw transaction data into reliable, structured intelligence - so customers can understand their money better, and the rest of the business can build confidently on top of it. \nA core focus is transaction enrichment: tagging merchants, assigning categories, ensuring data quality, and making sure everything integrates cleanly into our broader data models and customer-facing products. \nAs we move toward more AI-first ways of working, the tribe is also rethinking how transaction data should be accessed and used — not just by analysts and product teams, but by AI systems and LLM-powered tools. The work is foundational and long-term in nature: improving systems, shaping strategy, and building capabilities that compound in value over time. \n\n\nA day in the life\n- \nAnalyse enrichment data (using Python and SQL) to understand where and why enrichment falls short — quantifying problems and building the evidence base for what's worth fixing \n\n- \nSurface opportunities the team wouldn't otherwise see: patterns in the data that point to a product gap, a recurring failure mode that suggests a systemic fix, or a signal that something new is worth building \n\n- \nWork out how a proposed solution should actually behave in practice — what inputs it needs, where it will struggle, what trade-offs exist between accuracy, cost, and coverage \n\n- \nBuild quick test harnesses to put a hypothesis in front of data before any engineering resource is committed \n\n- \nDesign and run evaluations — including LLM-as-judge approaches — to give the team real signal on whether a change improves things and where it introduces new problems \n\n- \nTranslate what you find into clear recommendations: what to build, why it matters, and what good looks like — so Product and Engineering can make confident decisions \n\n- \nKeep up with developments in AI and data quality tooling — form a view on which new techniques are worth experimenting with in the enrichment context\n\nAbout you \n- \nComfortable writing code in SQL and/or Python (or a willingness to learn Python and use it with modern AI-assisted tooling) to explore data, clean outputs, call APIs, and prototype ideas  \n\n- \nSome experience working with LLM APIs (this could be at work, personal projects or education): calling them, prompting them, structuring their outputs, and understanding why they sometimes give you nonsense \n\n- \nYou think in experiments: you form a hypothesis before looking at the data, design something that could prove you wrong, and interpret results with appropriate scepticism \n\n- \nNaturally curious about messy, imperfect systems — you want to understand why something breaks, not just that it does, and brainstorm ideas to improve it \n\n- \nYou keep the product goal in view: you care about what changes for customers and the business \n\n- \nComfortable owning ambiguous problems: you can scope the work, prioritise what to test first, and know when good enough is actually good enough \n\n- \nClear communicator — you can explain what you built, what you found, and what it means to engineers, PMs, and stakeholders who don't care about the implementation details \n\n- \n1–3 years in an analytical or technical role; experience in fintech, banking, or a fast-paced data-led environment is a plus but not required",
    "salary_text": null,
    "key": "lever:zopa:6d624de1-afcb-4e03-8cd8-40c55f8178d9",
    "is_new": false,
