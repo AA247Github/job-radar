@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T10:33:17Z",
+ "generated_at": "2026-10-15T10:16:09Z",
  "counts": {
   "matches": 56,
-  "new": 0,
+  "new": 1,
   "boards_ok": 28,
   "boards_failed": 0
  },
@@ -10,27 +10,27 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 154
+   "open_jobs": 153
   },
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 45
+   "open_jobs": 46
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 28
+   "open_jobs": 29
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 66
+   "open_jobs": 68
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 20
+   "open_jobs": 21
   },
   {
    "ats": "greenhouse",
@@ -40,12 +40,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 94
+   "open_jobs": 102
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 30
+   "open_jobs": 31
   },
   {
    "ats": "greenhouse",
@@ -55,7 +55,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 31
+   "open_jobs": 30
   },
   {
    "ats": "greenhouse",
@@ -65,7 +65,7 @@
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 15
+   "open_jobs": 13
   },
   {
    "ats": "ashby",
@@ -95,12 +95,12 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 17
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 35
+   "open_jobs": 36
   },
   {
    "ats": "ashby",
@@ -110,12 +110,12 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 66
+   "open_jobs": 68
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 80
+   "open_jobs": 78
   },
   {
    "ats": "ashby",
@@ -125,12 +125,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 312
+   "open_jobs": 314
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 942
+   "open_jobs": 952
   },
   {
    "ats": "lever",
@@ -140,12 +140,12 @@
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 13
+   "open_jobs": 15
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 532
+   "open_jobs": 519
   }
  ],
  "discovered_tokens": [
@@ -164,7 +164,7 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 12,
+   "open_jobs": 15,
    "matching": 4
   },
   {
@@ -176,7 +176,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 219,
+   "open_jobs": 218,
    "matching": 5
   },
   {
@@ -194,13 +194,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 145,
+   "open_jobs": 150,
    "matching": 4
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 30,
+   "open_jobs": 31,
    "matching": 4
   },
   {
@@ -212,12 +212,28 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 130,
+   "open_jobs": 129,
    "matching": 1
   }
  ],
  "failures": [],
  "jobs": [
+  {
+   "ats": "lever",
+   "token": "numan",
+   "id": "24aab881-0037-4349-9c5e-da4e26b35530",
+   "company": "numan",
+   "role": "Senior Analytics Engineer",
+   "location": "London; hybrid",
+   "url": "https://jobs.eu.lever.co/numan/24aab881-0037-4349-9c5e-da4e26b35530",
+   "posted": "2026-06-26",
+   "updated": null,
+   "description": "About Numan \n \nFounded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n \nNuman is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n \nTo deliver on our transformative mission, we are guided by our 5 company values: \n \n• Patients first.\n• Learn fast.\n• Own the quality.\n• Succeed together.\n• Care deeply.\n \nBacked by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n\n\nThe role\nAs Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\nThis is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\nWe are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\nReporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n\n\nYou'll be:\n- \nDesigning, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n\n- \nActing  as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n\n- \nLeading end-to-end delivery of analytical projects: scoping requirements, managing dependencies, identifying critical path and risks, and communicating progress to stakeholders.\n\n- \nMentoring data scientist and analyst data modelling capabilities ; build a culture of best practices, code review, and continuous learning across the data team.\n\n- \nPartnering with clinical, commercial, and product teams to translate complex domain requirements into robust, well-documented data models.\n\n- \nEvaluating, trialing, and championing AI-powered analytics tooling - shaping Numan's strategic direction on emerging technologies and what we adopt as a company.\n\n- \nDriving  data quality, reliability, and governance across the transformation layer, proactively monitoring consumption and resolving issues before they impact stakeholders.\n\nWe're looking for someone who has:\n- \n3–5+ years of experience in an analytics engineering, data engineering, or business intelligence role.\n\n- \nProven track record of owning end-to-end data model design across multiple business domains — ideally spanning at least two of: commercial, marketing, health outcomes, or clinical/operational analytics.\n\n- \nStrong stakeholder management skills, with the confidence to translate complex technical concepts for non-technical audiences including clinical and commercial teams.\n\n- \nExperience setting technical standards and delivering high-quality work within a small, high-performing data team.\n\n- \nSelf-motivated and pragmatic, with a strong instinct for high-impact solutions over over-engineering.\n\n- \nGenuine curiosity about AI and emerging analytics technologies, with a desire to help shape how Numan adopts them.\n\n- \nExpert-level SQL: window functions, CTEs, advanced aggregations, and cloud warehouse-specific optimisation.\n\n- \nDeep proficiency in dbt: models, macros, tests, packages, documentation, exposures, and CI/CD integration.\n\n- \nStrong working knowledge of Google BigQuery (or equivalent cloud data warehouse): query optimisation, incremental loading strategies, and cost management.\n\n- \nExperience with Looker (LookML) or an equivalent BI layer, with a solid understanding of consumption-layer design.\n\n- \nDimensional data modelling expertise: star schemas, slowly changing dimensions, and when to denormalise.\n\n- \nStrong written and verbal communication skills; able to deliver clear, insight-led presentations that tell a compelling story to both technical and non-technical stakeholders.\n\n- \nUnderstanding of data privacy, governance, and compliance requirements — with particular sensitivity to regulated healthcare data.\n\n- \nPractical experience with AI-assisted analytics workflows, or a strong demonstrated appetite to work at the frontier of AI in analytics.\n\nIt's a bonus if you have:\n- \nWorked in a digital consumer scale-up, with experience of delivering high quality work at pace.\n\n- \nHands-on experience evaluating or implementing AI/LLM tooling in a data or analytics context (e.g. semantic layers, natural language querying, AI-assisted documentation).",
+   "salary_text": null,
+   "key": "lever:numan:24aab881-0037-4349-9c5e-da4e26b35530",
+   "is_new": true,
+   "first_seen": "2026-10-15"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -375,22 +391,6 @@
    "description": "Data Engineer&nbsp; &nbsp; &nbsp;&nbsp;\n\n&nbsp;\n\nProlific\n\nProlific is not just another player in the AI space—we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\nThe role\n\nWe're looking for a Data Engineer to help build scalable data solutions that serve teams across the business—from data scientists and analysts to AI engineers and product teams. You'll contribute to both the underlying platform and the way data is used in our products, working in a modern, cloud-native environment where privacy, security, and good data practices are part of how we build.\n\n&nbsp;\n\nWhat you’ll bring to the role\n\n- Technical Expertise: 3+ years building and shipping production-grade data systems, with strong SQL skills and proficiency in Python or another object-oriented language (Java, Scala etc.)\n\n- Familiarity with cloud-native infrastructure—ideally&nbsp;some exposure to Terraform, Kubernetes, or similar IaC and container orchestration tools. We don't expect deep expertise in all of these, but comfort working in this kind of environment matters.\n\n- Experience designing data APIs or services that expose data to applications, or a strong interest in working across the analytical/operational boundary.\n\n- A thoughtful approach to data quality, privacy, and security—you&nbsp;understand that how data is used is as important as how it's moved.\n\n- Strong collaboration skills and comfort working across teams with different priorities—engineers, data scientists, AI engineers, and product.\n\n- A pragmatic, curious mindset—you&nbsp;enjoy keeping up with the field and know when to reach for a new tool versus when to stick with what works.\n\n- Pipeline Management: Hands-on experience with data pipeline tools (Airflow, dbt) and strong ability to optimize for performance and reliability.\n\n- Quality Focus: Commitment to continuously improving product quality, security, and performance through rigorous testing and code reviews.\n\n- Documentation: Meticulous approach to creating and maintaining architecture and systems documentation.\n\n- Problem-Solving: Exceptional analytical skills to troubleshoot complex data issues and implement effective solutions.\n\n- Independence: Capability to ship medium features independently while contributing to the team's overall objectives.\n\n&nbsp;\n\nWhat you’ll be doing in the role&nbsp;\n\n- Build and maintain data pipelines that power analytics, ML workloads, and product-facing applications—from internal databases, SaaS sources, and streaming systems through to the teams and services that consume them.\n\n- Evolve our data platform alongside cloud platform engineers, using infrastructure-as-code (Terraform) and Kubernetes-based deployments (Argo) to keep the platform scalable, reliable, and self-serve.\n\n- System Architecture: Design and implement scalable data infrastructure that accommodates our growing data volume and complexity.\n\n- Develop data services and APIs that expose trusted data to product applications, bridging analytical and operational systems.\n\n- Own data quality and observability, putting monitoring, testing, and alerting in place so issues are caught early and trust in the data stays high.\n\n- Partner with AI engineers, data scientists, analysts, and product teams to understand their data needs and design the right solutions—not just the quickest ones.\n\n- Uphold strong data privacy, security, and compliance practices in everything you build, particularly where data flows into product-facing contexts.\n\n- Technical Documentation: Create and maintain comprehensive documentation of data flows, models, and systems for knowledge sharing.\n\n- Security and Compliance: Ensure all data systems adhere to security best practices and compliance requirements.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioral data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviors into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation—one that reflects the breath and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunities for groundbreaking research. Join us to enjoy a competitive salary, benefits, and remote working within our impactful, mission-driven culture.\n\n&nbsp;\n\nLinks to more information on Prolific\n\nBenefits&nbsp;\n\nExternal Handbook&nbsp;\n\nWebsite&nbsp;\n\nYouTube&nbsp;\n\n&nbsp;\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organization planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal information.",
    "salary_text": null,
    "key": "greenhouse:prolific:4911780101",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
-   "token": "accurx",
-   "id": "c106f996-e0e9-4aeb-89a1-f330f3a605ad",
-   "company": "accurx",
-   "role": "Senior Product Analyst ",
-   "location": "London (Shoreditch); remote",
-   "url": "https://jobs.ashbyhq.com/accurx/c106f996-e0e9-4aeb-89a1-f330f3a605ad",
-   "posted": "2026-07-27",
-   "updated": "2026-07-27",
-   "description": "LONDON/HYBRID \n£60,000 - £80,000 + SHARE OPTIONS UP TO £31,500 + BENEFITS\n\n\n\n\n\n\n💬 ACCURX IS WHERE CONVERSATIONS HAPPEN WITH AND ABOUT PATIENTS.\n\nFor decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n\nWhat started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n\n\n\nOur platform now powers Total Triage https://www.accurx.com/primary-care to manage patient demand, and Self-Book, https://www.accurx.com/booking which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires https://www.accurx.com/questionnaires for long-term conditions, while Accumail https://www.accurx.com/accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe https://www.accurx.com/scribe, our AI-powered note-taker that drafts medical notes in real-time.\n\n\n\n\nTHE TEAM\n\nWe have a massive vision and even more ideas, but right now, our ambitions are outstripping our capacity. We’re looking for a Senior Product Analyst who is ready to be a foundational force in our data function - not just reporting on what happened, but identifying what needs to happen next.\n\n\n\nAt Accurx, we don't just wait for a roadmap to be handed down; we expect you to help shape it. As a Senior, you’ll be a strategic partner to your pod leads, proactively hunting for the insights that will define our next move. You’ll be expected to challenge our assumptions, lead high-stakes projects from end-to-end, and act as a mentor to those around you. This is a role for a high-agency critical thinker who is energised by the \"blank canvas\" of a growing function and has the drive to turn raw data into a better reality for millions of patients.\n\n\n\n\nCHALLENGES YOU’LL SOLVE...\n\n - You will translate product vision into measurable strategy by partnering deeply with Pod Leads to define what success looks like and ensuring every initiative is backed by a robust measurement framework.\n\n - You will lead our experimentation initiatives by independently proposing and running A/B tests - or other rigorous methodologies- to validate product hypotheses and influence our direction.\n\n - You will interrogate user behaviour to find the \"why\" by leading end-to-end analytical projects that look past the surface to find the underlying drivers of engagement and retention.\n\n - You will build the engine for self-service insights by creating the dashboards and mental models that ensure your pod has high-quality data at their fingertips to move fast.\n   \n   \n\n\nYOU SHOULD APPLY IF...\n\n - You are a strategic investigator who identifies trends and bottlenecks before they are raised as tickets, effectively using data to tell us what we should be doing next.\n\n - You have a proven track record of influencing product through strong \"Product Thinking,\" with deep expertise in conversion funnels, activation, retention, and cohort analysis.\n\n - You are an independent project leader who can take a vague business question and turn it into a structured, technical investigation without needing a map.\n\n - You have a high-level technical toolkit, with mastery of SQL and the ability to use Python \n\n - You are a mentor and a multiplier, excited to share your knowledge, elevate the technical bar of the team, and help others communicate their findings more clearly.\n\n - You are a power user of product analytics tools like Mixpanel or Amplitude, capable of setting the standard for how we track and visualise user behaviour across the platform.\n   \n   \n\n\nWHAT’S IN IT FOR ME?\n\nYou'll be joining an established but fast-growing Tech for Good movement, where we're led by our Principles https://www.notion.so/accurx/How-we-work-Accurx-Principles-211640edee304821b4480d3f9c30e051 and our mission https://accurx.notion.site/Mission-and-Vision-fe9b12ff78bd4a7996682fc5c09c2d8e to fix healthcare communication\n\n - £60,000 - £80,000 salary + share options up to £31,500\n\n - Benefits to suit you:  https://accurx.notion.site/Perks-Benefits-f1e9148b71be486791aa2c503e5d775a?pvs=74adjust your healthcare cover, your pension or life insurance, whatever stage you’re at in life\n\n - Flexible working: We are an office-first culture and ask that you’re in our (dog-friendly) Shoreditch office 3 days a week, with core hours of 10am - 4pm\n\n - Time off: You’ll get 28 days of holiday (plus bank holidays) and up to 4 weeks to work from anywhere per year\n\n - Family matters: We offer enhanced parental leave, fertility support and parental loss support\n\n - We have our very own Chef! Free healthy breakfasts, snacks and lunches will be provided, with the occasional sweet treat!",
-   "salary_text": "£60K – £80K • Offers Equity",
-   "key": "ashby:accurx:c106f996-e0e9-4aeb-89a1-f330f3a605ad",
    "is_new": false,
    "first_seen": "2026-10-09"
   },
@@ -836,7 +836,7 @@
    "url": "https://jobs.ashbyhq.com/lendable/4650e4f3-dd9f-46ef-9a90-c1bd6d6f5312",
    "posted": "2026-09-28",
    "updated": "2026-09-28",
-   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. Initial call with an engineer\n\n 2. 15 minute cognitive assessment\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
+   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. 15 minute cognitive assessment\n\n 2. Initial chat\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
    "salary_text": null,
    "key": "ashby:lendable:4650e4f3-dd9f-46ef-9a90-c1bd6d6f5312",
    "is_new": false,
