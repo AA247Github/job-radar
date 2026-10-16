@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-15T10:16:09Z",
+ "generated_at": "2026-10-16T10:05:08Z",
  "counts": {
-  "matches": 56,
-  "new": 1,
+  "matches": 58,
+  "new": 2,
   "boards_ok": 28,
   "boards_failed": 0
  },
@@ -10,22 +10,22 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 153
+   "open_jobs": 148
   },
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 46
+   "open_jobs": 47
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 29
+   "open_jobs": 31
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 68
+   "open_jobs": 71
   },
   {
    "ats": "greenhouse",
@@ -40,12 +40,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 102
+   "open_jobs": 103
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 31
+   "open_jobs": 32
   },
   {
    "ats": "greenhouse",
@@ -55,7 +55,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 30
+   "open_jobs": 29
   },
   {
    "ats": "greenhouse",
@@ -80,7 +80,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 50
+   "open_jobs": 48
   },
   {
    "ats": "ashby",
@@ -100,17 +100,17 @@
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 36
+   "open_jobs": 35
   },
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 27
+   "open_jobs": 31
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 68
+   "open_jobs": 67
   },
   {
    "ats": "ashby",
@@ -125,12 +125,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 314
+   "open_jobs": 309
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 952
+   "open_jobs": 929
   },
   {
    "ats": "lever",
@@ -140,12 +140,12 @@
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 15
+   "open_jobs": 14
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 519
+   "open_jobs": 530
   }
  ],
  "discovered_tokens": [
@@ -176,7 +176,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 218,
+   "open_jobs": 225,
    "matching": 5
   },
   {
@@ -200,39 +200,55 @@
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 31,
+   "open_jobs": 34,
    "matching": 4
   },
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 21,
+   "open_jobs": 22,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 129,
+   "open_jobs": 123,
    "matching": 1
   }
  ],
  "failures": [],
  "jobs": [
   {
-   "ats": "lever",
-   "token": "numan",
-   "id": "24aab881-0037-4349-9c5e-da4e26b35530",
-   "company": "numan",
-   "role": "Senior Analytics Engineer",
-   "location": "London; hybrid",
-   "url": "https://jobs.eu.lever.co/numan/24aab881-0037-4349-9c5e-da4e26b35530",
-   "posted": "2026-06-26",
-   "updated": null,
-   "description": "About Numan \n \nFounded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n \nNuman is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n \nTo deliver on our transformative mission, we are guided by our 5 company values: \n \n• Patients first.\n• Learn fast.\n• Own the quality.\n• Succeed together.\n• Care deeply.\n \nBacked by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n\n\nThe role\nAs Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\nThis is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\nWe are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\nReporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n\n\nYou'll be:\n- \nDesigning, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n\n- \nActing  as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n\n- \nLeading end-to-end delivery of analytical projects: scoping requirements, managing dependencies, identifying critical path and risks, and communicating progress to stakeholders.\n\n- \nMentoring data scientist and analyst data modelling capabilities ; build a culture of best practices, code review, and continuous learning across the data team.\n\n- \nPartnering with clinical, commercial, and product teams to translate complex domain requirements into robust, well-documented data models.\n\n- \nEvaluating, trialing, and championing AI-powered analytics tooling - shaping Numan's strategic direction on emerging technologies and what we adopt as a company.\n\n- \nDriving  data quality, reliability, and governance across the transformation layer, proactively monitoring consumption and resolving issues before they impact stakeholders.\n\nWe're looking for someone who has:\n- \n3–5+ years of experience in an analytics engineering, data engineering, or business intelligence role.\n\n- \nProven track record of owning end-to-end data model design across multiple business domains — ideally spanning at least two of: commercial, marketing, health outcomes, or clinical/operational analytics.\n\n- \nStrong stakeholder management skills, with the confidence to translate complex technical concepts for non-technical audiences including clinical and commercial teams.\n\n- \nExperience setting technical standards and delivering high-quality work within a small, high-performing data team.\n\n- \nSelf-motivated and pragmatic, with a strong instinct for high-impact solutions over over-engineering.\n\n- \nGenuine curiosity about AI and emerging analytics technologies, with a desire to help shape how Numan adopts them.\n\n- \nExpert-level SQL: window functions, CTEs, advanced aggregations, and cloud warehouse-specific optimisation.\n\n- \nDeep proficiency in dbt: models, macros, tests, packages, documentation, exposures, and CI/CD integration.\n\n- \nStrong working knowledge of Google BigQuery (or equivalent cloud data warehouse): query optimisation, incremental loading strategies, and cost management.\n\n- \nExperience with Looker (LookML) or an equivalent BI layer, with a solid understanding of consumption-layer design.\n\n- \nDimensional data modelling expertise: star schemas, slowly changing dimensions, and when to denormalise.\n\n- \nStrong written and verbal communication skills; able to deliver clear, insight-led presentations that tell a compelling story to both technical and non-technical stakeholders.\n\n- \nUnderstanding of data privacy, governance, and compliance requirements — with particular sensitivity to regulated healthcare data.\n\n- \nPractical experience with AI-assisted analytics workflows, or a strong demonstrated appetite to work at the frontier of AI in analytics.\n\nIt's a bonus if you have:\n- \nWorked in a digital consumer scale-up, with experience of delivering high quality work at pace.\n\n- \nHands-on experience evaluating or implementing AI/LLM tooling in a data or analytics context (e.g. semantic layers, natural language querying, AI-assisted documentation).",
+   "ats": "greenhouse",
+   "token": "prolific",
+   "id": "4571081101",
+   "company": "Prolific ",
+   "role": "Analytics Engineer",
+   "location": "Remote, UK",
+   "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/4571081101",
+   "posted": "2025-04-08",
+   "updated": "2026-10-15",
+   "description": "Analytics Engineer\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n&nbsp;&nbsp;Prolific\n\nProlific is not just another player in the AI space—we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\n&nbsp;The role\n\nAs an Analytics Engineer in the Data Infrastructure Team at Prolific, you’ll be at the forefront of transforming and maintaining Prolific’s data infrastructure as the way people work with data changes rapidly. Your work will be instrumental in redesigning and scaling our data stack, ensuring data pipelines are robust, efficient, and reliable, and that our data is ready to be queried by people and AI systems alike. \n&nbsp;\nBy owning and optimising our analytics codebase and semantic layer, you’ll empower teams across the business to get trustworthy answers, whether through BI dashboards or natural language questions. You’ll help shape how we bring LLMs and agents into analytics engineering safely and effectively, and you’ll bridge the gap between technical and non-technical stakeholders so that complex data solutions are clearly understood and aligned with business goals.\n&nbsp;\n&nbsp;\nWhat you’ll bring to the role\n\n- Expertise in dbt &amp; SQL: Deep experience with dbt and SQL to design, build, and maintain scalable data models.\n\n- Semantic Modelling: Experience defining metrics, entities, and business logic in a semantic layer (e.g. dbt Semantic Layer/MetricFlow, Cube, LookML or similar), with an understanding of what makes a model reliable for natural language querying.\n\n- Applied AI in Data Workflows: Hands-on experience using LLMs in data work, such as classification, extraction, or enrichment within transformations, and an understanding of how to evaluate, test, and govern outputs that aren’t fully deterministic.\n\n- Agentic Tooling: Familiarity with AI coding assistants and agents (e.g. Claude Code, Cursor, MCP-based tooling) and a practical view on where they speed up analytics engineering and where human review is essential.\n\n- Cloud Technology Knowledge: Strong familiarity with cloud platforms such as AWS or GCP.\n\n- Data Accuracy Focus: Passion for ensuring high data quality through tests, assertions, evaluations, and robust documentation.\n\n- Commercial Acumen: Ability to understand business needs and communicate effectively with non-technical stakeholders.\n\n- Collaboration: Skilled at working cross functionally and translating complex technical concepts into actionable insights for the business.\n\n- Process-Driven: Proficiency in designing repeatable, scalable workflows for data transformation, including ones that combine automated agents with human oversight.\n\n&nbsp;\n&nbsp;\nWhat you’ll be doing in the role\n\n- Building Data Models: Create complex dbt models, custom macros, and reusable packages. Optimize transformations and implement robust testing strategies to ensure data integrity and model performance.\n\n- Building the Semantic Layer: Design and maintain a semantic layer with well-defined metrics, dimensions, and descriptions so that stakeholders and AI assistants can query company data in natural language and get consistent, accurate answers.\n\n- Introducing Non-Deterministic Transformations: Build and productionise LLM-powered steps within our pipelines, such as categorizing free text or enriching records, with clear evaluation frameworks, cost and latency monitoring, and fallbacks to keep results trustworthy.\n\n- Developing Agentic Workflows: Design and adopt agentic workflows across the analytics engineering lifecycle, including model generation, documentation, test coverage, code review, and incident triage, while defining the guardrails and review processes that keep quality high.\n\n- Ownership: Monitor and maintain dbt workflow jobs, ensuring smooth data refreshes and up-to-date pipelines. You’ll also be responsible for data models powering BI analytics and company-level reporting.\n\n- Ensuring Data Accuracy: Write tests and assertions to validate data integrity and consistency across models, and build evaluation sets to measure the accuracy of natural language and LLM-driven outputs.\n\n- Documenting and Standardising: Create and maintain thorough documentation of dbt processes and semantic definitions, treating metadata as a first-class asset since it directly shapes the quality of AI-generated answers.\n\n- Translating Complex Data Concepts: Act as a key communicator, translating technical data issues into understandable business terms for stakeholders.\n\n- Mentoring Team Members: Support junior analysts and data engineers, especially in setting up experimentation platforms, adopting AI tooling responsibly, and following data best practices.\n\n- Collaborating Across Teams: Work closely with product, engineering, and BI teams to ensure data infrastructure supports evolving business needs, including AI-driven products and internal tools.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioral data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviors into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation—one that reflects the breadth and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunit",
    "salary_text": null,
-   "key": "lever:numan:24aab881-0037-4349-9c5e-da4e26b35530",
+   "key": "greenhouse:prolific:4571081101",
    "is_new": true,
-   "first_seen": "2026-10-15"
+   "first_seen": "2026-10-16"
+  },
+  {
+   "ats": "ashby",
+   "token": "lendable",
+   "id": "77e2a14b-f8c2-4b7c-b889-f98c20334e92",
+   "company": "lendable",
+   "role": "Data Analyst (Strategic Projects)",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/lendable/77e2a14b-f8c2-4b7c-b889-f98c20334e92",
+   "posted": "2026-10-16",
+   "updated": "2026-10-16",
+   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe’re building the most advanced, data-driven operating model in fintech. As part of Lendable’s Operations Science & Strategy team, you’ll sit at the intersection of analytics, data science, and AI engineering - using data, LLMs, and automation to transform how our Operations teams work at scale.\n\nYou’ll work directly with senior operations leadership working on special projects to diagnose demand drivers, uncover commercial opportunities, build KPI frameworks, and deploy automation that materially reduces our cost-to-serve while improving customer outcomes.\n\nIf you’re technical, curious, and love owning problems end-to-end, this is the role for you.\n\n\n\n\nWHAT YOU’LL DO\n\n\n1. AUTOMATION & AI ENGINEERING\n\n - Use Python and LLM APIs (e.g. OpenAI) to design and deploy automation that replaces manual CS/FS processes.\n\n - Build prototypes, test with real operations data, and scale the successful ones into production workflows.\n\n - Partner with PMs and engineers to operationalise AI-driven solutions across Operations.\n\n\n2. DEMAND ANALYTICS & STRATEGY\n\n - Analyse key operations demand drivers (contact per customer, reason drivers, seasonality, servicing behaviour).\n\n - Identify levers to reduce avoidable demand and improve customer outcomes.\n\n - Build analytical models that drive decision-making around cost optimisation and resourcing.\n\n\n3. KPI & FUNNEL INTELLIGENCE\n\n - Build clear, robust KPI frameworks and funnel views across customer journeys.\n\n - Translate data into commercial insight, operational efficiency recommendations, and productivity tracking.\n\n - Create metrics that scale across new geographies, products, and teams.\n\n\n4. WORK WITH SENIOR LEADERSHIP\n\n - Work directly with Ops Directors, Heads of CS/FS/Fraud/Complaints, and the COO on strategic initiatives.\n\n - Turn raw data into narrative-driven recommendations that are simple, actionable, and commercially grounded.\n\n - Own analytics for high-impact projects end-to-end.\n   \n\n\nWHAT WE’RE LOOKING FOR\n\n\nMUST-HAVE SKILLS\n\n - 2-3 years of hands-on experience using Python in a professional setting.\n\n - Highly numerate with strong analytical reasoning \n\n - Ability to independently structure analysis, build prototypes, and deliver insights.\n\n - Experience communicating data-driven recommendations to non-technical business stakeholders.\n\n\nNICE-TO-HAVES\n\n - STEM Degree\n\n - Experience with dbt or modern data stacks.\n\n - Familiarity with LLMs, APIs, or interest in building AI automation.\n\n - Exposure to product, strategy, or operations environments.\n\n - Thrives in fast-paced, ambiguous environments.\n\n - Comfortable wearing multiple hats Analyst, Data Scientist, AI Engineer, PM.\n\n - Highly motivated, entrepreneurial mindset, and excited by building the strongest operating model in fintech.\n   \n\n\nWHY JOIN\n\n - Work on high-visibility, high-impact projects that directly shape the future of Lendable’s operations.\n\n - Build automation and analytics used daily by hundreds of agents and thousands of customers.\n\n - Collaborate with a small, sharp, and ambitious team that moves fast.\n\n - Real ownership: if you build it, you’ll see it shipped and scaled.\n\n\n\n\nINTERVIEW PROCESS\n\nScreening Call + Python Questions\n\nLive Technical Python Interview\n\nFinal interviews with 2 senior leaders \n\n\n\n\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
+   "salary_text": null,
+   "key": "ashby:lendable:77e2a14b-f8c2-4b7c-b889-f98c20334e92",
+   "is_new": true,
+   "first_seen": "2026-10-16"
   },
   {
    "ats": "greenhouse",
@@ -379,6 +395,22 @@
    "first_seen": "2026-10-09"
   },
   {
+   "ats": "lever",
+   "token": "numan",
+   "id": "24aab881-0037-4349-9c5e-da4e26b35530",
+   "company": "numan",
+   "role": "Senior Analytics Engineer",
+   "location": "London; hybrid",
+   "url": "https://jobs.eu.lever.co/numan/24aab881-0037-4349-9c5e-da4e26b35530",
+   "posted": "2026-06-26",
+   "updated": null,
+   "description": "About Numan \n \nFounded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n \nNuman is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n \nTo deliver on our transformative mission, we are guided by our 5 company values: \n \n• Patients first.\n• Learn fast.\n• Own the quality.\n• Succeed together.\n• Care deeply.\n \nBacked by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n\n\nThe role\nAs Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\nThis is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\nWe are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\nReporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n\n\nYou'll be:\n- \nDesigning, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n\n- \nActing  as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n\n- \nLeading end-to-end delivery of analytical projects: scoping requirements, managing dependencies, identifying critical path and risks, and communicating progress to stakeholders.\n\n- \nMentoring data scientist and analyst data modelling capabilities ; build a culture of best practices, code review, and continuous learning across the data team.\n\n- \nPartnering with clinical, commercial, and product teams to translate complex domain requirements into robust, well-documented data models.\n\n- \nEvaluating, trialing, and championing AI-powered analytics tooling - shaping Numan's strategic direction on emerging technologies and what we adopt as a company.\n\n- \nDriving  data quality, reliability, and governance across the transformation layer, proactively monitoring consumption and resolving issues before they impact stakeholders.\n\nWe're looking for someone who has:\n- \n3–5+ years of experience in an analytics engineering, data engineering, or business intelligence role.\n\n- \nProven track record of owning end-to-end data model design across multiple business domains — ideally spanning at least two of: commercial, marketing, health outcomes, or clinical/operational analytics.\n\n- \nStrong stakeholder management skills, with the confidence to translate complex technical concepts for non-technical audiences including clinical and commercial teams.\n\n- \nExperience setting technical standards and delivering high-quality work within a small, high-performing data team.\n\n- \nSelf-motivated and pragmatic, with a strong instinct for high-impact solutions over over-engineering.\n\n- \nGenuine curiosity about AI and emerging analytics technologies, with a desire to help shape how Numan adopts them.\n\n- \nExpert-level SQL: window functions, CTEs, advanced aggregations, and cloud warehouse-specific optimisation.\n\n- \nDeep proficiency in dbt: models, macros, tests, packages, documentation, exposures, and CI/CD integration.\n\n- \nStrong working knowledge of Google BigQuery (or equivalent cloud data warehouse): query optimisation, incremental loading strategies, and cost management.\n\n- \nExperience with Looker (LookML) or an equivalent BI layer, with a solid understanding of consumption-layer design.\n\n- \nDimensional data modelling expertise: star schemas, slowly changing dimensions, and when to denormalise.\n\n- \nStrong written and verbal communication skills; able to deliver clear, insight-led presentations that tell a compelling story to both technical and non-technical stakeholders.\n\n- \nUnderstanding of data privacy, governance, and compliance requirements — with particular sensitivity to regulated healthcare data.\n\n- \nPractical experience with AI-assisted analytics workflows, or a strong demonstrated appetite to work at the frontier of AI in analytics.\n\nIt's a bonus if you have:\n- \nWorked in a digital consumer scale-up, with experience of delivering high quality work at pace.\n\n- \nHands-on experience evaluating or implementing AI/LLM tooling in a data or analytics context (e.g. semantic layers, natural language querying, AI-assisted documentation).",
+   "salary_text": null,
+   "key": "lever:numan:24aab881-0037-4349-9c5e-da4e26b35530",
+   "is_new": false,
+   "first_seen": "2026-10-15"
+  },
+  {
    "ats": "greenhouse",
    "token": "prolific",
    "id": "4911780101",
@@ -468,7 +500,7 @@
    "url": "https://jobs.ashbyhq.com/paddle/938c6fbe-3167-4264-bca5-3b4ad104adee",
    "posted": "2026-08-13",
    "updated": "2026-08-13",
-   "description": "What do we do?\n\nPaddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better. \n\nWe’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally. \n\n\n\nThe Role:  \n\nWe are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with business stakeholders to identify and deliver high-value data solutions and provide informal mentorship to junior team members, fostering their growth and enhancing team capabilities.\n\n\n\nWhat you'll do: \n\n - Create and maintain complex, scalable data models in Snowflake using dbt.\n\n - Expose datasets effectively in BI tooling to enable robust self-service analytics.\n\n - Perform simple data ingestion tasks using no-code tools and ensure streamlined data flows.\n\n - Add comprehensive metadata to datasets, including documentation, data quality checks, and sensitive data masking.\n\n - Activate data by pushing it from Snowflake into other operational tools.\n\n - Proactively identify and raise data quality issues to the respective process owners for resolution.\n\n - Lead training sessions and initiatives to drive adoption and effective use of BI tools across the organization.\n\n - Mentor junior analytics engineers, fostering knowledge-sharing and professional growth.\n\n\n\nWe'd love to hear from you if you:\n\n - Extensive experience in analytics engineering or related data roles, with demonstrated expertise in advanced SQL, dbt, and Snowflake.\n\n - Proficient in using BI tools (e.g. Tableau, Looker, PowerBI, Snowsight) to deliver clear, actionable insights for business stakeholders.\n\n - Skilled in performing data ingestion and activation using no-code tools (e.g. Fivetran, Stitch), ensuring efficient data integration into operational systems.\n\n - Knowledgeable in managing metadata, documentation, data quality checks, and sensitive data masking effectively.\n\n - Effective at collaborating closely with diverse stakeholders, understanding their data needs, and delivering impactful solutions.\n\n - Experienced in conducting training sessions and providing informal mentorship to junior analytics team members, fostering a collaborative and knowledge-sharing environment.\n\n\n\nEveryone is welcome at Paddle\n\nAt Paddle, we’re committed to removing invisible barriers, both for our customers and within our own teams. We recognise and celebrate that every Paddler is unique and we welcome every individual perspective. As an inclusive employer, we don’t care if, or where, you studied, what you look like or where you’re from. We’re more interested in your craft, curiosity, passion for learning and what you’ll add to our culture. We encourage you to apply even if you don’t match every part of the job ad, especially if you’re part of an underrepresented group.\n\nPlease let us know if there’s anything we can do to better support you through the application process and in the workplace. We will do everything we can to support any accommodations needed. We’re committed to building a diverse team where everyone feels safe to be their authentic self. Let’s grow together.\n\n \n\nWhy you’ll love working at Paddle\n\nWe’re a diverse, growing group of Paddlers who pride ourselves on our transparent, collaborative and respectful culture.\n\nWe live and breathe our values, which are:\n\n - Paddle Together - “None of us, is as smart as all of us”\n\n - Paddle Simply - “Simple can be harder than complex: you have to get your thinking clean to make it simple”\n\n - Paddle for others - “We can realise our wildest dreams, so long as we help enough other people to realise theirs”\n\n \n\nWe offer a full suite of benefits, including attractive salaries, stock options, unlimited holidays, enhanced parental leave, retirement plans, private healthcare and well-being initiatives.\n\n \n\nWe invest in learning and will help you with your personal development via constant exposure to new challenges, an annual learning fund, and regular internal and external training.\n\n \n\nConnecting at Paddle\n\nWe’re a ‘digital-first’ company, which means our Paddlers always have the freedom to choose where, when and how they work within our hub locations.\n\nWe recognize that where our Paddlers do their best work is unique to them and we provide trust and autonomy for everyone to work in a way which fits them best. We also value the power of connection and have invested in global hubs which help local communities flourish and bring us together for focused collaboration.\n\n \n\nOur Paddle hubs:\n\n - In Europe: UK (London headquarters), Portugal (Lisbon hub), Netherlands and Ireland (Dublin hub)\n\n - In North America: Austin, TX (USA) and Toronto (Canada)\n\nOur hub philosophy creates an engaging experience for all Paddlers, wherever, whenever and however we choose to work.\n\n \n\nTo support this, we focus hiring within our hubs and will always openly share the available locations for each open position on our job description.\n\n ",
+   "description": "What do we do?\n\nPaddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better. \n\nWe’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally. \n\n\n\nThe Role:  \n\nWe are seeking a Senior Analytics Engineer to drive significant business impact by shaping our data infrastructure, developing robust data models, and promoting best practices in analytics engineering (e.g., data quality, documentation, and scalable data architectures). You will collaborate closely with business stakeholders to identify and deliver high-value data solutions and provide informal mentorship to junior team members, fostering their growth and enhancing team capabilities.\n\n\n\nWhat you'll do: \n\n - Create and maintain complex, scalable data models in Snowflake using dbt.\n\n - Expose datasets effectively in BI tooling to enable robust self-service analytics.\n\n - Perform simple data ingestion tasks using no-code tools and ensure streamlined data flows.\n\n - Add comprehensive metadata to datasets, including documentation, data quality checks, and sensitive data masking.\n\n - Activate data by pushing it from Snowflake into other operational tools.\n\n - Proactively identify and raise data quality issues to the respective process owners for resolution.\n\n - Lead training sessions and initiatives to drive adoption and effective use of BI tools across the organization.\n\n - Mentor junior analytics engineers, fostering knowledge-sharing and professional growth.\n\n\n\nWe'd love to hear from you if you:\n\n - Extensive experience in analytics engineering or related data roles, with demonstrated expertise in advanced SQL, dbt, and Snowflake.\n\n - Proficient in using BI tools (e.g. Tableau, Looker, PowerBI, Snowsight) to deliver clear, actionable insights for business stakeholders.\n\n - Skilled in performing data ingestion and activation using no-code tools (e.g. Fivetran, Stitch), ensuring efficient data integration into operational systems.\n\n - Knowledgeable in managing metadata, documentation, data quality checks, and sensitive data masking effectively.\n\n - Effective at collaborating closely with diverse stakeholders, understanding their data needs, and delivering impactful solutions.\n\n - Experienced in conducting training sessions and providing informal mentorship to junior analytics team members, fostering a collaborative and knowledge-sharing environment.\n\n\n\nEveryone is welcome at Paddle\n\nAt Paddle, we’re committed to removing invisible barriers, both for our customers and within our own teams. We recognise and celebrate that every Paddler is unique and we welcome every individual perspective. As an inclusive employer, we don’t care if, or where, you studied, what you look like or where you’re from. We’re more interested in your craft, curiosity, passion for learning and what you’ll add to our culture. We encourage you to apply even if you don’t match every part of the job ad, especially if you’re part of an underrepresented group.\n\nPlease let us know if there’s anything we can do to better support you through the application process and in the workplace. We will do everything we can to support any accommodations needed. We’re committed to building a diverse team where everyone feels safe to be their authentic self. Let’s grow together.\n\n \n\nWhy you’ll love working at Paddle\n\nWe’re a diverse, growing group of Paddlers who pride ourselves on our transparent, collaborative and respectful culture.\n\nWe live and breathe our values, which are:\n\n - Paddle Together - “None of us, is as smart as all of us”\n\n - Paddle Simply - “Simple can be harder than complex: you have to get your thinking clean to make it simple”\n\n - Paddle for others - “We can realise our wildest dreams, so long as we help enough other people to realise theirs”\n\n \n\nWe offer a full suite of benefits, including attractive salaries, stock options, unlimited holidays, enhanced parental leave, retirement plans, private healthcare and well-being initiatives.\n\n \n\nWe invest in learning and will help you with your personal development via constant exposure to new challenges, an annual learning fund, and regular internal and external training.\n\n \n\nConnecting at Paddle\n\nWe’re a ‘digital-first’ company, which means our Paddlers always have the freedom to choose where, when and how they work within our hub locations.\n\nWe recognize that where our Paddlers do their best work is unique to them and we provide trust and autonomy for everyone to work in a way which fits them best. We also value the power of connection and have invested in global hubs which help local communities flourish and bring us together for focused collaboration.\n\n \n\nOur Paddle hubs:\n\n - In Europe: UK (London headquarters), Portugal (Lisbon hub), Netherlands and Ireland (Dublin hub)\n\n - In North America: Austin, TX (USA) and Toronto (Canada)\n\n - In APAC: Singapore\n\nOur hub philosophy creates an engaging experience for all Paddlers, wherever, whenever and however we choose to work.\n\n \n\nTo support this, we focus hiring within our hubs and will always openly share the available locations for each open position on our job description.\n\n ",
    "salary_text": null,
    "key": "ashby:paddle:938c6fbe-3167-4264-bca5-3b4ad104adee",
    "is_new": false,
@@ -745,22 +777,6 @@
    "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
    "is_new": false,
    "first_seen": "2026-10-12"
-  },
-  {
-   "ats": "ashby",
-   "token": "marshmallow",
-   "id": "27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
-   "company": "marshmallow",
-   "role": "Pricing Data Scientist",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/marshmallow/27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
-   "posted": "2026-09-21",
-   "updated": "2026-09-21",
-   "description": "We’re on a mission to make migration easy.\n\n\n\nWe started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 2-3 DAYS IN OFFICE)\n\n\n\n\nPRICING AT MARSHMALLOW\n\nThis role will sit in the Pricing Team, reporting into the Pricing Data Science Manager. The team is responsible for managing our loss ratio, underwriting footprint, broker optimisation and growth targets, proving integral to driving the business forwards. But you’ve probably read that all before! So what’s new?\n\nWe work in a very different way to most pricing teams that you might be familiar with. Everyone in Pricing has the potential to make significant contribution to the business, taking ownership, moving fast, innovating and delivering changes to our rates at high frequency.\n\nWe don’t just churn out GLMs all day. We build & deploy exceptional in-house pricing data science models using the latest modelling techniques. You’ll work alongside other Pricing Data Scientists & Analysts pushing innovative pricing projects, whilst also being able to work with the wider Data Science community on modelling customer behaviour, fraud & MLENG enhancements.\n\nWe work alongside a bunch of amazing engineers who ensure we can implement our decisions quickly. We also have access to huge amounts of data. We don’t just mean your standard policy, claims and quote data. Our engineers spend their lives building APIs to third parties so that we know more about our customers than any of our competitors.\n\nAll of this means that you’ll have access to as much data as you can handle, the freedom to be creative, the backing of senior leaders to make decisions, and the ability to see your ideas implemented rapidly. And on top of all of that, we’re a pretty fun group to hang around with!\n\n\n\n\nWHAT YOU’LL BE DOING\n\n - Developing a deep understanding of Marshmallow’s quote, policy and claims data and use this to derive insights that can be used to enhance our pricing.\n\n - Own one of the strategic initiatives of the pricing team, such as supporting our expansion plans or protecting our renewing customers.\n\n - Conducting claims analysis and claims modelling using SQL and Python.\n\n - Conducting price optimisation analysis/modelling using Python.\n\n - Building and deploying models in APIs for use in real time pricing.\n\n - Identify new sources of external data that enable us to refine our view of claims risk, and conduct analysis to quantify their value.\n\n - Working directly with our Engineering & MLENG functions to implement pricing proposals.\n\n - Providing pricing support for the launch of multiple new products.\n\n\nWHO ARE YOU?\n\n - Proactive: You drive growth by identifying & delivering new opportunities \n\n - Modeller: You use your DS expertise to build innovative best in class models\n\n - Commercial: You directly use your models as tools to deliver timely real world impact\n\n - Curious: You aren’t satisfied with ‘That’s just how it is’; you immediately investigate further\n\n - Owner: You don’t just pull existing levers - you own end to end transformation in your area\n\n - Opinionated: You generate your own opinions & pitch to others in an open & honest way\n\n - Explainer: You can communicate complicated concepts in a simple way to non-experts\n\n - Networker: You build and maintain strong relationships throughout the business\n\n\nWHAT SKILLS ARE WE LOOKING FOR FROM YOU?\n\n - Ability to interrogate data and conduct pricing analysis within SQL & Python/R\n\n - Ability to build GLMs, GBMs and other claims models within Python/R\n\n - At least 3 years of experience working in a data driven (ideally commercial) role\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n \n\nWe are able to offer visa sponsorship for this position.\n\n\n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Technical interview with a couple of the team (60 mins)\n\n - Onsite Culture interviews (90 mins)\n\nDiversity of thought\n\nWe know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.",
-   "salary_text": null,
-   "key": "ashby:marshmallow:27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
-   "is_new": false,
-   "first_seen": "2026-10-09"
   },
   {
    "ats": "ashby",
@@ -1113,6 +1129,22 @@
    "key": "ashby:marshmallow:c316bf98-6f62-43be-914b-b96f486e08ce",
    "is_new": false,
    "first_seen": "2026-10-10"
+  },
+  {
+   "ats": "ashby",
+   "token": "marshmallow",
+   "id": "27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
+   "company": "marshmallow",
+   "role": "Pricing Data Scientist",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/marshmallow/27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
+   "posted": "2026-10-15",
+   "updated": "2026-10-15",
+   "description": "We’re on a mission to make migration easy.\n\n\n\nWe started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 2-3 DAYS IN OFFICE)\n\n\n\n\nPRICING AT MARSHMALLOW\n\nThis role will sit in the Pricing Team, reporting into the Pricing Data Science Manager. The team is responsible for managing our loss ratio, underwriting footprint, broker optimisation and growth targets, proving integral to driving the business forwards. But you’ve probably read that all before! So what’s new?\n\nWe work in a very different way to most pricing teams that you might be familiar with. Everyone in Pricing has the potential to make significant contribution to the business, taking ownership, moving fast, innovating and delivering changes to our rates at high frequency.\n\nWe don’t just churn out GLMs all day. We build & deploy exceptional in-house pricing data science models using the latest modelling techniques. You’ll work alongside other Pricing Data Scientists & Analysts pushing innovative pricing projects, whilst also being able to work with the wider Data Science community on modelling customer behaviour, fraud & MLENG enhancements.\n\nWe work alongside a bunch of amazing engineers who ensure we can implement our decisions quickly. We also have access to huge amounts of data. We don’t just mean your standard policy, claims and quote data. Our engineers spend their lives building APIs to third parties so that we know more about our customers than any of our competitors.\n\nAll of this means that you’ll have access to as much data as you can handle, the freedom to be creative, the backing of senior leaders to make decisions, and the ability to see your ideas implemented rapidly. And on top of all of that, we’re a pretty fun group to hang around with!\n\n\n\n\nWHAT YOU’LL BE DOING\n\n - Developing a deep understanding of Marshmallow’s quote, policy and claims data and use this to derive insights that can be used to enhance our pricing.\n\n - Own one of the strategic initiatives of the pricing team, such as supporting our expansion plans or protecting our renewing customers.\n\n - Conducting claims analysis and claims modelling using SQL and Python.\n\n - Conducting price optimisation analysis/modelling using Python.\n\n - Building and deploying models in APIs for use in real time pricing.\n\n - Identify new sources of external data that enable us to refine our view of claims risk, and conduct analysis to quantify their value.\n\n - Working directly with our Engineering & MLENG functions to implement pricing proposals.\n\n - Providing pricing support for the launch of multiple new products.\n\n\nWHO ARE YOU?\n\n - Proactive: You drive growth by identifying & delivering new opportunities \n\n - Modeller: You use your DS expertise to build innovative best in class models\n\n - Commercial: You directly use your models as tools to deliver timely real world impact\n\n - Curious: You aren’t satisfied with ‘That’s just how it is’; you immediately investigate further\n\n - Owner: You don’t just pull existing levers - you own end to end transformation in your area\n\n - Opinionated: You generate your own opinions & pitch to others in an open & honest way\n\n - Explainer: You can communicate complicated concepts in a simple way to non-experts\n\n - Networker: You build and maintain strong relationships throughout the business\n\n\nWHAT SKILLS ARE WE LOOKING FOR FROM YOU?\n\n - Ability to interrogate data and conduct pricing analysis within SQL & Python/R\n\n - Ability to build GLMs, GBMs and other claims models within Python/R\n\n - Experience working in a data driven (ideally commercial) role (quant, credit, fraud etc)\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n \n\nWe are able to offer visa sponsorship for this position.\n\n\n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Technical interview with a couple of the team (60 mins)\n\n - Onsite Culture interviews (90 mins)\n\nDiversity of thought\n\nWe know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.",
+   "salary_text": null,
+   "key": "ashby:marshmallow:27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
+   "is_new": false,
+   "first_seen": "2026-10-09"
   }
  ]
 }
