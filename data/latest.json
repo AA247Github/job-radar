@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-18T09:51:04Z",
+ "generated_at": "2026-10-19T11:10:44Z",
  "counts": {
-  "matches": 58,
+  "matches": 57,
   "new": 0,
   "boards_ok": 28,
   "boards_failed": 0
@@ -10,17 +10,17 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 149
+   "open_jobs": 148
   },
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 49
+   "open_jobs": 50
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 33
+   "open_jobs": 32
   },
   {
    "ats": "greenhouse",
@@ -40,12 +40,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 105
+   "open_jobs": 107
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 32
+   "open_jobs": 33
   },
   {
    "ats": "greenhouse",
@@ -100,12 +100,12 @@
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 35
+   "open_jobs": 34
   },
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 31
+   "open_jobs": 30
   },
   {
    "ats": "ashby",
@@ -115,7 +115,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 77
+   "open_jobs": 75
   },
   {
    "ats": "ashby",
@@ -135,7 +135,7 @@
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 35
+   "open_jobs": 34
   },
   {
    "ats": "lever_eu",
@@ -145,7 +145,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 530
+   "open_jobs": 533
   }
  ],
  "discovered_tokens": [
@@ -176,7 +176,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 225,
+   "open_jobs": 226,
    "matching": 5
   },
   {
@@ -194,7 +194,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 156,
+   "open_jobs": 155,
    "matching": 4
   },
   {
@@ -212,7 +212,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 124,
+   "open_jobs": 122,
    "matching": 2
   }
  ],
@@ -731,22 +731,6 @@
    "first_seen": "2026-10-09"
   },
   {
-   "ats": "lever",
-   "token": "zopa",
-   "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "company": "zopa",
-   "role": "Senior BI Analyst (Collections & Recoveries)",
-   "location": "London; hybrid",
-   "url": "https://jobs.lever.co/zopa/9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "posted": "2026-09-19",
-   "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring Senior BI Analysts to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \nThe opportunity \nThis role has a strong BI and reporting focus, with a meaningful element of data modelling and collaboration with Analytics Engineering. You will build trusted data pipelines, establish semantic layers with clearly defined metrics and design self-serve reporting. You will enable analysis at scale and help teams monitor performance, identify opportunities and make informed decisions. \nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- \nSupport performance monitoring across either operational or risk-focused domains\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation  \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders.  \n\n- \nAn organised, curious approach to problem solving and managing priorities\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- \nExperience analysing credit, operational or customer performance metrics would be useful",
-   "salary_text": null,
-   "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "is_new": false,
-   "first_seen": "2026-10-12"
-  },
-  {
    "ats": "ashby",
    "token": "trainline",
    "id": "f1181e4f-8df4-41f6-a1d6-2ca1fd620ab7",
@@ -1076,7 +1060,7 @@
    "url": "https://jobs.ashbyhq.com/faculty/61c1d7d5-6bb1-4a22-a950-bbf26e59d675",
    "posted": "2026-10-09",
    "updated": "2026-10-09",
-   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\nFaculty’s Retail & Consumer team builds AI that re-engineers how retail and consumer businesses make decisions, from personalised promotions and pricing to range, inventory and customer acquisition. We combine deep sector expertise with outstanding scientific and technical capability to solve hard problems and embed the solutions in our clients’ core business processes.\n\n\n\nAbout the role\n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions for some of the most recognisable names in retail and consumer.\n\nYou will define the data science approach for each engagement, design robust software architectures, mentor colleagues and ensure delivery rigour across projects. You will also build deep client relationships and strengthen our reputation as a leader in practical, measurable AI.\n\n\n\nWhat you’ll be doing\n\n - Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the retail and consumer sector\n\n - Translating complex business problems into the right data science solutions, and mapping the end-to-end approach so it meets client needs and is technically feasible\n\n - Designing the software architecture for data science solutions, working alongside engineering colleagues\n\n - Partnering with our commercial teams to build client relationships and shape project scope for technical success\n\n - Owning the technical side of the client relationship on projects and in business development, helping to secure successful outcomes\n\n - Estimating delivery timelines and leading your team to deliver to a demanding schedule\n\n - Supporting the professional growth of data scientists on your projects through mentorship, coaching and feedback\n\n - Upholding best practice throughout the project lifecycle, including embedding responsible AI thinking in how problems are framed, not only in how models are evaluated\n\n - Contributing to hiring at Faculty\n\n\n\nWhat we’re looking for\n\n - You have senior experience in a professional data science position or a quantitative academic field\n\n - You have broad knowledge of state-of-the-art ML and AI, and can apply it, along with novel ideas, to build algorithms for complex data science problems\n\n - You hold yourself to rigorous validation standards, ensuring models perform reliably in real-world conditions and edge cases\n\n - You can scope projects by assessing technical feasibility and breaking complex workstreams into clear delivery milestones\n\n - You have mastery of Python and relevant frameworks, and can architect production-grade infrastructure for sophisticated models and agentic AI systems\n\n - You communicate clearly, translating sophisticated models and quantitative findings into actionable strategy for client stakeholders\n\n - You care about accountability, transparency and responsible AI, and nurture those habits in the people around you\n\n - You enjoy mentoring and developing other data scientists\n\n\n\nWhat we can offer you\n\nThe Faculty team is diverse and distinctive, and we all come from different personal, professional and organisational backgrounds. We welcome applications from all backgrounds and are committed to an inclusive recruitment process. [Insert standard Faculty EEO / reasonable adjustments line]\n\nFaculty is the professional challenge of a lifetime.\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\nFaculty’s Retail & Consumer team builds AI that re-engineers how retail and consumer businesses make decisions, from personalised promotions and pricing to range, inventory and customer acquisition. We combine deep sector expertise with outstanding scientific and technical capability to solve hard problems and embed the solutions in our clients’ core business processes.\n\n\n\nAbout the role\n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions for some of the most recognisable names in retail and consumer.\n\nYou will define the data science approach for each engagement, design robust software architectures, mentor colleagues and ensure delivery rigour across projects. You will also build deep client relationships and strengthen our reputation as a leader in practical, measurable AI.\n\n\n\nWhat you’ll be doing\n\n - Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the retail and consumer sector\n\n - Translating complex business problems into the right data science solutions, and mapping the end-to-end approach so it meets client needs and is technically feasible\n\n - Designing the software architecture for data science solutions, working alongside engineering colleagues\n\n - Partnering with our commercial teams to build client relationships and shape project scope for technical success\n\n - Owning the technical side of the client relationship on projects and in business development, helping to secure successful outcomes\n\n - Estimating delivery timelines and leading your team to deliver to a demanding schedule\n\n - Supporting the professional growth of data scientists on your projects through mentorship, coaching and feedback\n\n - Upholding best practice throughout the project lifecycle, including embedding responsible AI thinking in how problems are framed, not only in how models are evaluated\n\n - Contributing to hiring at Faculty\n\n\n\nWhat we’re looking for\n\n\n\n - You have senior experience in a professional data science position or a quantitative academic field\n\n - You have broad knowledge of state-of-the-art ML and AI, and can apply it, along with novel ideas, to build algorithms for complex data science problems\n\n - You hold yourself to rigorous validation standards, ensuring models perform reliably in real-world conditions and edge cases\n\n - You can scope projects by assessing technical feasibility and breaking complex workstreams into clear delivery milestones\n\n - You have mastery of Python and relevant frameworks, and can architect production-grade infrastructure for sophisticated models and agentic AI systems\n\n - You communicate clearly, translating sophisticated models and quantitative findings into actionable strategy for client stakeholders\n\n - You care about accountability, transparency and responsible AI, and nurture those habits in the people around you\n\n - You enjoy mentoring and developing other data scientists\n\n\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
    "salary_text": null,
    "key": "ashby:faculty:61c1d7d5-6bb1-4a22-a950-bbf26e59d675",
    "is_new": false,
