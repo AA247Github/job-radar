@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-22T10:33:26Z",
+ "generated_at": "2026-10-23T10:28:27Z",
  "counts": {
-  "matches": 56,
-  "new": 2,
+  "matches": 62,
+  "new": 6,
   "boards_ok": 28,
   "boards_failed": 0
  },
@@ -10,27 +10,27 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 154
+   "open_jobs": 156
   },
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 56
+   "open_jobs": 54
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 30
+   "open_jobs": 31
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 68
+   "open_jobs": 73
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 22
+   "open_jobs": 21
   },
   {
    "ats": "greenhouse",
@@ -40,7 +40,7 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 104
+   "open_jobs": 102
   },
   {
    "ats": "greenhouse",
@@ -80,7 +80,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 31
+   "open_jobs": 33
   },
   {
    "ats": "ashby",
@@ -100,7 +100,7 @@
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 34
+   "open_jobs": 32
   },
   {
    "ats": "ashby",
@@ -110,32 +110,32 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 70
+   "open_jobs": 69
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 79
+   "open_jobs": 84
   },
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 19
+   "open_jobs": 18
   },
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 304
+   "open_jobs": 307
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 919
+   "open_jobs": 916
   },
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 36
+   "open_jobs": 34
   },
   {
    "ats": "lever_eu",
@@ -145,7 +145,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 519
+   "open_jobs": 513
   }
  ],
  "discovered_tokens": [
@@ -164,7 +164,7 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 15,
+   "open_jobs": 14,
    "matching": 4
   },
   {
@@ -176,7 +176,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 222,
+   "open_jobs": 224,
    "matching": 5
   },
   {
@@ -200,8 +200,8 @@
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 34,
-   "matching": 4
+   "open_jobs": 36,
+   "matching": 5
   },
   {
    "ats": "greenhouse",
@@ -212,43 +212,107 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 126,
+   "open_jobs": 115,
    "matching": 2
   }
  ],
  "failures": [],
  "jobs": [
   {
-   "ats": "ashby",
-   "token": "lendable",
-   "id": "99104bd1-d5ab-4280-8af9-b738a54da439",
-   "company": "lendable",
-   "role": "Analytics Engineer (UK Cards)",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/lendable/99104bd1-d5ab-4280-8af9-b738a54da439",
-   "posted": "2026-10-21",
-   "updated": "2026-10-21",
-   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong DBT and SQL is a must\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. 15 minute cognitive assessment\n\n 2. Initial chat\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
+   "ats": "greenhouse",
+   "token": "prolific",
+   "id": "5014007101",
+   "company": "Prolific ",
+   "role": "Data Analyst - Supply",
+   "location": "United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5014007101",
+   "posted": "2026-10-22",
+   "updated": "2026-10-22",
+   "description": "Data Analyst, Supply\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n&nbsp;&nbsp;Prolific\n\nProlific is not just another player in the AI space – we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditised, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\nThe role\n\nAs Prolific scales, maintaining a healthy and sustainable participant marketplace will be critical to our ability to meet growing demand for high-quality human data.&nbsp;This role will own analytics across the participant lifecycle, from acquisition and onboarding through activation, engagement, quality, retention, and reactivation.\n\nYou’ll build the metrics, dashboards, and experimentation frameworks that help us understand participant behaviour and improve the participant experience. You’ll work closely with Product, Operations, Growth, and Data Science to identify opportunities, structure experiments, and turn complex marketplace data into clear decisions.\n\nWorking hands-on across SQL, Python, experimentation, and stakeholder conversations, you’ll create clarity around participant health, marketplace liquidity, and long-term supply sustainability.\n\n&nbsp;\n\nWhat you’ll bring to the role\n\n- Analytics Expertise: Advanced SQL and strong Python proficiency (e.g. pandas, experimentation analysis, automation), with a track record of building scalable reporting frameworks in modern BI tools (Metabase, Looker, Tableau). Comfortable owning problems end-to-end — from raw data to executive-ready insight.\n\n- Lifecycle Analytics: Experience analysing user acquisition, onboarding, activation, engagement, retention, churn, and behavioural cohorts.\n\n- Experimentation &amp; Statistics: Experience designing and analysing A/B or operational experiments, with solid grounding in statistical concepts and causal thinking.\n\n- Product Thinking: Ability to translate participant and marketplace challenges into measurable hypotheses, success metrics, and actionable recommendations.\n\n- Commercial Acumen: Strong ability to connect operational metrics to revenue, margin, and financial performance — understanding not just what is happening, but why it matters commercially.\n\n- Autonomy &amp; Ownership: Comfortable operating with high autonomy in a fast-moving environment, setting priorities, challenging assumptions, and driving initiatives from problem definition through implementation.\n\n- Stakeholder Management: Proven ability to partner across Product, Operations, Commercial, and Finance functions.\n\n- Marketplace Understanding: Strong grasp of B2B and two-sided marketplace metrics and economics.\n\n- Clear Communication: Ability to translate complex analysis into concise, decision-ready insights that shape strategy and execution.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioural data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviours into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation – one that reflects the breath and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunities for groundbreaking research. Join us to enjoy a competitive salary, benefits, and remote working within our impactful, mission-driven culture.\n\nLinks to more information on Prolific\n\nBenefits&nbsp;\n\nExternal Handbook&nbsp;\n\nWebsite&nbsp;\n\nYouTube&nbsp;\n\n&nbsp;\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organisation planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal information.",
    "salary_text": null,
-   "key": "ashby:lendable:99104bd1-d5ab-4280-8af9-b738a54da439",
+   "key": "greenhouse:prolific:5014007101",
    "is_new": true,
-   "first_seen": "2026-10-22"
+   "first_seen": "2026-10-23"
+  },
+  {
+   "ats": "greenhouse",
+   "token": "clearscoretechnologylimited",
+   "id": "5013940101",
+   "company": "ClearScore Technology Limited",
+   "role": "Data Analyst ",
+   "location": "London, England, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/5013940101",
+   "posted": "2026-10-22",
+   "updated": "2026-10-22",
+   "description": "Data Analyst \n\nWe’re looking for a Data Analyst to join our team here at ClearScore in London. Analysts play a key role within ClearScore, driving strategy and key decision-making, which ultimately benefits our users, partners, and other teams within the business. We’re seeking an adaptable, curious, and challenge-loving individual to join our growing Global Targeting team.\n\nClearScore has an amazing analytical community which includes Data Analysts, Scientists and Engineers. The community works collaboratively to ensure a landscape in which team members can develop their full potential and deliver maximum business impact.\n\nClearScore is both a free credit score and report service and the UK’s leading consumer credit marketplace. As a part of the Global Targeting team, you will play a key role in monitoring and reporting on the effectiveness of our Targeting strategy for our users, playing a key part in the formulation, execution and analysis of our experiments, and providing recommendations to drive improvements that drive a better experience for our users.\n\nWhat you will be doing:\n\n- Collaborate closely with your Targeting squad members, providing insights into the performance of our various user segments.\n\n- Deliver data informed and backed recommendations for improvements to our Targeting strategy.\n\n- Conduct detailed analysis of A/B tests to drive better outcomes for our users across user journeys.\n\n- Lead in-depth analytics projects, leveraging data to uncover opportunities and address complex business challenges.\n\n- Develop efficient and effective monitoring and reporting dashboards using SQL, Databricks, and Domo.\n\n- Leverage advanced AI to automate and scale existing and new analytics processes\n\nSkills we'd love you to have\n\n- SQL, Excel skills and either R or Python. Knowledge of&nbsp;DBT and analytical tools such as Amplitude is a plus\n\n- A strong quantitative and numerical skills, as well as a good understanding of hypothesis testing and foundational statistical principles\n\n- Experience using Domo or other data visualisation tools\n\n- A desire to learn and enjoy working collaboratively, with a desire to contribute to our culture.\n\n- You do not need to fit into a stereotype: we are really committed to closing our gender gap and are actively trying to create an environment where you, as an individual, can thrive.\n\n- A self-starter mindset: curious, collaborative, and committed to continuous learning. A desire to deeply understand a problem and its importance to the business before attempting to solve it\n\n- A drive to understand our users, products, and how users interact with them, enhancing your ability to generate meaningful features and solutions relevant to the problem being addressed\n\n- The ability to explain to technical and non-technical audiences the key learnings/findings from complex analysis and modelling exercises\n\nWhy ClearScore?\n\nClearScore is the UK's #1 credit score and report app. We are also present in South Africa, Australia and Canada, with more than 20 million users globally and growing fast. Someone joins ClearScore every 20 seconds. We have established relationships with over 50 of the main lenders in the U.K., and have been a trusted tool for customers to manage their credit and make better financial decisions.\n\nSince October 2016 we have helped 1.8 million users take out a new credit card or loan. We are user-centric at our core and we believe in leveraging technology to enable positive financial choices. We are design-led and data-driven and we embed these behaviours in everything we do.\n\nOur company culture is a fundamental part of all we have achieved. We believe in hiring smart, driven, passionate and diverse people who are keen on having a real impact in our organisation. We trust you to manage your own time so we offer flexible work and no fixed desk hours. We don't micromanage and we believe in measuring outcomes rather than effort. We have an inclusive culture where all, regardless of seniority, are encouraged to contribute with their ideas, look after their wellbeing and actively seek opportunities for career growth.\n\nIf you feel like this could be the place for you, apply and our Talent team will be happy to share more.\n\nBenefits:\n\n- 25 paid holidays and a “duvet day” on your birthday\n\n- Hybrid Work Environment\n\n- Private health and dental cover - including mental health support through Bupa&nbsp;\n\n- GP office visits\n\n- Life assurance scheme\n\n- Up to 6% matched pension\n\n- Regular Lunch and Learns with guest speakers\n\n- Dog-friendly office\n\n- Daily breakfast and free snacks\n\n- Access to discounts via Cobens Extras&nbsp;\n\n- Free sports and social clubs\n\n- Continued investment into learning and development&nbsp;\n\n- Leadership-led training\n\n- In-house psychotherapist\n\n- Financial coach to help you plan and achieve your goals\n\n- No clock-watching culture\n\n- Generous maternity and paternity plans\n\n- Culture and inclusion representatives\n\n- Transparent pay structure and a career growth plan\n\n&nbsp;\n\nEqual Opportunities\n\nClearScore is committed to providing equal employment opportunities to all qualified individuals. As an equal opportunity employer, we are able to make reasonable adjustments to accommodate individuals with disabilities during the recruitment and selection process. If you require accommodation, please inform us in advance, and we will work with you to meet your needs.\n\nOur Hybrid Model\n&nbsp;\nWe embrace a&nbsp;dynamic hybrid work environment that balances flexibility with collaborative in-person experiences. Our approach is designed to foster innovation, team connection, and individual productivity.\n\n- Levels 1-5: Minimum 3 days per week in-office\n\n- Level 6 and above: Minimum 3 days per week in-office\n\nWe believe this structure offers the best of both worlds - the flexibility of remote work and the synergy of face-to-face collaboration. Our office days are carefully coordinated to maximise team interactions and learning/ mentorship op",
+   "salary_text": null,
+   "key": "greenhouse:clearscoretechnologylimited:5013940101",
+   "is_new": true,
+   "first_seen": "2026-10-23"
   },
   {
    "ats": "ashby",
-   "token": "elevenlabs",
-   "id": "41b892ba-b530-44cb-9ae1-178908fc324c",
-   "company": "elevenlabs",
-   "role": "Data Scientist - Product Analytics",
-   "location": "United Kingdom; Spain; Hungary; Bulgaria; Germany; Poland; Italy; France; remote",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c",
-   "posted": "2026-10-21",
-   "updated": "2026-10-21",
-   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\nAbout the role\n\nWe're looking for a Data Scientist - Product Analytics to join our Growth Data team. You'll own the analysis behind how people discover, adopt and stick with ElevenLabs' products, partnering closely with Product, Growth and the central Data team's certified metrics layer.\n\n - Define and own product health metrics: activation, feature adoption, retention and engagement across ElevenCreative, ElevenAgents and ElevenAPI.\n\n - Design, analyse and communicate the results of product experiments (A/B tests, feature launches, onboarding changes).\n\n - Partner with Analytics Engineering on the certified product KPI layer in dbt, and with Product on turning ambiguous questions into trusted analysis.\n\n - Work alongside fellow Growth data scientists on marketing- and revenue-adjacent questions that touch the product funnel.\n\n\n\nRequirements\n\nDemonstrated experience as a data scientist embedded with a product or growth team, ideally at a product-led company.\n\n - Strong SQL and Python, with hands-on experience in experimentation (A/B testing) and product analytics.\n\n - Ability to translate ambiguous product questions into clear, reusable analysis and defensible metrics.\n\n - Comfort working directly with Product and Growth stakeholders, and pushing back on ill-defined asks.\n\n - Structured thinker who can move fast without sacrificing rigour.\n\n\n\nBonus\n\n - Experience with activation / retention modelling or lifecycle analytics at a consumer or prosumer product.\n\n - Experience with dbt or a modern warehouse, partnering directly with analytics engineers.\n\n - Experience using AI tools or agents to speed up analysis or enable self-serve data access.\n\n\n\nGrowth potential\n\nWe believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:\n\n - Grow into a Senior or Staff Product Data Scientist role as the Growth Data team scales.\n\n - Expand scope across additional product lines (ElevenAgents, ElevenAPI).\n\n - Path into a Growth Data Science lead or broader data leadership track.\n\n\n\n\nLOCATION\n\nThis role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.\n\n\n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
+   "token": "faculty",
+   "id": "95a1a01f-aee6-4887-8256-b45f5a034336",
+   "company": "faculty",
+   "role": "Senior Data Scientist ",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/95a1a01f-aee6-4887-8256-b45f5a034336",
+   "posted": "2026-10-22",
+   "updated": "2026-10-22",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\n\n\nABOUT THE TEAM\n\n\n\nBringing medicine to patients is complex, expensive and high-risk. Faculty’s Life Science’s team is concentrated on building AI solutions which optimise the research and commercialisation of life-changing therapies.\n\nWe partner with major pharma firms, academic research centres and MedTech start-ups to design and deliver solutions which address critical healthcare challenges, and help to democratise health for all.\n\n\n\n\n\n\nABOUT THE ROLE\n\n\n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions. This role requires hands-on technical excellence combined with crucial team leadership. \n\n\nYou will define data science approaches, design robust software architectures, mentor junior colleagues, and ensure delivery rigor across projects all while building deep client relationships and solidifying our reputation as a leader in practical, measurable AI.\n\n\n\n\n\n\nWHAT YOU'LL BE DOING:\n\n\n\n - Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the sector.\n\n - Conceiving the core data science approach and designing the associated robust software architecture for new engagements.\n\n - Mentoring a small number of data scientists and supporting the professional growth of technical team members on projects.\n\n - Partnering with commercial teams to build client relationships and shape project scope for technical feasibility.\n\n - Contributing to Faculty’s thought leadership and reputation through delivering courses, public speaking, or open-source projects.\n\n - Ensuring best practices are followed throughout the project lifecycle to guarantee high-quality, impactful delivery.\n   \n   \n\n\nWHO WE'RE LOOKING FOR:\n\n\n\n - You possess senior experience in a professional data science position or a quantitative academic field.\n\n - You demonstrate strong programming skills, with the ability to be a fluent Python programmer, using core libraries (NumPy, Pandas) and a deep-learning framework (e.g., PyTorch).\n\n - You have a deep expertise in core data science paradigms (supervised/unsupervised, NLP, validation), demonstrating a proficiency across the standard data science toolkit, including the ability to develop new, innovative algorithms.\n\n - You bring a leadership mindset, focused on growing the technical capabilities of the team and nurturing a collaborative culture.\n\n - You exhibit commercial awareness, with experience in client-facing work and the ability to translate business problems into a rigorous mathematical framework.\n\n - You are skilled in project planning, assessing technical feasibility, estimating delivery timelines, and leading a team to deliver high-quality work on a strict schedule.\n\n\n\n\nOUR INTERVIEW PROCESS\n\n\n\n 1. Talent Team Screen (30 minutes)\n\n 2. Take Home Technical Assessment\n\n 3. Technical Interview (90 minutes)\n\n 4. Commercial Interview (60 minutes)\n\n\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
    "salary_text": null,
-   "key": "ashby:elevenlabs:41b892ba-b530-44cb-9ae1-178908fc324c",
+   "key": "ashby:faculty:95a1a01f-aee6-4887-8256-b45f5a034336",
    "is_new": true,
-   "first_seen": "2026-10-22"
+   "first_seen": "2026-10-23"
+  },
+  {
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2",
+   "company": "faculty",
+   "role": "Data Scientist ",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2",
+   "posted": "2026-10-22",
+   "updated": "2026-10-22",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n \n\n\n\nABOUT THE TEAM\n\n\n\nOur Energy, Transition and Environment business unit is pioneering meaningful change in the clean energy revolution. Our vision is to accelerate the transition to net-zero emissions and drive efficiencies for a new era of utility companies.\n\n \n\nWe believe that the responsible, and intelligent, deployment of AI is critical to the success of this mission. We partner with a wide range of clients - from major energy operators, to GreenTech startups, and national infrastructure providers - to build solutions which return measurable impact and move us towards a smarter, cleaner, and more sustainable world.\n\n \n\n\n\nABOUT THE ROLE:\n\n\nAs a Data Scientist II at Faculty, you will lead the design of end-to-end analytical approaches, developing high-quality models that solve complex, multi-faceted business problems. Joining our Applied AI division, you will leverage advanced programming to turn high-level client needs into rigorous mathematical frameworks. \n\nThis role is for an ambitious practitioner ready to own the delivery of robust, scalable model components while ensuring every solution is mathematically sound and ethically responsible. You will play a vital part in pushing our technical boundaries and mentoring others.\n\n \n \n\n\nWHAT YOU'LL BE DOING:\n\n\n - Designing and implementing core data science approaches for project workstreams, including the selection of optimal algorithms and validation strategies.\n\n - Combining deep domain expertise with advanced machine learning techniques to solve unique and complex business challenges.\n\n - Owning the end-to-end delivery of specific model components, ensuring they are scalable, robust, and mathematically precise.\n\n - Developing innovative algorithms or adapting existing frameworks to meet bespoke client requirements and technical constraints.\n\n - Building the software architecture required to wrap models and agentic workflows into production-grade, reliable environments.\n\n - Supporting Level 1 Data Scientists by providing technical guidance and conducting rigorous peer reviews on modeling tasks.\n\n - Managing personal delivery timelines while proactively identifying and mitigating technical risks or data limitations within projects.\n\n \n \n\n\nWHO WE'RE LOOKING FOR:\n\n\n - You possess expertise in statistical modeling and deep learning frameworks, such as PyTorch or TensorFlow, to implement complex paradigms.\n\n - You are disciplined in extracting valid insights from messy or incomplete datasets, ensuring solutions remain robust under uncertainty.\n\n - You have the ability to translate high-level, ambiguous client needs into actionable data science requirements and mathematical frameworks.\n\n - You promote a culture of shared best practices, ensuring all AI development is transparent, ethical, and held to high peer-reviewed standards.\n\n - You are a clear communicator who can manage technical discussions with customers and articulate project feasibility and delivery timelines.\n\n - You are highly proficient in advanced Python and harness frameworks, capable of building the architectures necessary for production-grade AI.\n\n\n\n\nOUR INTERVIEW PROCESS\n\n \n\n 1. Talent Team Screen (30 minutes)\n\n 2. Take Home Technical Assessment\n\n 3. Technical Interview (90 minutes)\n\n 4. Commercial Interview (60 minutes)\n\n\n\n\n\n\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "salary_text": null,
+   "key": "ashby:faculty:0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2",
+   "is_new": true,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "52287849-e7c4-43ac-adda-480dedd87f5f",
+   "company": "faculty",
+   "role": "Lead Data Scientist ",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/52287849-e7c4-43ac-adda-480dedd87f5f",
+   "posted": "2026-10-22",
+   "updated": "2026-10-22",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\n\n\n\nABOUT THE TEAM \n\n \n\nOur Energy, Transition and Environment business unit is pioneering meaningful change in the clean energy revolution. Our vision is to accelerate the transition to net-zero emissions and drive efficiencies for a new era of utility companies.\n\n \n\nWe believe that the responsible, and intelligent, deployment of AI is critical to the success of this mission. We partner with a wide range of clients - from major energy operators, to GreenTech startups, and national infrastructure providers - to build solutions which return measurable impact and move us towards a smarter, cleaner, and more sustainable world.\n\n \n\n\n\n\nABOUT THE ROLE\n\n \n\nAs a Lead Data Scientist, you'll take on a pivotal, entrepreneurial role, functioning as the technical expert who thrives on complexity and commercial impact. You will be responsible for setting the technical direction and ensuring the high-quality, scalable delivery of our most challenging, high-impact projects. \n\n\nThis position combines deep expertise in machine learning with strategic oversight to define project roadmaps, manage technical risk, and architect reliable solutions. Your focus will be on driving innovation, mentoring cross-functional teams, and actively shaping both our technical standards and long-term customer relationships.\n\n \n\n\n\nWHAT YOU'LL BE DOING:\n\n \n\n - Setting the technical direction for complex, business-critical projects and expertly balancing trade-offs between speed, innovation, and reliability.\n\n - Designing and implementing reliable, production-grade technical solutions, ensuring comprehensive documentation of architectures and specifications.\n\n - Defining project problems, developing clear roadmaps, and overseeing end-to-end delivery across multi-disciplinary workstreams.\n\n - Leading technical scoping and feasibility studies for high-value sales opportunities and strategic customer engagements.\n\n - Managing relationships and communications with demanding clients, fostering trust and aligning technical solutions with shared long-term commercial goals.\n\n - Driving the adoption of best practices, shared resources, and robust technical processes across the wider Data Science craft.\n\n - Mentoring and developing other data scientists and team members, actively contributing to the growth and technical excellence of the organisation.\n\n \n\n\nWHO WE'RE LOOKING FOR:\n\n \n\n - You bring depth of expertise in at least one machine learning domain and strong technical breadth across the entire data science landscape.\n\n - You are a skilled technical leader, proficient in mentoring individuals, managing teams (including other managers), and rolling out impactful tools and workflows.\n\n - You have proven project management expertise, capable of dividing complex, ill-defined problems into actionable, clearly defined workstreams with timelines you can defend.\n\n - You are adept at managing ill-defined, high-risk tasks, consistently delivering innovative and practical outcomes under commercial pressure.\n\n - You possess strong customer leadership skills, able to act as a trusted technical advisor and drive long-term strategic relationships with demanding clients.\n\n - You excel at cross-functional collaboration, effectively aligning technical strategy with Engineering, Commercial (BD), and Infrastructure teams.\n\n - You have experience extending technical oversight to business unit-level initiatives, using your vision to influence and contribute to organisational success.\n\n \n\n\nOUR INTERVIEW PROCESS\n\n \n\n 1. Talent Team Screen (30 minutes)\n\n 2. Introduction to the team (45 minutes)\n\n 3. Technical Interview (90 minutes) \n\n 4. Commercial Interview (60 minutes)\n\n\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "salary_text": null,
+   "key": "ashby:faculty:52287849-e7c4-43ac-adda-480dedd87f5f",
+   "is_new": true,
+   "first_seen": "2026-10-23"
+  },
+  {
+   "ats": "ashby",
+   "token": "trainline",
+   "id": "ce591ff8-7272-4e1a-8a61-1769e0342249",
+   "company": "trainline",
+   "role": "Data Scientist",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/trainline/ce591ff8-7272-4e1a-8a61-1769e0342249",
+   "posted": "2026-10-22",
+   "updated": "2026-10-22",
+   "description": "About us\n\nAt Trainline, our purpose is to empower greener travel choices, connecting people and places. https://www.thetrainline.com/terms/sustainability-faqs Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. \n\nGreat journeys start with Trainline 🚄 \n\nWe’re Europe’s leading independent rail platform, helping millions of travellers find and book the best-value rail and coach journeys across our app, website and partner channels.\n\nOur job is to make the green travel choice the best choice. By building a better train travel experience, we help more people choose rail - creating a positive impact for customers, our business and the planet.\n\nWe’re a team of more than 1,000 Trainliners from over 50 nationalities, working across London, Paris, Barcelona, Milan, Edinburgh and Madrid. Now is a brilliant time to join us and help shape the future of travel.\n\nIntroducing Data Science & Analytics at Trainline👋    \n\nData Science & Analytics (DSA) is central to how we build products, delight our customers and grow our business. Our Data Scientists are embedded alongside Data Analysts in cross-functional teams which exist across product and marketing.  Data Scientists have a high degree of autonomy and are empowered to drive the success of their teams, using all data and techniques at their disposal.        \n\nAs a Data Scientist, you will be involved in driving insights and strategy for the product team, creating and measuring value through experimentation, creating focus through metrics and goals, and building deep learning about what is most impactful for each team.  You will be able to determine the underlying dynamics of our complex ecosystem and use this to deliver insights and strategic direction, but your main focus will be a complete obsession with driving impact within the product team, drawing on whatever analytical and statistical techniques that will unlock the most benefits.     \n\nData Science and Analytics at Trainline exists within the wider data organisation as part of the tech org, and is complemented by data engineering teams, data platform teams, and ML teams for when deep ML and AI techniques are required. Our autonomous model creates a huge opportunity for personal influence and impact – as the data scientist on the team you will be actively driving innovation on the team by contributing to strategy, execution and continuous learning.    \n\n\n\nAs a Data Scientist at Trainline, you will... 🚄    \n\nAs a Data Scientist in our New Business team, you'll help shape how Trainline grows beyond train tickets. From insurance and protection to hotels, car hire, attractions and other travel experiences, we're exploring new ways to add value throughout the customer journey, including making it easier for customers to plan more of their trip in one place. You'll use customer insights, experimentation and analytical techniques to uncover new opportunities, influence product strategy and create meaningful value for both our customers and Trainline.\n\nAs a Data Scientist, you will be responsible for influencing product and business outcomes, have the autonomy to make things happen and must obsess about having business impact. More specifically you will:   \n\n - Own data science work from start to finish within an embedded product team, from shaping the right question with your colleagues to delivering a solution and measuring its impact\n\n - Explore customer behaviour and product usage to uncover areas of friction, spot new opportunities and estimate the benefit of acting on them\n\n - Contribute to simple, seamless customer journeys by identifying where we can remove barriers and add value\n\n - Design, run and analyse experiments using sound statistical methods, and help define metrics\n\n - Build, test and improve models such as forecasting, personalisation or customer behaviour prediction that enhance the customer experience and support business growth\n\n - Turn your findings into clear, practical recommendations that help shape product and monetisation strategy, tailoring your message for both technical and non-technical audiences\n\n\n\nWe'd love to hear from you if you have... 🔍    \n\n - Hands-on experience applying data science to real product or customer problems, ideally within an embedded or cross-functional team\n\n - Confidence using Python and SQL to explore large datasets of customer activity, build models and write efficient, readable code\n\n - Experience of product engagement evaluation and measurement of success. For example, running A/B tests to evaluate product effectiveness or using front-end data to quantify the effectiveness of new features and how it changes user engagement.  \n\n - The ability to explain complex ideas simply and adapt how you communicate for different audiences\n\n - Ideally, an interest in monetisation, advertising, recommendations or e-commerce, and familiarity with tools such as dbt, Looker or Tableau, although none of these are essential\n\n - Tech Stack: SQL, Python, R, Tableau, AWS Athena + More! \n\n\n\nMore information:\n\nEnjoy fantastic perks like private healthcare & dental insurance, a generous work from abroad policy, 2-for-1 share purchase plans, an EV Scheme to further reduce carbon emissions, extra festive time off, and excellent family-friendly benefits. \n\nWe prioritise career growth with clear career paths, transparent pay bands, personal learning budgets, and regular learning days. Jump on board and supercharge your career from day one! \n\nWe're operating a hybrid model and ask that Trainliners work from the office a minimum of 60% of their time over a 12-week period. We also have a 28-day Work from Abroad policy.\n\nOur values represent the things that matter most to us and what we live and breathe everyday, in everything we do: \n\n - 💭 Think Big - We're building the future of rail \n\n - ✔️ Own It - We focus on every customer, partn",
+   "salary_text": null,
+   "key": "ashby:trainline:ce591ff8-7272-4e1a-8a61-1769e0342249",
+   "is_new": true,
+   "first_seen": "2026-10-23"
   },
   {
    "ats": "greenhouse",
@@ -1100,6 +1164,22 @@
   },
   {
    "ats": "ashby",
+   "token": "lendable",
+   "id": "99104bd1-d5ab-4280-8af9-b738a54da439",
+   "company": "lendable",
+   "role": "Analytics Engineer (UK Cards)",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/lendable/99104bd1-d5ab-4280-8af9-b738a54da439",
+   "posted": "2026-10-21",
+   "updated": "2026-10-21",
+   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong DBT and SQL is a must\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. 15 minute cognitive assessment\n\n 2. Initial chat\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
+   "salary_text": null,
+   "key": "ashby:lendable:99104bd1-d5ab-4280-8af9-b738a54da439",
+   "is_new": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ats": "ashby",
    "token": "faculty",
    "id": "b84b4736-cd44-465a-9e80-6737e1f93076",
    "company": "faculty",
@@ -1113,6 +1193,22 @@
    "key": "ashby:faculty:b84b4736-cd44-465a-9e80-6737e1f93076",
    "is_new": false,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ats": "ashby",
+   "token": "elevenlabs",
+   "id": "41b892ba-b530-44cb-9ae1-178908fc324c",
+   "company": "elevenlabs",
+   "role": "Data Scientist - Product Analytics",
+   "location": "United Kingdom; Spain; Hungary; Bulgaria; Germany; Poland; Italy; France; remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c",
+   "posted": "2026-10-21",
+   "updated": "2026-10-21",
+   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\nAbout the role\n\nWe're looking for a Data Scientist - Product Analytics to join our Growth Data team. You'll own the analysis behind how people discover, adopt and stick with ElevenLabs' products, partnering closely with Product, Growth and the central Data team's certified metrics layer.\n\n - Define and own product health metrics: activation, feature adoption, retention and engagement across ElevenCreative, ElevenAgents and ElevenAPI.\n\n - Design, analyse and communicate the results of product experiments (A/B tests, feature launches, onboarding changes).\n\n - Partner with Analytics Engineering on the certified product KPI layer in dbt, and with Product on turning ambiguous questions into trusted analysis.\n\n - Work alongside fellow Growth data scientists on marketing- and revenue-adjacent questions that touch the product funnel.\n\n\n\nRequirements\n\nDemonstrated experience as a data scientist embedded with a product or growth team, ideally at a product-led company.\n\n - Strong SQL and Python, with hands-on experience in experimentation (A/B testing) and product analytics.\n\n - Ability to translate ambiguous product questions into clear, reusable analysis and defensible metrics.\n\n - Comfort working directly with Product and Growth stakeholders, and pushing back on ill-defined asks.\n\n - Structured thinker who can move fast without sacrificing rigour.\n\n\n\nBonus\n\n - Experience with activation / retention modelling or lifecycle analytics at a consumer or prosumer product.\n\n - Experience with dbt or a modern warehouse, partnering directly with analytics engineers.\n\n - Experience using AI tools or agents to speed up analysis or enable self-serve data access.\n\n\n\nGrowth potential\n\nWe believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:\n\n - Grow into a Senior or Staff Product Data Scientist role as the Growth Data team scales.\n\n - Expand scope across additional product lines (ElevenAgents, ElevenAPI).\n\n - Path into a Growth Data Science lead or broader data leadership track.\n\n\n\n\nLOCATION\n\nThis role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.\n\n\n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
+   "salary_text": null,
+   "key": "ashby:elevenlabs:41b892ba-b530-44cb-9ae1-178908fc324c",
+   "is_new": false,
+   "first_seen": "2026-10-22"
   }
  ]
 }
