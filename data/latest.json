@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T10:06:08Z",
+ "generated_at": "2026-10-26T11:29:20Z",
  "counts": {
-  "matches": 61,
+  "matches": 59,
   "new": 0,
   "boards_ok": 28,
   "boards_failed": 0
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 156
+   "open_jobs": 154
   },
   {
    "ats": "greenhouse",
@@ -25,7 +25,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 72
+   "open_jobs": 69
   },
   {
    "ats": "greenhouse",
@@ -40,7 +40,7 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 102
+   "open_jobs": 104
   },
   {
    "ats": "greenhouse",
@@ -60,7 +60,7 @@
   {
    "ats": "greenhouse",
    "token": "clearscoretechnologylimited",
-   "open_jobs": 9
+   "open_jobs": 8
   },
   {
    "ats": "ashby",
@@ -105,7 +105,7 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 28
+   "open_jobs": 27
   },
   {
    "ats": "ashby",
@@ -115,7 +115,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 84
+   "open_jobs": 85
   },
   {
    "ats": "ashby",
@@ -140,12 +140,12 @@
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 13
+   "open_jobs": 11
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 534
+   "open_jobs": 532
   }
  ],
  "discovered_tokens": [
@@ -164,7 +164,7 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 14,
+   "open_jobs": 13,
    "matching": 4
   },
   {
@@ -176,7 +176,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 206,
+   "open_jobs": 205,
    "matching": 5
   },
   {
@@ -195,24 +195,24 @@
    "ats": "ashby",
    "token": "elevenlabs",
    "open_jobs": 159,
-   "matching": 3
+   "matching": 2
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 35,
+   "open_jobs": 36,
    "matching": 4
   },
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 22,
+   "open_jobs": 21,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 114,
+   "open_jobs": 113,
    "matching": 3
   }
  ],
@@ -892,22 +892,6 @@
   },
   {
    "ats": "ashby",
-   "token": "elevenlabs",
-   "id": "3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
-   "company": "elevenlabs",
-   "role": "Analytics Engineer",
-   "location": "United Kingdom; Ireland; Spain; Hungary; Bulgaria; Germany; Poland; Netherlands; France; remote",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
-   "posted": "2026-10-06",
-   "updated": "2026-10-06",
-   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\nAbout the role\n\nWe're looking for an experienced Analytics Engineer to join our Data team as one of its first hires. You will own the transformation layer between raw data and business decisions: modelling our data in dbt, defining the certified metrics the company runs on, and setting the standards that every analyst and data scientist at ElevenLabs builds.\n\n - Drive the implementation of a world-class metric layer for the company: modelling conventions, project structure, testing, CI, and documentation.\n\n - Design and maintain the certified KPI layer for product (activation, adoption, retention, usage), finance (billing, ARR, revenue), and company-wide topics, built to withstand audit scrutiny.\n\n - Partner with Data Engineering on evolving the data warehouse architecture, and with stakeholders to turn ambiguous questions into trusted, reusable data products, including data served through AI agents.\n\n\n\nRequirements\n\nDemonstrated experience building and scaling a dbt project and metrics layer, ideally as one of the first analytics engineers on a growing team.\n\n - Expert knowledge of dbt and advanced SQL (required); strong grasp of dimensional modelling, grain, and incremental patterns.\n\n - Proficiency across the modern data stack (BigQuery or similar warehouse, Python, BI tools such as Looker).\n\n - Rigour around data quality: you test, document, and reconcile by default, and you spot a model that runs cleanly but is quietly wrong.\n\n - Strong ability to understand varied stakeholder requirements, push back where needed, and translate them into generalised, well-documented models.\n\nBonus:\n\n - Experience modelling billing, subscription and ARR data (Stripe, Salesforce) or product event data at scale.\n\n - Experience serving data to LLM-based agents or building semantic / metrics layers consumed by AI tools.\n\n - Experience with CI for data (Slim CI, data contracts, PII policy tags) and infrastructure-as-code for warehouse access.\n\n\n\n \n\n\nLOCATION\n\nThis role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.\n\n \n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
-   "salary_text": null,
-   "key": "ashby:elevenlabs:3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
    "token": "trainline",
    "id": "2757aa18-5e60-45cf-ac9d-be11dee1afe2",
    "company": "trainline",
@@ -1095,22 +1079,6 @@
    "description": "Data Analyst, Supply\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n&nbsp;&nbsp;Prolific\n\nProlific is not just another player in the AI space – we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditised, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\nThe role\n\nAs Prolific scales, maintaining a healthy and sustainable participant marketplace will be critical to our ability to meet growing demand for high-quality human data.&nbsp;This role will own analytics across the participant lifecycle, from acquisition and onboarding through activation, engagement, quality, retention, and reactivation.\n\nYou’ll build the metrics, dashboards, and experimentation frameworks that help us understand participant behaviour and improve the participant experience. You’ll work closely with Product, Operations, Growth, and Data Science to identify opportunities, structure experiments, and turn complex marketplace data into clear decisions.\n\nWorking hands-on across SQL, Python, experimentation, and stakeholder conversations, you’ll create clarity around participant health, marketplace liquidity, and long-term supply sustainability.\n\n&nbsp;\n\nWhat you’ll bring to the role\n\n- Analytics Expertise: Advanced SQL and strong Python proficiency (e.g. pandas, experimentation analysis, automation), with a track record of building scalable reporting frameworks in modern BI tools (Metabase, Looker, Tableau). Comfortable owning problems end-to-end — from raw data to executive-ready insight.\n\n- Lifecycle Analytics: Experience analysing user acquisition, onboarding, activation, engagement, retention, churn, and behavioural cohorts.\n\n- Experimentation &amp; Statistics: Experience designing and analysing A/B or operational experiments, with solid grounding in statistical concepts and causal thinking.\n\n- Product Thinking: Ability to translate participant and marketplace challenges into measurable hypotheses, success metrics, and actionable recommendations.\n\n- Commercial Acumen: Strong ability to connect operational metrics to revenue, margin, and financial performance — understanding not just what is happening, but why it matters commercially.\n\n- Autonomy &amp; Ownership: Comfortable operating with high autonomy in a fast-moving environment, setting priorities, challenging assumptions, and driving initiatives from problem definition through implementation.\n\n- Stakeholder Management: Proven ability to partner across Product, Operations, Commercial, and Finance functions.\n\n- Marketplace Understanding: Strong grasp of B2B and two-sided marketplace metrics and economics.\n\n- Clear Communication: Ability to translate complex analysis into concise, decision-ready insights that shape strategy and execution.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioural data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviours into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation – one that reflects the breath and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunities for groundbreaking research. Join us to enjoy a competitive salary, benefits, and remote working within our impactful, mission-driven culture.\n\nLinks to more information on Prolific\n\nBenefits&nbsp;\n\nExternal Handbook&nbsp;\n\nWebsite&nbsp;\n\nYouTube&nbsp;\n\n&nbsp;\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organisation planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal information.",
    "salary_text": null,
    "key": "greenhouse:prolific:5014007101",
-   "is_new": false,
-   "first_seen": "2026-10-23"
-  },
-  {
-   "ats": "greenhouse",
-   "token": "clearscoretechnologylimited",
-   "id": "5013940101",
-   "company": "ClearScore Technology Limited",
-   "role": "Data Analyst ",
-   "location": "London, England, United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/5013940101",
-   "posted": "2026-10-22",
-   "updated": "2026-10-22",
-   "description": "Data Analyst \n\nWe’re looking for a Data Analyst to join our team here at ClearScore in London. Analysts play a key role within ClearScore, driving strategy and key decision-making, which ultimately benefits our users, partners, and other teams within the business. We’re seeking an adaptable, curious, and challenge-loving individual to join our growing Global Targeting team.\n\nClearScore has an amazing analytical community which includes Data Analysts, Scientists and Engineers. The community works collaboratively to ensure a landscape in which team members can develop their full potential and deliver maximum business impact.\n\nClearScore is both a free credit score and report service and the UK’s leading consumer credit marketplace. As a part of the Global Targeting team, you will play a key role in monitoring and reporting on the effectiveness of our Targeting strategy for our users, playing a key part in the formulation, execution and analysis of our experiments, and providing recommendations to drive improvements that drive a better experience for our users.\n\nWhat you will be doing:\n\n- Collaborate closely with your Targeting squad members, providing insights into the performance of our various user segments.\n\n- Deliver data informed and backed recommendations for improvements to our Targeting strategy.\n\n- Conduct detailed analysis of A/B tests to drive better outcomes for our users across user journeys.\n\n- Lead in-depth analytics projects, leveraging data to uncover opportunities and address complex business challenges.\n\n- Develop efficient and effective monitoring and reporting dashboards using SQL, Databricks, and Domo.\n\n- Leverage advanced AI to automate and scale existing and new analytics processes\n\nSkills we'd love you to have\n\n- SQL, Excel skills and either R or Python. Knowledge of&nbsp;DBT and analytical tools such as Amplitude is a plus\n\n- A strong quantitative and numerical skills, as well as a good understanding of hypothesis testing and foundational statistical principles\n\n- Experience using Domo or other data visualisation tools\n\n- A desire to learn and enjoy working collaboratively, with a desire to contribute to our culture.\n\n- You do not need to fit into a stereotype: we are really committed to closing our gender gap and are actively trying to create an environment where you, as an individual, can thrive.\n\n- A self-starter mindset: curious, collaborative, and committed to continuous learning. A desire to deeply understand a problem and its importance to the business before attempting to solve it\n\n- A drive to understand our users, products, and how users interact with them, enhancing your ability to generate meaningful features and solutions relevant to the problem being addressed\n\n- The ability to explain to technical and non-technical audiences the key learnings/findings from complex analysis and modelling exercises\n\nWhy ClearScore?\n\nClearScore is the UK's #1 credit score and report app. We are also present in South Africa, Australia and Canada, with more than 20 million users globally and growing fast. Someone joins ClearScore every 20 seconds. We have established relationships with over 50 of the main lenders in the U.K., and have been a trusted tool for customers to manage their credit and make better financial decisions.\n\nSince October 2016 we have helped 1.8 million users take out a new credit card or loan. We are user-centric at our core and we believe in leveraging technology to enable positive financial choices. We are design-led and data-driven and we embed these behaviours in everything we do.\n\nOur company culture is a fundamental part of all we have achieved. We believe in hiring smart, driven, passionate and diverse people who are keen on having a real impact in our organisation. We trust you to manage your own time so we offer flexible work and no fixed desk hours. We don't micromanage and we believe in measuring outcomes rather than effort. We have an inclusive culture where all, regardless of seniority, are encouraged to contribute with their ideas, look after their wellbeing and actively seek opportunities for career growth.\n\nIf you feel like this could be the place for you, apply and our Talent team will be happy to share more.\n\nBenefits:\n\n- 25 paid holidays and a “duvet day” on your birthday\n\n- Hybrid Work Environment\n\n- Private health and dental cover - including mental health support through Bupa&nbsp;\n\n- GP office visits\n\n- Life assurance scheme\n\n- Up to 6% matched pension\n\n- Regular Lunch and Learns with guest speakers\n\n- Dog-friendly office\n\n- Daily breakfast and free snacks\n\n- Access to discounts via Cobens Extras&nbsp;\n\n- Free sports and social clubs\n\n- Continued investment into learning and development&nbsp;\n\n- Leadership-led training\n\n- In-house psychotherapist\n\n- Financial coach to help you plan and achieve your goals\n\n- No clock-watching culture\n\n- Generous maternity and paternity plans\n\n- Culture and inclusion representatives\n\n- Transparent pay structure and a career growth plan\n\n&nbsp;\n\nEqual Opportunities\n\nClearScore is committed to providing equal employment opportunities to all qualified individuals. As an equal opportunity employer, we are able to make reasonable adjustments to accommodate individuals with disabilities during the recruitment and selection process. If you require accommodation, please inform us in advance, and we will work with you to meet your needs.\n\nOur Hybrid Model\n&nbsp;\nWe embrace a&nbsp;dynamic hybrid work environment that balances flexibility with collaborative in-person experiences. Our approach is designed to foster innovation, team connection, and individual productivity.\n\n- Levels 1-5: Minimum 3 days per week in-office\n\n- Level 6 and above: Minimum 3 days per week in-office\n\nWe believe this structure offers the best of both worlds - the flexibility of remote work and the synergy of face-to-face collaboration. Our office days are carefully coordinated to maximise team interactions and learning/ mentorship op",
-   "salary_text": null,
-   "key": "greenhouse:clearscoretechnologylimited:5013940101",
    "is_new": false,
    "first_seen": "2026-10-23"
   },
