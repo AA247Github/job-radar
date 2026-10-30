@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T11:43:41Z",
+ "generated_at": "2026-10-30T11:35:36Z",
  "counts": {
-  "matches": 58,
-  "new": 0,
+  "matches": 59,
+  "new": 2,
   "boards_ok": 28,
   "boards_failed": 0
  },
@@ -10,22 +10,22 @@
   {
    "ats": "greenhouse",
    "token": "doctolib",
-   "open_jobs": 150
+   "open_jobs": 153
   },
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 58
+   "open_jobs": 61
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 32
+   "open_jobs": 30
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 67
+   "open_jobs": 64
   },
   {
    "ats": "greenhouse",
@@ -40,7 +40,7 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 95
+   "open_jobs": 92
   },
   {
    "ats": "greenhouse",
@@ -55,7 +55,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 32
+   "open_jobs": 31
   },
   {
    "ats": "greenhouse",
@@ -90,7 +90,7 @@
   {
    "ats": "ashby",
    "token": "causaly",
-   "open_jobs": 6
+   "open_jobs": 7
   },
   {
    "ats": "ashby",
@@ -115,7 +115,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 83
+   "open_jobs": 84
   },
   {
    "ats": "ashby",
@@ -125,12 +125,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 304
+   "open_jobs": 302
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 889
+   "open_jobs": 888
   },
   {
    "ats": "lever",
@@ -145,7 +145,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 495
+   "open_jobs": 498
   }
  ],
  "discovered_tokens": [
@@ -176,8 +176,8 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 211,
-   "matching": 5
+   "open_jobs": 213,
+   "matching": 4
   },
   {
    "ats": "ashby",
@@ -194,7 +194,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 153,
+   "open_jobs": 151,
    "matching": 3
   },
   {
@@ -212,12 +212,44 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 117,
+   "open_jobs": 115,
    "matching": 3
   }
  ],
  "failures": [],
  "jobs": [
+  {
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "e6e788ad-706d-433e-8a33-356f90fcff31",
+   "company": "faculty",
+   "role": "Senior Data Scientist ",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/e6e788ad-706d-433e-8a33-356f90fcff31",
+   "posted": "2026-10-30",
+   "updated": "2026-10-30",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n \n\n\nABOUT THE TEAM \n\n \n\nOur Public Services Business Unit is committed to leveraging AI for the benefit of individual citizens and the public good.\n\nFrom our work informing strategic government decisions, to optimising our NHS, through to reducing bureaucratic backlogs - we know that AI offers opportunities to drive improvements at every level of Government and we are proud to lead on some of the most impactful work happening in the sector.\n\nBecause of the nature of the work we do with our Government clients, you may need to be eligible for UK Security Clearance (SC) and willing to work on site with these clients from time to time.\n\n \n \n\n\nABOUT THE ROLE\n\n \n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions. This role requires hands-on technical excellence combined with crucial team leadership. \n\n\nYou will define data science approaches, design robust software architectures, mentor junior colleagues, and ensure delivery rigour across projects all while building deep client relationships and solidifying our reputation as a leader in practical, measurable AI.\n\n#LI-PRIO\n\n \n \n\n\nWHAT YOU'LL BE DOING:\n\n \n\n - Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the sector.\n\n - Conceiving the core data science approach and designing the associated robust software architecture for new engagements.\n\n - Mentoring a small number of data scientists and supporting the professional growth of technical team members on projects.\n\n - Partnering with commercial teams to build client relationships and shape project scope for technical feasibility.\n\n - Contributing to Faculty’s thought leadership and reputation through delivering courses, public speaking, or open-source projects.\n\n - Ensuring best practices are followed throughout the project lifecycle to guarantee high-quality, impactful delivery.\n   \n    \n\n\nWHO WE'RE LOOKING FOR:\n\n \n\n - You possess senior experience in a professional data science position or a quantitative academic field.\n\n - You demonstrate strong programming skills, with the ability to be a fluent Python programmer, using core libraries (NumPy, Pandas) and a deep-learning framework (e.g., PyTorch).\n\n - You have a deep expertise in core data science paradigms (supervised/unsupervised, NLP, validation), demonstrating a proficiency across the standard data science toolkit, including the ability to develop new, innovative algorithms.\n\n - You bring a leadership mindset, focused on growing the technical capabilities of the team and nurturing a collaborative culture.\n\n - You exhibit commercial awareness, with experience in client-facing work and the ability to translate business problems into a rigorous mathematical framework.\n\n - You are skilled in project planning, assessing technical feasibility, estimating delivery timelines, and leading a team to deliver high-quality work on a strict schedule.\n\n \n\n\nOUR INTERVIEW PROCESS\n\n \n\n 1. Talent Team Screen (30 minutes)\n\n 2. Take Home Technical Assessment\n\n 3. Technical Interview (90 minutes)\n\n 4. Commercial Interview (60 minutes)\n\n\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "salary_text": null,
+   "key": "ashby:faculty:e6e788ad-706d-433e-8a33-356f90fcff31",
+   "is_new": true,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "a3cebc63-07df-426b-8156-4526481f488c",
+   "company": "faculty",
+   "role": "Lead Data Scientist ",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/a3cebc63-07df-426b-8156-4526481f488c",
+   "posted": "2026-10-30",
+   "updated": "2026-10-30",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n \n\n\nABOUT THE TEAM \n\n \n\nOur Public Services Business Unit is committed to leveraging AI for the benefit of individual citizens and the public good.\n\nFrom our work informing strategic government decisions, to optimising our NHS, through to reducing bureaucratic backlogs - we know that AI offers opportunities to drive improvements at every level of Government and we are proud to lead on some of the most impactful work happening in the sector.\n\nBecause of the nature of the work we do with our Government clients, you may need to be eligible for UK Security Clearance (SC) and willing to work on site with these clients from time to time.\n\n \n \n\n\nABOUT THE ROLE\n\n \n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions. This role requires hands-on technical excellence combined with crucial team leadership. \n\n\nYou will define data science approaches, design robust software architectures, mentor junior colleagues, and ensure delivery rigour across projects all while building deep client relationships and solidifying our reputation as a leader in practical, measurable AI.\n\n#LI-PRIO\n\n \n \n\n\nWHAT YOU'LL BE DOING:\n\n \n\n - Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the sector.\n\n - Conceiving the core data science approach and designing the associated robust software architecture for new engagements.\n\n - Mentoring a small number of data scientists and supporting the professional growth of technical team members on projects.\n\n - Partnering with commercial teams to build client relationships and shape project scope for technical feasibility.\n\n - Contributing to Faculty’s thought leadership and reputation through delivering courses, public speaking, or open-source projects.\n\n - Ensuring best practices are followed throughout the project lifecycle to guarantee high-quality, impactful delivery.\n   \n    \n\n\nWHO WE'RE LOOKING FOR:\n\n \n\n - You possess senior experience in a professional data science position or a quantitative academic field.\n\n - You demonstrate strong programming skills, with the ability to be a fluent Python programmer, using core libraries (NumPy, Pandas) and a deep-learning framework (e.g., PyTorch).\n\n - You have a deep expertise in core data science paradigms (supervised/unsupervised, NLP, validation), demonstrating a proficiency across the standard data science toolkit, including the ability to develop new, innovative algorithms.\n\n - You bring a leadership mindset, focused on growing the technical capabilities of the team and nurturing a collaborative culture.\n\n - You exhibit commercial awareness, with experience in client-facing work and the ability to translate business problems into a rigorous mathematical framework.\n\n - You are skilled in project planning, assessing technical feasibility, estimating delivery timelines, and leading a team to deliver high-quality work on a strict schedule.\n\n \n\n\nOUR INTERVIEW PROCESS\n\n \n\n 1. Talent Team Screen (30 minutes)\n\n 2. Take Home Technical Assessment\n\n 3. Technical Interview (90 minutes)\n\n 4. Commercial Interview (60 minutes)\n\n\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "salary_text": null,
+   "key": "ashby:faculty:a3cebc63-07df-426b-8156-4526481f488c",
+   "is_new": true,
+   "first_seen": "2026-10-30"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -635,22 +667,6 @@
    "first_seen": "2026-10-09"
   },
   {
-   "ats": "greenhouse",
-   "token": "deliveroo",
-   "id": "8206461",
-   "company": "Deliveroo ",
-   "role": "Analytics Engineer – BI Platform",
-   "location": "London, United Kingdom - Deliveroo",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206461",
-   "posted": "2026-09-22",
-   "updated": "2026-10-26",
-   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that serve millions of customers, riders and partners every day.\n\nFrom real-time logistics to resilient infrastructure and marketplace optimisation, we design, build and operate technology that powers Deliveroo’s growth at scale.\n\nWe’re looking for a BI Engineer to join our London team. This role is based in our London office with a hybrid setup, typically 3 days in the office.\n\nGet to know our Engineering team — what drives us, how we work, and what you can expect.\n\n&nbsp;\nAbout the Team\n\nThe Core BI team builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists, Software Engineers and business teams discover trusted data and make informed decisions at scale.\n\nWe combine software engineering, platform ownership, and a strong user focus to make BI tooling reliable, secure, scalable and self-service. The team supports the current BI ecosystem while helping shape a more integrated experience across the DoorDash group.\n\n&nbsp;\n\nAbout the Role\n\nAs a BI Engineer on the Core BI team, you will build and operate the models, systems and automation behind our BI platforms. This will include supporting our extensive user base on our current BI stack (primarily Looker and Sigma) while helping shape a single, more integrated BI platform across DoorDash, Deliveroo and Wolt.\n\nYou will own problems from discovery through design, implementation, deployment, and operational support. You will work closely with Data Engineers, Analytics Engineers, Data Scientists, Software Engineers, Product Managers and business teams to turn recurring user needs into durable, self-service capabilities. If you're energized by solving technical problems with data and comfortable being deeply embedded across several domains, this role is for you!\n\nYou’re excited about this opportunity because you will…\n\n- \nOwn and evolve the semantic layer behind our BI platforms: LookML and Canvas BI models, metric and dimension definitions, and the governance that keeps them trusted\n\n- \nBuild and operate the Looker and Sigma platforms themselves: instance and workspace configuration, permissions and user attributes, content lifecycle, and API-driven automation\n\n- \nLead the development of self-serve tooling that removes manual BI administration, using usage analytics to decide what to automate, build or retire next\n\n- \nSupport BI platform migrations and deprecations across DoorDash, Deliveroo and Wolt while protecting access, governance, data integrity and business continuity\n\n- \nTake part in operational support, production debugging and incident response for the BI stack, and fix the root causes you find\n\n- \nChampion engineering standards in BI, including version control, code review, CI and testing for models and platform code, so changes ship safely and repeatably\n\nWe’re excited about you because…\n\n- \n3+ years of experience in business intelligence engineering, analytics engineering, data engineering, or a similar code-first data role\n\n- \nStrong Python and SQL skills, and hands-on experience using AI tools (LLMs, agentic workflows, AI-assisted development) to accelerate your own engineering work\n\n- \nHands-on experience building in a BI platform such as Looker (LookML) or Sigma, modelling and configuring it, not only building dashboards in it\n\n- \nExperience with semantic or metrics layers (LookML, dbt or similar): defining metrics and dimensions, and keeping those definitions consistent as they are reused\n\n- \nExperience running what you build in production: version control, code review, CI, debugging live issues and taking part in operational support\n\n- \nExcellent communication skills, and comfortable self-organising in a fast-paced, distributed environment with both technical and non-technical teams\n\nNice to Have\n\n- \nExperience with modern data warehousing platforms (e.g., Snowflake, Databricks, Redshift) and ability to optimize performance\n\n- \nExperience automating BI administration through platform APIs, or identity and access through Okta, SCIM or role-based access controls\n\n- \nExperience supporting a BI stack across multiple brands, tenants or regions, or leading a BI platform migration\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters—solving real-world problems in a three-sided marketplace that’s constantly evolving. We’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale Work on a complex, always-on marketplace that impacts millions every day.\n\n🌱 See your impact, fast Ship, test and improve ideas quickly in a low-hierarchy, high-ownership environment.\n\n🧠 Grow through challenge and ownership Take on big, ambiguous problems and accelerate your career with strong support.\n\n🌎 A culture built for builders High standards, collaboration, flexible working and continuous learning.\n\n➡️ Want a deeper look at how we build? Check out our Tech Blog.\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Explore our Engineering Interview Guide here to help you feel confident at each stage.\n\nOur Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammat",
-   "salary_text": null,
-   "key": "greenhouse:deliveroo:8206461",
-   "is_new": false,
-   "first_seen": "2026-10-17"
-  },
-  {
    "ats": "lever",
    "token": "zopa",
    "id": "b00f2b6a-6c60-4b6e-8f8e-5c3630b1240c",
@@ -900,7 +916,7 @@
    "url": "https://jobs.ashbyhq.com/marshmallow/c316bf98-6f62-43be-914b-b96f486e08ce",
    "posted": "2026-10-09",
    "updated": "2026-10-09",
-   "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 3 DAYS IN OFFICE)\n\n \n\n\nCAR FINANCE AT MARSHMALLOW\n\nMarshmallow is opening up access to credit to migrants, bringing a brand new product to market which provides newcomers to the UK with fairly priced car finance for the first time.\n\nOur Car Finance team is building a new generation lending platform from the ground up, making it simple, transparent and accessible for people who need finance to get on the road. We work closely with dealers, brokers and customers to make sure that every application, decision and interaction is fast, fair and easy to understand.\n\nBecause we’re a small, high-performing team, everyone has real ownership. We combine hands-on operations with a strong focus on automation and technology. We’re designing highly automated, AI-powered processes that let us move faster and smarter than traditional lenders.\n\n\n\n\nTHE ROLE\n\nWe're hiring a Data Scientist to sit at the heart of how we lend: who we say yes to, at what price, and how we know it's working.\n\nOur customers are people that traditional lenders struggle to assess. Many are new to the UK, have thin or no credit files, and don't fit neatly into off-the-shelf bureau scores. That makes credit decisioning at Marshmallow a genuinely hard, genuinely interesting problem: we combine bureau data, Open Banking, insurance, application and behavioural data to build a view of risk that others can't, and we need to do it in a way that is fair, explainable and compliant.\n\nThis role sits between a traditional credit analyst and a data scientist. You'll build and monitor scorecards, design and test credit strategies, dig into portfolio performance to find out what's really going on, and turn large, messy datasets into insights that change how we lend. You'll own your work end-to-end: from framing the question and pulling the data through to modelling, presenting a recommendation and seeing it live in our decision engine.\n\nYou'll be working with a small team and a modern stack, alongside a Head of Credit who has built this function from scratch and who will give you real ownership from day one. This is not a role where you hand models over a wall and move on - you'll see the impact of your decisions immediately.\n\n \n\n\nWHAT YOU'LL BE DOING\n\n - Build, validate and monitor application and behavioural scorecards, using bureau, Open Banking and internal data to improve how we assess new-to-UK and thin-file customers.\n\n - Design, test and refine our credit strategy: cut-offs, affordability rules, pricing tiers and limits, with a clear view of the trade-off between risk, volume and margin.\n\n - Run experiments and champion/challenge tests to prove that changes to policy and models actually work before we scale them.\n\n - Explore new data sources and alternative signals, and build the case for using (or not using) them in decisioning.\n\n - Support model governance: document what you build, evidence that it treats customers fairly, and help us meet our Consumer Duty, CONC and model risk obligations.\n\n - Work with our engineers to get models and rules into production, and use AI tooling to make yourself and the team faster.\n\n\nWHAT YOU'LL BRING\n\nMust have\n\n - 2–5 years' experience in decision science or data science within consumer lending or another regulated financial services environment.\n\n - Hands-on experience developing or materially refining credit scorecards or risk models (logistic regression and/or gradient boosting), including the practicalities: sample design, binning, reject inference, validation and monitoring.\n\n - Experience working with Open Banking or other alternative data in credit decisioning.\n\n - SQL user, and comfortable working with large, imperfect datasets.\n\n - A solid grounding in statistics and a good instinct for when a result is real and when it isn't.\n\n - Commercial judgement: you can translate a model output into a lending decision and explain the trade-offs to a non-technical audience.\n\n - Curiosity and ownership. You ask why, you dig until you find the answer, and you'd rather ship something and improve it than wait for perfection.\n\nNice to have\n\n - Motor finance or other secured lending experience.\n\n - Experience of working within a rapidly scaling lending environment.\n\n - Familiarity with UK consumer credit regulation and how it shapes model design and use.\n\n - Experience using LLMs to speed up analytical work.\n\n - You already know some of the tooling Marshmallow uses: Snowflake, Python, Claude, Linear, Notion\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n \n\nWe are not able to offer visa sponsorship for this position.\n\n \n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Onsite interview con",
+   "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 3 DAYS IN OFFICE)\n\n \n\n\nCAR FINANCE AT MARSHMALLOW\n\nMarshmallow is opening up access to credit to migrants, bringing a brand new product to market which provides newcomers to the UK with fairly priced car finance for the first time.\n\nOur Car Finance team is building a new generation lending platform from the ground up, making it simple, transparent and accessible for people who need finance to get on the road. We work closely with dealers, brokers and customers to make sure that every application, decision and interaction is fast, fair and easy to understand.\n\nBecause we’re a small, high-performing team, everyone has real ownership. We combine hands-on operations with a strong focus on automation and technology. We’re designing highly automated, AI-powered processes that let us move faster and smarter than traditional lenders.\n\n\n\n\nTHE ROLE\n\nWe're hiring a Data Scientist to sit at the heart of how we lend: who we say yes to, at what price, and how we know it's working.\n\nOur customers are people that traditional lenders struggle to assess. Many are new to the UK, have thin or no credit files, and don't fit neatly into off-the-shelf bureau scores. That makes credit decisioning at Marshmallow a genuinely hard, genuinely interesting problem: we combine bureau data, Open Banking, insurance, application and behavioural data to build a view of risk that others can't, and we need to do it in a way that is fair, explainable and compliant.\n\nThis role sits between a traditional credit analyst and a data scientist. You'll build and monitor scorecards, design and test credit strategies, dig into portfolio performance to find out what's really going on, and turn large, messy datasets into insights that change how we lend. You'll own your work end-to-end: from framing the question and pulling the data through to modelling, presenting a recommendation and seeing it live in our decision engine.\n\nYou'll be working with a small team and a modern stack, alongside a Head of Credit who has built this function from scratch and who will give you real ownership from day one. This is not a role where you hand models over a wall and move on - you'll see the impact of your decisions immediately.\n\n \n\n\nWHAT YOU'LL BE DOING\n\n - Build, validate and monitor application and behavioural scorecards, using bureau, Open Banking and internal data to improve how we assess new-to-UK and thin-file customers.\n\n - Design, test and refine our credit strategy: cut-offs, affordability rules, pricing tiers and limits, with a clear view of the trade-off between risk, volume and margin.\n\n - Run experiments and champion/challenge tests to prove that changes to policy and models actually work before we scale them.\n\n - Explore new data sources and alternative signals, and build the case for using (or not using) them in decisioning.\n\n - Support model governance: document what you build, evidence that it treats customers fairly, and help us meet our Consumer Duty, CONC and model risk obligations.\n\n - Work with our engineers to get models and rules into production, and use AI tooling to make yourself and the team faster.\n\n\nWHAT YOU'LL BRING\n\nMust have\n\n - 2–5 years' experience in decision science or data science within consumer lending or another regulated financial services environment.\n\n - Hands-on experience developing or materially refining credit scorecards or risk models (logistic regression and/or gradient boosting), including the practicalities: sample design, binning, reject inference, validation and monitoring.\n\n - Experience working with Open Banking or other alternative data in credit decisioning.\n\n - SQL user, and comfortable working with large, imperfect datasets.\n\n - A solid grounding in statistics and a good instinct for when a result is real and when it isn't.\n\n - Commercial judgement: you can translate a model output into a lending decision and explain the trade-offs to a non-technical audience.\n\n - Curiosity and ownership. You ask why, you dig until you find the answer, and you'd rather ship something and improve it than wait for perfection.\n\nNice to have\n\n - Motor finance or other secured lending experience.\n\n - Experience of working within a rapidly scaling lending environment.\n\n - Familiarity with UK consumer credit regulation and how it shapes model design and use.\n\n - Experience using LLMs to speed up analytical work.\n\n - You already know some of the tooling Marshmallow uses: Snowflake, Python, Claude, Linear, Notion\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n \n\nWe are able to offer visa sponsorship for this position.\n\n \n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Onsite interview consist",
    "salary_text": null,
    "key": "ashby:marshmallow:c316bf98-6f62-43be-914b-b96f486e08ce",
    "is_new": false,
