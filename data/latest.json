@@ -1,17 +1,12 @@
 {
- "generated_at": "2026-11-01T12:00:50Z",
+ "generated_at": "2026-11-02T13:49:09Z",
  "counts": {
   "matches": 58,
   "new": 0,
-  "boards_ok": 28,
-  "boards_failed": 0
+  "boards_ok": 27,
+  "boards_failed": 1
  },
  "live_tokens": [
-  {
-   "ats": "greenhouse",
-   "token": "doctolib",
-   "open_jobs": 153
-  },
   {
    "ats": "greenhouse",
    "token": "swordhealth",
@@ -30,7 +25,7 @@
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 21
+   "open_jobs": 20
   },
   {
    "ats": "greenhouse",
@@ -40,12 +35,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 90
+   "open_jobs": 89
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 27
+   "open_jobs": 26
   },
   {
    "ats": "greenhouse",
@@ -60,12 +55,12 @@
   {
    "ats": "greenhouse",
    "token": "clearscoretechnologylimited",
-   "open_jobs": 10
+   "open_jobs": 9
   },
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 12
+   "open_jobs": 14
   },
   {
    "ats": "ashby",
@@ -80,12 +75,12 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 32
+   "open_jobs": 33
   },
   {
    "ats": "ashby",
    "token": "photoroom",
-   "open_jobs": 10
+   "open_jobs": 9
   },
   {
    "ats": "ashby",
@@ -95,12 +90,12 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 18
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 33
+   "open_jobs": 32
   },
   {
    "ats": "ashby",
@@ -115,7 +110,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 84
+   "open_jobs": 85
   },
   {
    "ats": "ashby",
@@ -130,7 +125,7 @@
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 892
+   "open_jobs": 891
   },
   {
    "ats": "lever",
@@ -145,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 493
+   "open_jobs": 495
   }
  ],
  "discovered_tokens": [
@@ -176,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 202,
+   "open_jobs": 200,
    "matching": 3
   },
   {
@@ -194,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 138,
+   "open_jobs": 144,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 35,
+   "open_jobs": 34,
    "matching": 4
   },
   {
@@ -212,11 +207,17 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 114,
+   "open_jobs": 113,
    "matching": 3
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "ats": "greenhouse",
+   "token": "doctolib",
+   "error": "HTTP 404"
+  }
+ ],
  "jobs": [
   {
    "ats": "greenhouse",
