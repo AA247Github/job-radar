@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T12:59:37Z",
+ "generated_at": "2026-11-04T13:15:12Z",
  "counts": {
-  "matches": 55,
+  "matches": 53,
   "new": 1,
   "boards_ok": 27,
   "boards_failed": 1
@@ -10,22 +10,22 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 63
+   "open_jobs": 66
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 30
+   "open_jobs": 28
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 58
+   "open_jobs": 56
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 19
+   "open_jobs": 18
   },
   {
    "ats": "greenhouse",
@@ -35,12 +35,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 88
+   "open_jobs": 80
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 26
+   "open_jobs": 29
   },
   {
    "ats": "greenhouse",
@@ -50,7 +50,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 32
+   "open_jobs": 34
   },
   {
    "ats": "greenhouse",
@@ -60,7 +60,7 @@
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 13
+   "open_jobs": 14
   },
   {
    "ats": "ashby",
@@ -75,7 +75,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 31
+   "open_jobs": 30
   },
   {
    "ats": "ashby",
@@ -85,12 +85,12 @@
   {
    "ats": "ashby",
    "token": "causaly",
-   "open_jobs": 7
+   "open_jobs": 9
   },
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 16
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
@@ -100,12 +100,12 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 28
+   "open_jobs": 27
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 70
+   "open_jobs": 72
   },
   {
    "ats": "ashby",
@@ -115,32 +115,32 @@
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 19
+   "open_jobs": 21
   },
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 305
+   "open_jobs": 307
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 860
+   "open_jobs": 859
   },
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 33
+   "open_jobs": 32
   },
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 16
+   "open_jobs": 15
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 511
+   "open_jobs": 519
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 196,
+   "open_jobs": 197,
    "matching": 3
   },
   {
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 148,
+   "open_jobs": 145,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 32,
+   "open_jobs": 30,
    "matching": 4
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 111,
+   "open_jobs": 107,
    "matching": 3
   }
  ],
@@ -221,19 +221,19 @@
  "jobs": [
   {
    "ats": "ashby",
-   "token": "lendable",
-   "id": "ceeaf7dd-7b35-47cc-808b-da87ed676557",
-   "company": "lendable",
-   "role": "Analytics Engineer (UK Cards)",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/lendable/ceeaf7dd-7b35-47cc-808b-da87ed676557",
-   "posted": "2026-11-02",
-   "updated": "2026-11-02",
-   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong DBT and SQL is a must\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. 15 minute cognitive assessment\n\n 2. Initial chat\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
-   "salary_text": null,
-   "key": "ashby:lendable:ceeaf7dd-7b35-47cc-808b-da87ed676557",
+   "token": "accurx",
+   "id": "a4df2c3f-2ac9-4b8f-bc78-1feb836fbd38",
+   "company": "accurx",
+   "role": "Senior Data Engineer",
+   "location": "London (Shoreditch); remote",
+   "url": "https://jobs.ashbyhq.com/accurx/a4df2c3f-2ac9-4b8f-bc78-1feb836fbd38",
+   "posted": "2026-11-03",
+   "updated": "2026-11-03",
+   "description": "💬 ACCURX IS WHERE CONVERSATIONS HAPPEN WITH AND ABOUT PATIENTS.\n\nFor decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n\nWhat started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n\nOur platform now powers Total Triage to manage patient demand, and Self-Book, which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires for long-term conditions, while Accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe, our AI-powered note-taker that drafts medical notes in real-time.\n\n\nThe team\n\nWe are a mission-driven team of 80 engineers based in London and the surrounding areas, united by the challenge of fixing healthcare communication. We are innovating for the NHS at a scale and depth that has never been done before, solving the real-world problems that stand between millions of patients and the care they need.\n\nWe are a highly cross-functional group where engineering, product, data, and security collaborate as true peers. We foster a low-ego, high-impact environment that values expertise and new ideas, maintaining the high standards required to build and scale a national healthcare communication platform. Within this ecosystem, our teams operate with high autonomy, owning everything from initial system design to long-term service stability.\n\nAs a Senior Data Engineer, you’ll sit at the intersection of our Analytics Engineering, Product, and ML teams, designing and scaling the pipelines and data architecture that everything else is built on, and building the foundations that turn data from a support function into a strategic asset.\n\n\nChallenges you’ll solve…\n\n - You will design and scale a robust data architecture that handles massive event-driven communication flows across nearly every GP practice in the UK.\n\n - You will build and own ingestion and ELT pipelines end-to-end, from source systems through to our Snowflake data warehouse, using Python and SQL in production.\n\n - You will make and own architectural decisions that support analytics, experimentation and machine learning at scale.\n\n - You will partner closely with Analytics Engineering, Product and ML teams to turn raw healthcare communication data into reliable, high-performance datasets they can build on.\n\n - You will set and uphold standards for data integrity, security and reliability, in an environment where getting data right is part of keeping patients safe.\n\n - You will lay the data foundations for our AI and ML work, helping take models from experimentation into production.\n\n - You will take on greenfield problems, shaping how data works at Accurx from the ground up.\n\n - You will mentor teammates and contribute to a strong engineering culture through rigorous code reviews, sprint planning and open collaboration.\n\nYou should apply if…\n\n - You have strong, proven experience as a Data Engineer, designing and building ingestion and ETL/ELT pipelines from scratch using Python and SQL in production environments.\n\n - You have a deep understanding of modern cloud data platforms such as Snowflake, BigQuery or Redshift, and transformation tools like dbt, with a focus on creating clean, reliable and reusable datasets.\n\n - You are comfortable owning decisions around data architecture, and working with cloud environments and software engineering best practices like Git and CI/CD.\n\n - You have experience, or a strong interest, in building and operationalising machine learning models, and understand how strong data foundations enable better AI outcomes.\n\n - You think beyond pipelines. You care about how data drives real-world outcomes, especially in healthcare, and can work cross-functionally to shape problems and deliver solutions.\n\n - You actively leverage AI tools to automate routine tasks and continuously explore ways to integrate AI into your workflows, improving quality and speed.\n   \n\nWhat’s in it for you?\n\nYou’ll join a high-performing team on a mission to solve healthcare productivity, building a platform used by around 300k NHS staff every week, supporting the care of over 50 million NHS patients every year. We set a high bar, move fast, and give people the ownership and support to do the best work of their careers.\n\n - £85,000 - £105,000 base salary, plus a discretionary recognition bonus for exceptional performance and impact, nominated by managers and awarded by our leadership team\n\n - Equity: £30,000 in equal share options, so you share in the value you help create\n\n - Benefits to suit you: adjust your healthcare cover, your pension or life insurance, whatever stage you’re at in life\n\n - Built for collaboration: We are an office-first culture and ask that you’re in our (dog-friendly) Shoreditch office for a minimum of 3 days a week\n\n - Close to our users: Regular hackathons, plus dedicated time to visit GP practices and other healthcare settings to see first-hand how our products are used\n\n - Time off: You’ll get 28 days of holiday (plus bank holidays) and up to 4 weeks to work from anywhere per year\n\n - Support at home: We offer enhanced parental leave, fertility support and parental loss support\n\n - We have our very own chefs: Free healthy breakfasts, snacks and lunches, plus a weekly sweet treat",
+   "salary_text": "£85K – £105K • Offers Equity",
+   "key": "ashby:accurx:a4df2c3f-2ac9-4b8f-bc78-1feb836fbd38",
    "is_new": true,
-   "first_seen": "2026-11-03"
+   "first_seen": "2026-11-04"
   },
   {
    "ats": "greenhouse",
@@ -396,22 +396,6 @@
    "first_seen": "2026-10-09"
   },
   {
-   "ats": "lever",
-   "token": "zopa",
-   "id": "3800365d-8493-47f1-96dc-80ac103663d7",
-   "company": "zopa",
-   "role": "Analytics Engineering Manager",
-   "location": "London; hybrid",
-   "url": "https://jobs.lever.co/zopa/3800365d-8493-47f1-96dc-80ac103663d7",
-   "posted": "2026-08-13",
-   "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nA Day In The Life:\n- \nLead, coach and develop a high-performing Analytics Engineering team. \n\n- \nProvide regular feedback, development support and effective performance management. \n\n- \nOwn prioritisation across incoming requests, strategic initiatives, team capacity and longer-term projects. \n\n- \nEstablish and deliver an Analytics Engineering roadmap aligned with Product and business priorities. \n\n- \nImprove the quality, reliability and scalability of analytical data products. \n\n- \nEmbed strong practices across data modelling, testing, observability, documentation and CI/CD. \n\n- \nWork across Product, Engineering, Analytics and business teams to ensure Analytics Engineering delivers measurable value. \n\n- \nPartner with Data Engineering, Data Science and Analytics to contribute to a cohesive data platform. \n\n- \nRepresent Analytics Engineering in wider engineering discussions and champion better data practices. \n\n- \nDrive continuous improvement, knowledge sharing and adoption of emerging technologies, including AI-assisted development.\n\nAbout You:\n- \nYou have experience leading Analytics Engineering, BI Engineering or Data Engineering teams. \n\n- \nYou have previous individual-contributor experience in Analytics Engineering. \n\n- \nYou have a track record of building and developing high-performing engineering teams. \n\n- \nYou have strong SQL and data-modelling expertise and experience with modern transformation tools such as dbt. \n\n- \nYou have experience working with cloud data platforms such as Snowflake, BigQuery or Databricks. \n\n- \nYou have defined technical roadmaps and delivered measurable business outcomes. \n\n- \nYou can build trust and influence both technical and business stakeholders. \n\n- \nYou understand modern engineering practices including testing, observability, documentation and CI/CD. \n\n- \nYou have sufficient technical depth to identify systemic problems and contribute credibly to solutions alongside senior technical colleagues. \n\n- \nYou can provide effective leadership to a highly autonomous team without micromanaging.\n\nAdded Bonus:\n- \nExperience building semantic or metrics layers. \n\n- \nExperience applying AI to Analytics Engineering workflows or developing AI-ready data products. \n\n- \nKnowledge of orchestration and ingestion tools such as Airflow, Dagster or Fivetran. \n\n- \nPython experience for automation or data engineering tasks. \n\n- \nExperience working in regulated financial services or another highly data-driven organisation. \n\n- \nSnowflake experience, given its introduction at Zopa.",
-   "salary_text": null,
-   "key": "lever:zopa:3800365d-8493-47f1-96dc-80ac103663d7",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "ats": "ashby",
    "token": "faculty",
    "id": "54729948-5b4a-404c-bea4-cec5759768b5",
@@ -421,7 +405,7 @@
    "url": "https://jobs.ashbyhq.com/faculty/54729948-5b4a-404c-bea4-cec5759768b5",
    "posted": "2026-08-26",
    "updated": "2026-08-26",
-   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\n\n\nABOUT THE TEAM \n\n \n\nOur National Security and AI Safety business unit is dedicated to advancing the responsible development and deployment of AI in support of national security and global stability. From strengthening mission-critical capabilities across national security and intelligence, to working with frontier labs to provide robust AI safety red teaming and evaluation, we work at the frontier of high-stakes, high-impact missions. \n\nWe understand that powerful AI systems bring both transformative opportunities and complex risks and we are proud to partner with Government and the biggest tech organisations in the world to ensure AI is not just transformative but is also secure, trustworthy and safe for all.\n\nBecause of the nature of the work we do with our Government clients, you may need to be eligible for Security Clearance (SC) and willing to work on site with our clients from time to time.\n\n \n \n\n\nABOUT THE ROLE\n\n \n\nAs a Senior Data Scientist at Faculty, you will lead high-impact AI safety projects and shape the technical direction of upstream evaluation standards. This role requires hands-on scientific thinking and technical excellence combined with strong project leadership.\n\n\nYou will invent novel evaluation frameworks, design robust software architectures, mentor technical team members, and ensure delivery rigour across engagements—all while partnering with Frontier Labs to solidify our reputation as a leader in practical, high-stakes AI safety.\n\n\n\n\nWHAT YOU'LL BE DOING:\n\n \n\n - Leading project teams that deliver upstream AI safety solutions and evaluation standards to Frontier Labs.\n\n - Conceiving core scientific experiment designs and building the associated software architecture for new engagements.\n\n - Mentoring technical team members on projects and supporting their professional growth through scientific guidance.\n\n - Partnering with commercial teams to shape project scope, assess technical feasibility, and translate complex problems into rigorous frameworks.\n\n - Contributing to Faculty’s thought leadership by advancing the science of AI evaluations, public speaking, or publishing open-source research.\n\n - Ensuring rigorous scientific methodology and technical best practices are followed across the project lifecycle.\n   \n    \n\n\nWHO WE'RE LOOKING FOR:\n\n \n\n - You possess senior experience in a professional data science role, upstream safety research, or a quantitative academic field with strong experiment design methodology.\n\n - You demonstrate strong programming skills in Python using core scientific libraries (NumPy, Pandas) and , ideally, evaluation frameworks and tooling (e.g. Inspect AI) and agentic harnesses.\n\n - You bring deep curiosity and expertise across the data science toolkit, with a drive to develop novel evaluation standards for specialized domains.\n\n - You exhibit high technical rigor and a collaborative mindset focused on nurturing team capabilities and sharing technical knowledge.\n\n - You demonstrate commercial awareness, with the ability to bridge complex scientific work with client requirements in Frontier Labs.\n\n - You excel at scientific problem-solving, scoping technical work, and guiding project execution to meet high standards on structured timelines.\n\n \n\n\nOUR INTERVIEW PROCESS\n\n \n\n 1. Talent Team Screen (30 minutes)\n\n 2. Take Home Technical Assessment\n\n 3. Technical Interview (90 minutes)\n\n 4. Commercial Interview (60 minutes)\n    \n     \n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\n\n\nABOUT THE TEAM \n\n \n\nOur National Security and AI Safety business unit is dedicated to advancing the responsible development and deployment of AI in support of national security and global stability. From strengthening mission-critical capabilities across national security and intelligence, to working with frontier labs to provide robust AI safety red teaming and evaluation, we work at the frontier of high-stakes, high-impact missions. \n\nWe understand that powerful AI systems bring both transformative opportunities and complex risks and we are proud to partner with Government and the biggest tech organisations in the world to ensure AI is not just transformative but is also secure, trustworthy and safe for all.\n\n \n \n\n\nABOUT THE ROLE\n\n \n\nAs a Senior Data Scientist at Faculty, you will lead high-impact AI safety projects and shape the technical direction of upstream evaluation standards. This role requires hands-on scientific thinking and technical excellence combined with strong project leadership.\n\n\nYou will invent novel evaluation frameworks, design robust software architectures, mentor technical team members, and ensure delivery rigour across engagements—all while partnering with Frontier Labs to solidify our reputation as a leader in practical, high-stakes AI safety.\n\n\n\n\nWHAT YOU'LL BE DOING:\n\n \n\n - Leading project teams that deliver upstream AI safety solutions and evaluation standards to Frontier Labs.\n\n - Conceiving core scientific experiment designs and building the associated software architecture for new engagements.\n\n - Mentoring technical team members on projects and supporting their professional growth through scientific guidance.\n\n - Partnering with commercial teams to shape project scope, assess technical feasibility, and translate complex problems into rigorous frameworks.\n\n - Contributing to Faculty’s thought leadership by advancing the science of AI evaluations, public speaking, or publishing open-source research.\n\n - Ensuring rigorous scientific methodology and technical best practices are followed across the project lifecycle.\n   \n    \n\n\nWHO WE'RE LOOKING FOR:\n\n \n\n - You possess senior experience in a professional data science role, upstream safety research, or a quantitative academic field with strong experiment design methodology.\n\n - You demonstrate strong programming skills in Python using core scientific libraries (NumPy, Pandas) and , ideally, evaluation frameworks and tooling (e.g. Inspect AI) and agentic harnesses.\n\n - You bring deep curiosity and expertise across the data science toolkit, with a drive to develop novel evaluation standards for specialized domains.\n\n - You exhibit high technical rigor and a collaborative mindset focused on nurturing team capabilities and sharing technical knowledge.\n\n - You demonstrate commercial awareness, with the ability to bridge complex scientific work with client requirements in Frontier Labs.\n\n - You excel at scientific problem-solving, scoping technical work, and guiding project execution to meet high standards on structured timelines.\n\n \n\n\nOUR INTERVIEW PROCESS\n\n \n\n 1. Talent Team Screen (30 minutes)\n\n 2. Take Home Technical Assessment\n\n 3. Technical Interview (90 minutes)\n\n 4. Commercial Interview (60 minutes)\n    \n     \n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
    "salary_text": null,
    "key": "ashby:faculty:54729948-5b4a-404c-bea4-cec5759768b5",
    "is_new": false,
@@ -548,7 +532,7 @@
    "location": "London, United Kingdom",
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202372",
    "posted": "2026-09-18",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Data Science organisation sits at the heart of Deliveroo powering decision-making across our 3 sided marketplace.\n\nWe’re looking for a Senior Data Scientist to join our London team (working hybrid, 3 days in the office). In this role, you’ll drive high-quality decision-making to maximise impact.\n\nWe’re hiring multiple Senior Data Scientists across different areas of the business. Rather than hiring for one fixed team, we use the interview process to understand your strengths, interests and development areas, and then align you to the right scope, remit and team.\n\nAbout Our Data Science Organisation\n\nWe have an outstanding Data Science organisation, with a mission to drive the highest quality decision-making across our marketplace. We work throughout the company, in product, operations, and platform teams and are uniquely placed to use data to help make better decisions and improve data literacy across Deliveroo. We are great communicators, and move fast to serve our customers a little better every day.\n\nOur community is highly active, with guest lectures, study groups, mentorship programmes and a robust technical review process. Data Scientists can progress equally as IC leads or managers.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not.\n\n&nbsp;\n\nWhat You’ll Be Doing\n\nHere’s what your day-to-day might look like:\n\n- \nProactive Impact Delivery: You will independently identify, define, and deliver impactful work that aligns with business goals and metrics, operating with minimal guidance to provide high value to your team and the broader organisation. You will own delivery end-to-end, ensuring the delivery of fast, high-quality, solutions that meet business needs.\n\n- \nNavigating Ambiguity and Complexity: You will excel at deconstructing broad, ambiguous problem spaces into structured technical roadmaps, managing projects that require both deep team-specific rigour and an understanding of how they intersect with adjacent systems.\n\n- \nStrategic Technical Execution: Drive strategic decision-making by selecting the most effective tool or method for the task, maintaining a focus on high-quality execution and measurable results. You will act as a well-trusted strategic partner to stakeholders, using analytics, effective communication and domain expertise to influence roadmaps.\n\n- \nExperimentation and measurement: Design and lead measurement strategies that drive product direction, ranging from simple A/B tests to complex experimental designs. You will be equally capable of applying alternative causal inference techniques when standard trials aren't feasible, ensuring the business moves based on data driven insights.\n\n- \nOrganisational Alignment: Actively contribute to the broader Analytics community, driving L+D initiatives and cross-functional collaboration. You will ensure we are delivering the \"right\" things org-wide by aligning technical work with overarching business strategy and shared best practices.\n\n&nbsp;\n\nWhat You’ll Need to Thrive\n\nOur ideal candidate will bring strong expertise in some of these areas and curiosity to grow in others:\n\n- \nSignificant experience in Data Science (or similar) roles.\n\n- \nA pragmatic and adaptable approach, with a strong focus on delivering impact efficiently at pace.\n\n- \nExcellent people skills — you'll be meeting with a range of both technical and non-technical stakeholders to translate business needs into data science problems\n\n- \nExperience leading both simple and more complex experiment designs, with the ability to proactively unpick insights to steer strategic decision making\n\n- \nGreat communication skills - in person, in writing, in code; to technical and non-technical audiences.\n\n- \nThrough solid analysis, provide clear and actionable recommendations that influence the team's roadmap.\n\n- \nEffective problem-solving, demonstrating an ability to successfully address complex and ambiguous challenges.\n\n- \nAbility to think creatively and insightfully about business problems\n\n- \nProficiency with analytical tools like R/Python and familiarity with SQL. Proficiency with Cursor/AI tools to deliver impactful, high quality work efficiently is also valued\n\n&nbsp;\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters, solving real-world problems in a three-sided marketplace that’s constantly evolving.\n\nWe’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale\nWork on a complex, always-on marketplace that impacts millions every day.\n\n🌱See your impact, fast\nShip, test and improve ideas quickly in a low-hierarchy, high-ownership\nenvironment.\n\n🧠Grow through challenge and ownership\nTake on big, ambiguous problems and accelerate your career with strong support.\n\n🌎A culture built for builders\nHigh standards, collaboration, flexible working and continuous learning.\n\n&nbsp;\n\n​​💰 Share in the success you help create\n\nCompetitive salary and equity options, so you’re rewarded for the impact you\nMake.\n\n&nbsp;\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Find more about how we hire here.\n\n&nbsp;\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do thei",
    "salary_text": null,
    "key": "greenhouse:deliveroo:8202372",
@@ -644,7 +628,7 @@
    "location": "London, United Kingdom - Deliveroo",
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8242432",
    "posted": "2026-09-30",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nThe Data &amp; Science Org\n\nAt Deliveroo we have an outstanding data science organisation, with a mission to enable the highest quality human and machine decision-making. We work throughout the company - in product, business and platform teams - using analysis, experimentation, causal inference and machine learning techniques. We are uniquely placed to use data to help make better decisions and improve data literacy across Deliveroo.\n\nData Scientists at Deliveroo report into our data science management team, and we have a highly active data science community, with guest lecturers, study groups, mentorship programmes, a robust technical review process, and plenty of opportunities to learn new things. Data Scientists can equally progress as technical leads (individual contributors) and as people managers.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not. We celebrate difference and have a dedicated data science diversity committee.\n\nAs an Economist at Deliveroo you will help scale our business and improve the experience for restaurants, riders, and eaters. Using experimental or observational data, you will get to help answer questions like:\n\n- \nWhich markets/cities should we enter next?\n\n- \nHow can we incentivise good rider behaviour?\n\n- \nWhat is the business impact of exclusive deals we have with restaurants?\n\n- \nCan the Delivery food market sustain multiple players?\n\n- \nWhat are the trade-offs we face when choosing between growth and profitability? How should we decide between them?\n\n- \nWhat is the optimum selection and variety of restaurants?\n\n- \nWhat impact do online reviews have?\n\n- \nHow will a change in the user interface affect customer choice behaviour?\n\nThe work you will do will have a direct, measurable impact on the bottom line of the company.\n\nRequirements:\n\n- \nMasters Degree or PhD in Economics or Econometrics (preferred)\n\n- \nAlways curious and willing to learn new skills\n\n- \nA problem solver with a deep analytical mindset\n\n- \nAbility to think creatively and insightfully about business-relevant economic problems\n\n- \nA critical thinker with very strong attention to detail\n\n- \nProficiency with analytical tools like R/Python and familiarity with SQL\n\n- \nIdeally industry experience since the completion of your academic career\n\n- \nExcellent people skills — you’ll be meeting with stakeholders to translate business needs into economic problems\n\nAt Deliveroo these are just some of the tough problems we are solving - and there is no challenge that cannot be yours. The scope for growth and personal impact is enormous.\n\nWhy Deliveroo\nOur mission is to transform the way you shop and eat, bringing the neighbourhood to your door by connecting consumers, restaurants, shops and riders. We are transforming the way the world eats and shops by making access to food and products more convenient and enjoyable. We give people the opportunity to buy what they want, as they want it, when and where they want it.\n\nWe are a technology-driven company at the forefront of the most rapidly expanding industry in the world. We are still a small team, making a very large impact, looking to answer some of the most interesting questions out there. We move fast, value autonomy and ownership, and we are always looking for new ideas.\n\nWorkplace &amp; Benefits\nAt Deliveroo we know that people are the heart of the business and we prioritise their welfare. Benefits differ by country, but we offer many benefits in areas including healthcare, well-being, parental leave, pensions, and generous annual leave allowances, including time off to support a charitable cause of your choice. Benefits are country-specific, please ask your recruiter for more information.\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n\nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n\nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n\nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n\nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
    "salary_text": null,
    "key": "greenhouse:deliveroo:8242432",
@@ -692,7 +676,7 @@
    "location": "London, United Kingdom",
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220072",
    "posted": "2026-10-01",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Analytics organisation sits at the heart of Deliveroo powering decision-making across product, commercial and operations through experimentation and causal inference.\n\nWe’re looking for a Senior Data Scientist to join our London team (working hybrid, 3 days in the office). In this role, you’ll enable high-quality human-led decision-making to maximise impact.\n\nWe’re hiring multiple Senior Data Scientists across different areas of the business. Rather than hiring for one fixed team, we use the interview process to understand your strengths, interests and development areas, and then align you to the right scope, remit and team.\n\nAbout Our Analytics Organisation\n\nWe have an outstanding analytics organisation, with a mission to enable the highest quality human and machine decision-making.\n\nOur community is highly active, with guest lectures, study groups, mentorship programmes and a robust technical review process. Data Scientists can progress equally as technical leads or people managers.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not.\n\n&nbsp;\n\nWhat You’ll Be Doing\n\nYou will help answer questions like:\n\n- \nWhich markets/cities should we enter next?\n\n- \nHow can we incentivise good rider behaviour?\n\n- \nWhat is the impact of exclusive deals we have with restaurants?\n\n- \nHow do we optimise our compensation policy to keep our customers happy and ordering with Deliveroo?\n\n- \nWhat are the trade-offs we face when choosing between growth and profitability? How should we decide between them?\n\n- \nHow much should our pricing vary by distance and by market?\n\n- \nWhat is the optimum selection and variety of restaurants in a particular area?\n\n- \nHow do we adapt our consumer app to better suit grocery shoppers?\n\nWhat You’ll Need to Thrive\n\n- \nSignificant experience in Data Science (or similar) roles.\n\n- \nExperience leading both simple and more complex experiment designs, with the ability to proactively unpick insights to steer strategic decision making\n\n- \nGreat communication skills - in person, in writing, in code; to technical and non-technical audiences.\n\n- \nThrough solid analysis, provide clear and actionable recommendations that influence the team's roadmap.\n\n- \nEffective problem-solving, demonstrating an ability to successfully address complex and ambiguous challenges.\n\n- \nAbility to think creatively and insightfully about business problems\n\n- \nProficiency with analytical tools like R/Python and familiarity with SQL. Proficiency with Cursor/AI tools to deliver impactful, high-quality work efficiently is also valued\n\n- \nA pragmatic, flexible approach, where you most care about achieving impact\n\n- \nExcellent people skills — you'll be meeting with a range of both technical and non-technical stakeholders to translate business needs into data science problems\n\n&nbsp;\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters, solving real-world problems in a three-sided marketplace that’s constantly evolving. We’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale Work on a complex, always-on marketplace that impacts millions every day.\n\n🌱 See your impact, fast Ship, test and improve ideas quickly in a low-hierarchy, high-ownership environment.\n\n🧠 Grow through challenge and ownership Take on big, ambiguous problems and accelerate your career with strong support.\n\n🌎 A culture built for builders High standards, collaboration, flexible working and continuous learning.\n\n​​💰 Share in the success you help create Competitive salary and equity options, so you’re rewarded for the impact you make.\n\n&nbsp;\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Find more about how we hire here.\n\n&nbsp;\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n\nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n\nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n\nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n\nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
    "salary_text": null,
    "key": "greenhouse:deliveroo:8220072",
@@ -924,22 +908,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "ats": "greenhouse",
-   "token": "prolific",
-   "id": "5014007101",
-   "company": "Prolific ",
-   "role": "Data Analyst - Marketplace",
-   "location": "United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5014007101",
-   "posted": "2026-10-22",
-   "updated": "2026-10-27",
-   "description": "Data Analyst, Marketplace\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n&nbsp;&nbsp;Prolific\n\nProlific is not just another player in the AI space – we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditised, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\nThe role\n\nAs Prolific scales, maintaining a healthy and sustainable marketplace will be critical to our ability to meet growing demand for high-quality human data.&nbsp;We are looking for a Data Analyst to help us understand how well our marketplace is working, identify where supply and demand are not connecting effectively, and measure whether product and algorithmic improvements are delivering better outcomes.&nbsp;You will work closely with Product, Engineering and Operations teams, using data to answer important marketplace questions and support better product decisions.\n\n&nbsp;\n\nWhat you’ll bring to the role\n\n- Strong Analytics Skills: Strong SQL skills and experience analysing complex datasets. Python experience for analysis and experimentation is beneficial.\n\n- Marketplace or Product Analytics: Experience working with marketplace, product or operational data and using metrics to understand user and business behaviour.\n\n- Marketplace Metrics: Ability to work with measures such as supply and demand, fill rate, time-to-fill, availability, quality and concentration to understand marketplace performance.\n\n- Experimentation: Experience analysing A/B tests or other experiments, including defining success metrics, interpreting results and communicating findings.\n\n- Product Thinking: Ability to turn product or marketplace questions into measurable hypotheses and structured analysis.\n\n- Analytical Curiosity: Comfortable exploring data to understand why something is happening, rather than only reporting what happened.\n\n- Commercial Awareness: Ability to understand how marketplace performance affects customer experience and wider business outcomes.\n\n- Collaboration: Comfortable working with Product, Engineering and Operations teams and contributing analytical thinking to cross-functional work.\n\n- Clear Communication: Ability to translate&nbsp;analysis into simple, actionable insights for both technical and non-technical stakeholders.\n\n&nbsp;\n\nWhat you'll be doing\n\n- Help define, monitor and improve the metrics we use to understand marketplace health, including supply-demand balance, fulfilment, quality and concentration.\n\n- Analyse marketplace performance and investigate changes in metrics such as fill rate, time-to-fill, participant availability and quality.\n\n- Work with product and engineering teams to define success metrics and measure the impact of product and algorithmic improvements.\n\n- Analyse experiments to understand whether changes to matching, ranking, recommendation or other marketplace experiences are improving outcomes.\n\n- Build and maintain dashboards and reporting that make marketplace performance visible and actionable.\n\n- Use SQL and other analytical tools to investigate marketplace behaviour, identify trends and surface opportunities or problems.\n\n- Explore how marketplace outcomes differ across customers, participants, use cases and segments.\n\n- Communicate findings clearly and help teams make data-informed product and operational decisions.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioural data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviours into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation – one that reflects the breath and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunities for groundbreaking research. Join us to enjoy a competitive salary, benefits, and remote working within our impactful, mission-driven culture.\n\nLinks to more information on Prolific\n\nBenefits&nbsp;\n\nExternal Handbook&nbsp;\n\nWebsite&nbsp;\n\nYouTube&nbsp;\n\n&nbsp;\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organisation planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal information.",
-   "salary_text": null,
-   "key": "greenhouse:prolific:5014007101",
-   "is_new": false,
-   "first_seen": "2026-10-23"
-  },
-  {
    "ats": "ashby",
    "token": "faculty",
    "id": "95a1a01f-aee6-4887-8256-b45f5a034336",
@@ -1020,22 +988,6 @@
    "first_seen": "2026-10-09"
   },
   {
-   "ats": "greenhouse",
-   "token": "prolific",
-   "id": "5017777101",
-   "company": "Prolific ",
-   "role": "Senior Data Analyst - Marketplace",
-   "location": "United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5017777101",
-   "posted": "2026-10-27",
-   "updated": "2026-10-27",
-   "description": "Senior Data Analyst, Marketplace\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n&nbsp;&nbsp;Prolific\n\nProlific is not just another player in the AI space – we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditised, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\nThe role\n\nAs Prolific scales, maintaining a healthy and sustainable marketplace will be critical to our ability to meet growing demand for high-quality human data. We are looking for a Senior Data Analyst to help us understand how well our marketplace is working, identify where supply and demand are not connecting effectively, and measure whether product and algorithmic improvements are delivering better outcomes. You will work closely with Product, Engineering and Operations teams, using data to answer important marketplace questions and support better product decisions.\n\n&nbsp;\n\nWhat you’ll bring to the role\n\n- Strong Analytics Skills: Strong SQL skills and experience analysing complex datasets. Python experience for analysis and experimentation is beneficial.\n\n- Marketplace or Product Analytics: Experience working with marketplace, product or operational data and using metrics to understand user and business behaviour.\n\n- Marketplace Metrics: Ability to work with measures such as supply and demand, fill rate, time-to-fill, availability, quality and concentration to understand marketplace performance.\n\n- Experimentation: Experience analysing A/B tests or other experiments, including defining success metrics, interpreting results and communicating findings.\n\n- Product Thinking: Ability to turn product or marketplace questions into measurable hypotheses and structured analysis.\n\n- Analytical Curiosity: Comfortable exploring data to understand why something is happening, rather than only reporting what happened.\n\n- Commercial Awareness: Ability to understand how marketplace performance affects customer experience and wider business outcomes.\n\n- Collaboration: Comfortable working with Product, Engineering and Operations teams and contributing analytical thinking to cross-functional work.\n\n- Clear Communication: Ability to translate&nbsp;analysis into simple, actionable insights for both technical and non-technical stakeholders.\n\n&nbsp;\n\nWhat you'll be doing\n\n- Help define, monitor and improve the metrics we use to understand marketplace health, including supply-demand balance, fulfilment, quality and concentration.\n\n- Analyse marketplace performance and investigate changes in metrics such as fill rate, time-to-fill, participant availability and quality.\n\n- Work with product and engineering teams to define success metrics and measure the impact of product and algorithmic improvements.\n\n- Analyse experiments to understand whether changes to matching, ranking, recommendation or other marketplace experiences are improving outcomes.\n\n- Build and maintain dashboards and reporting that make marketplace performance visible and actionable.\n\n- Use SQL and other analytical tools to investigate marketplace behaviour, identify trends and surface opportunities or problems.\n\n- Explore how marketplace outcomes differ across customers, participants, use cases and segments.\n\n- Communicate findings clearly and help teams make data-informed product and operational decisions.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioural data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviours into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation – one that reflects the breath and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunities for groundbreaking research. Join us to enjoy a competitive salary, benefits, and remote working within our impactful, mission-driven culture.\n\nLinks to more information on Prolific\n\nBenefits&nbsp;\n\nExternal Handbook&nbsp;\n\nWebsite&nbsp;\n\nYouTube&nbsp;\n\n&nbsp;\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organisation planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal information.",
-   "salary_text": null,
-   "key": "greenhouse:prolific:5017777101",
-   "is_new": false,
-   "first_seen": "2026-10-28"
-  },
-  {
    "ats": "ashby",
    "token": "marshmallow",
    "id": "086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
@@ -1098,6 +1050,22 @@
    "key": "ashby:faculty:a3cebc63-07df-426b-8156-4526481f488c",
    "is_new": false,
    "first_seen": "2026-10-30"
+  },
+  {
+   "ats": "ashby",
+   "token": "lendable",
+   "id": "ceeaf7dd-7b35-47cc-808b-da87ed676557",
+   "company": "lendable",
+   "role": "Analytics Engineer (UK Cards)",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/lendable/ceeaf7dd-7b35-47cc-808b-da87ed676557",
+   "posted": "2026-11-02",
+   "updated": "2026-11-02",
+   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong DBT and SQL is a must\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. 15 minute cognitive assessment\n\n 2. Initial chat\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
+   "salary_text": null,
+   "key": "ashby:lendable:ceeaf7dd-7b35-47cc-808b-da87ed676557",
+   "is_new": false,
+   "first_seen": "2026-11-03"
   }
  ]
 }
