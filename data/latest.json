@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T13:29:44Z",
+ "generated_at": "2026-11-06T13:12:33Z",
  "counts": {
   "matches": 49,
   "new": 0,
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 69
+   "open_jobs": 72
   },
   {
    "ats": "greenhouse",
@@ -20,7 +20,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 57
+   "open_jobs": 59
   },
   {
    "ats": "greenhouse",
@@ -45,7 +45,7 @@
   {
    "ats": "greenhouse",
    "token": "form3",
-   "open_jobs": 7
+   "open_jobs": 6
   },
   {
    "ats": "greenhouse",
@@ -75,7 +75,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 31
+   "open_jobs": 32
   },
   {
    "ats": "ashby",
@@ -90,12 +90,12 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 16
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 31
+   "open_jobs": 30
   },
   {
    "ats": "ashby",
@@ -105,7 +105,7 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 75
+   "open_jobs": 76
   },
   {
    "ats": "ashby",
@@ -120,12 +120,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 309
+   "open_jobs": 310
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 873
+   "open_jobs": 878
   },
   {
    "ats": "lever",
@@ -140,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 520
+   "open_jobs": 528
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 199,
+   "open_jobs": 200,
    "matching": 0
   },
   {
@@ -189,25 +189,25 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 144,
+   "open_jobs": 141,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 30,
+   "open_jobs": 29,
    "matching": 4
   },
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 23,
+   "open_jobs": 24,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 108,
+   "open_jobs": 113,
    "matching": 3
   }
  ],
