@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T13:12:33Z",
+ "generated_at": "2026-11-07T11:55:05Z",
  "counts": {
-  "matches": 49,
-  "new": 0,
+  "matches": 50,
+  "new": 1,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -20,12 +20,12 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 59
+   "open_jobs": 58
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 17
+   "open_jobs": 18
   },
   {
    "ats": "greenhouse",
@@ -40,7 +40,7 @@
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 28
+   "open_jobs": 26
   },
   {
    "ats": "greenhouse",
@@ -50,7 +50,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 34
+   "open_jobs": 43
   },
   {
    "ats": "greenhouse",
@@ -100,7 +100,7 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 28
+   "open_jobs": 26
   },
   {
    "ats": "ashby",
@@ -110,27 +110,27 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 86
+   "open_jobs": 87
   },
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 21
+   "open_jobs": 20
   },
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 310
+   "open_jobs": 305
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 878
+   "open_jobs": 876
   },
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 29
+   "open_jobs": 32
   },
   {
    "ats": "lever_eu",
@@ -140,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 528
+   "open_jobs": 533
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 200,
+   "open_jobs": 199,
    "matching": 0
   },
   {
@@ -189,7 +189,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 141,
+   "open_jobs": 139,
    "matching": 3
   },
   {
@@ -201,13 +201,13 @@
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 24,
+   "open_jobs": 25,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 113,
+   "open_jobs": 114,
    "matching": 3
   }
  ],
@@ -219,6 +219,22 @@
   }
  ],
  "jobs": [
+  {
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "156e729b-aba8-4301-bb6a-2f4de3f8be61",
+   "company": "faculty",
+   "role": "Lead Data Scientist",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/156e729b-aba8-4301-bb6a-2f4de3f8be61",
+   "posted": "2026-11-06",
+   "updated": "2026-11-06",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\nABOUT THE TEAM\n\nOur Retail and Consumer experts are dedicated to helping clients in an industry which is being transformed by new technologies and evolving consumer expectations. Leveraging over a decade of experience in Applied AI, we combine exceptional technical and delivery expertise to empower businesses to adapt and thrive.\n\n \n\n\nABOUT THE ROLE\n\nAs a Lead Data Scientist, you'll take on a pivotal, entrepreneurial role, functioning as the technical expert who thrives on complexity and commercial impact. You will be responsible for setting the technical direction and ensuring the high-quality, scalable delivery of our most challenging, high-impact projects.\n\nThis position combines deep expertise in machine learning with strategic oversight to define project roadmaps, manage technical risk, and architect reliable solutions. Your focus will be on driving innovation, mentoring cross-functional teams, and actively shaping both our technical standards and long-term customer relationships.\n\n \n\n\nWHAT YOU'LL BE DOING:\n\n - Setting the technical direction for complex, business-critical projects and expertly balancing trade-offs between speed, innovation, and reliability.\n\n - Designing and implementing reliable, production-grade technical solutions, ensuring comprehensive documentation of architectures and specifications.\n\n - Defining project problems, developing clear roadmaps, and overseeing end-to-end delivery across multi-disciplinary workstreams.\n\n - Leading technical scoping and feasibility studies for high-value sales opportunities and strategic customer engagements.\n\n - Managing relationships and communications with technical stakeholders, fostering trust and aligning technical solutions with shared long-term commercial goals.\n\n - Driving the adoption of best practices, shared resources, and robust technical processes across the wider Data Science craft.\n\n - Mentoring and developing other data scientists and team members, actively contributing to the growth and technical excellence of the organisation.\n\n \n\n\nWHO WE'RE LOOKING FOR:\n\n - You have proven project management expertise, capable of dividing complex, ill-defined problems into actionable, clearly defined workstreams with timelines you can defend.\n\n - You possess strong customer leadership skills, able to act as a trusted technical advisor and drive long-term strategic relationships with demanding clients.\n\n - You bring depth of expertise in at least one machine learning domain and strong technical breadth across the entire data science landscape.\n\n - You are a skilled technical leader, proficient in mentoring individuals, managing teams (including other managers), and rolling out impactful tools and workflows.\n\n - You are adept at managing ill-defined, high-risk tasks, consistently delivering innovative and practical outcomes under commercial pressure.\n\n - You excel at cross-functional collaboration, effectively aligning technical strategy with Engineering, Commercial, and Infrastructure teams.\n\n - You have experience extending technical oversight to business unit-level initiatives, using your vision to influence and contribute to organisational success.\n\n \n\n\nTHE INTERVIEW PROCESS\n\n 1. Talent Team Screen (30 minutes)\n\n 2. Introduction to the team (30 minutes)\n\n 3. Take Home Technical Assessment\n\n 4. Technical Interview (90 minutes)\n\n 5. Commercial Interview (60 minutes)\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "salary_text": null,
+   "key": "ashby:faculty:156e729b-aba8-4301-bb6a-2f4de3f8be61",
+   "is_new": true,
+   "first_seen": "2026-11-07"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -549,7 +565,7 @@
    "url": "https://jobs.lever.co/veeva/0382fb4f-23fe-4ae6-90bc-7f6f3257e585",
    "posted": "2026-09-22",
    "updated": null,
-   "description": "Veeva is building the industry cloud for Life Sciences through software, data, AI, and business consulting working together. Learn more about our products, vision, values, and status as a Public Benefit Corporation (PBC) on our website.\nConsulting is changing, and we’re not like other firms. Launched in 2019, Veeva Business Consulting has grown quickly and organically to over 500 global experts who combine deep domain knowledge with innovative technology to help Life Sciences companies work in a more efficient and connected way.\nWe are growing aggressively as we look towards 2030.  We are seeking great people to help shape the future of the industry with the world’s leading software, data, AI, and expertise at their back.\n \n\n\nThe Role\nAs a Data Scientist in our EU Analytics practice, you will help customers bring treatments to patients faster by transforming how they work with Technology, Data, and AI. You will focus on reshaping operating models, driving organizational change, and measuring tangible business value.\n \nYou will play a pivotal role in building advanced analytical models and methodologies, integrating Veeva Data Cloud products with complex European healthcare data assets. You will drive innovation across our analytical offerings, ensuring Veeva remains at the forefront of data-led, tech-enabled Life Sciences commercial models. You will also collaborate closely with cross-functional teams to bridge technical modeling with practical business insights across European markets. You will take ownership of any of our analytics assets (e.g., design solution, manage expectations, status accountancy, impact measurement).\n\n\nWhat You'll Do\n- Design, prototype, and scale advanced analytics solutions for Life Sciences customers across European markets\n\n- Process, harmonize, and connect Veeva Data Cloud products with diverse European healthcare data assets\n\n- Develop and apply statistical methodologies, machine learning, and AI models to solve complex, high-impact commercial and strategic business questions in the Life Sciences space\n\n- Build and design HCP precision engagement engines that connect disparate healthcare datasets integrated seamlessly with customer CRM information to enable personalized, data-driven targeting and activation\n\n- Collaborate closely in integrated, cross-functional teams alongside product managers, data engineers, operations, and consultants to deliver end-to-end analytical solutions and ensure continuous feedback and iteration\n\n- Maintain clear documentation of data methodologies, model architectures, and validation processes to ensure defensibility, scalability, and transparency across client engagements\n\nRequirements\n- 2+ years of proven experience in data science, advanced analytics, or machine learning roles, preferably within Life Sciences, pharmaceuticals, or healthcare analytics\n\n- Strong problem-solving and communication skills, with a track record of collaborating effectively across cross-functional teams. Skilled at translating complex technical challenges to non-technical stakeholders, driving impactful problem-solving sessions, and championing a pragmatic approach to solution design\n\n- Strong technical expertise across Python, SQL, advanced analytics, machine learning, and AI, with a proven ability to design and implement predictive models and intelligent algorithms that solve complex business problems\n\n- You bring Experience writing process documentation, technical specifications, and data collection guidelines to ensure quality, scalability, and repeatability across projects\n\nNice to Have\n- Knowledge of Veeva products\n\n- Experience delivering SaaS or Tech-enabled consulting solutions\n\n- M.S. or Ph.D. in Computer Science, Statistics, Data Science, Mathematics, or a related quantitative field\n\n- Languages in addition to English\n\n- Understanding of healthcare, life sciences, or pharmaceutical industry data\n\n- Experience with data visualization tools to create dashboards and reports\n\n- Understanding of data engineering concepts (ETL, data pipelines) and automation tools such as Apache Airflow\n\n- Familiarity with cloud based computing resources such as AWS\n\nInterviewing with Veeva\nWe value your time and believe in a transparent hiring process. Here is the process you can expect.\n\n- Follow the application process and submit your resume.\n\n- Within 3 days, you will receive a link to a personality assessment administered by a third party, unless you have already completed it with Veeva previously.\n\n- Once you complete the assessment, our team will review your full application package and follow up via email with our decision.\n\n- If moving to the interview stage, the process is as follows: \n\n- A conversation with the hiring manager\n\n- A practical case exercise\n\n- A final conversation with our group's Senior Leader.\n\n- Once all interviews are complete, the manager will be in touch with a final decision.\n\nPerks & Benefits\n- Compensation: Highly competitive salary and equity in Veeva\n\n- Growth: Unrivalled career progression in a fast-growing, global team\n\n- Flexibility: Veeva is a Work Anywhere company. You can work from home or the office on any given day",
+   "description": "Veeva is the industry cloud for Life Sciences. We are enabling agentic biopharma through applications, agents, data, and consulting working together. Learn more about our products, vision, values, and status as a Public Benefit Corporation (PBC) on our website.\n \nConsulting is changing, and Veeva Business Consulting is not like other firms. Launched in 2019, we’ve grown quickly and organically to over 500 global experts who combine deep industry knowledge and unique insights to accelerate drug development and commercialization for our customers.\n \nWe are growing aggressively and seeking great people to help Life Sciences work in a more efficient and connected way, shaping the future of the industry with the world’s leading AI applications, agents, and data at their back.\n\n\nThe Role\nAs a Data Scientist in our EU Analytics practice, you will help customers bring treatments to patients faster by transforming how they work with Technology, Data, and AI. You will focus on reshaping operating models, driving organizational change, and measuring tangible business value.\n \nYou will play a pivotal role in building advanced analytical models and methodologies, integrating Veeva Data Cloud products with complex European healthcare data assets. You will drive innovation across our analytical offerings, ensuring Veeva remains at the forefront of data-led, tech-enabled Life Sciences commercial models. You will also collaborate closely with cross-functional teams to bridge technical modeling with practical business insights across European markets. You will take ownership of any of our analytics assets (e.g., design solution, manage expectations, status accountancy, impact measurement).\n\n\nWhat You'll Do\n- Design, prototype, and scale advanced analytics solutions for Life Sciences customers across European markets\n\n- Process, harmonize, and connect Veeva Data Cloud products with diverse European healthcare data assets\n\n- Develop and apply statistical methodologies, machine learning, and AI models to solve complex, high-impact commercial and strategic business questions in the Life Sciences space\n\n- Build and design HCP precision engagement engines that connect disparate healthcare datasets integrated seamlessly with customer CRM information to enable personalized, data-driven targeting and activation\n\n- Collaborate closely in integrated, cross-functional teams alongside product managers, data engineers, operations, and consultants to deliver end-to-end analytical solutions and ensure continuous feedback and iteration\n\n- Maintain clear documentation of data methodologies, model architectures, and validation processes to ensure defensibility, scalability, and transparency across client engagements\n\nRequirements\n- 2+ years of proven experience in data science, advanced analytics, or machine learning roles, preferably within Life Sciences, pharmaceuticals, or healthcare analytics\n\n- Strong problem-solving and communication skills, with a track record of collaborating effectively across cross-functional teams. Skilled at translating complex technical challenges to non-technical stakeholders, driving impactful problem-solving sessions, and championing a pragmatic approach to solution design\n\n- Strong technical expertise across Python, SQL, advanced analytics, machine learning, and AI, with a proven ability to design and implement predictive models and intelligent algorithms that solve complex business problems\n\n- You bring Experience writing process documentation, technical specifications, and data collection guidelines to ensure quality, scalability, and repeatability across projects\n\nNice to Have\n- Knowledge of Veeva products\n\n- Experience delivering SaaS or Tech-enabled consulting solutions\n\n- M.S. or Ph.D. in Computer Science, Statistics, Data Science, Mathematics, or a related quantitative field\n\n- Languages in addition to English\n\n- Understanding of healthcare, life sciences, or pharmaceutical industry data\n\n- Experience with data visualization tools to create dashboards and reports\n\n- Understanding of data engineering concepts (ETL, data pipelines) and automation tools such as Apache Airflow\n\n- Familiarity with cloud based computing resources such as AWS\n\nInterviewing with Veeva\nWe value your time and believe in a transparent hiring process. Here is the process you can expect.\n\n- Follow the application process and submit your resume.\n\n- Within 3 days, you will receive a link to a personality assessment administered by a third party, unless you have already completed it with Veeva previously.\n\n- Once you complete the assessment, our team will review your full application package and follow up via email with our decision.\n\n- If moving to the interview stage, the process is as follows: \n\n- A conversation with the hiring manager\n\n- A practical case exercise\n\n- A final conversation with our group's Senior Leader.\n\n- Once all interviews are complete, the manager will be in touch with a final decision.\n\nPerks & Benefits\n- Compensation: Highly competitive salary and equity in Veeva\n\n- Growth: Unrivalled career progression in a fast-growing, global team\n\n- Flexibility: Veeva is a Work Anywhere company. You can work from home or the office on any given day",
    "salary_text": null,
    "key": "lever:veeva:0382fb4f-23fe-4ae6-90bc-7f6f3257e585",
    "is_new": false,
@@ -674,7 +690,7 @@
    "company": "elevenlabs",
    "role": "Finance Data Scientist",
    "location": "United Kingdom; remote",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/257f24da-83db-4bad-a6dc-37793a1a0bac",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/257f24da-83db-4bad-a6dc-37793a1a0bac",
    "posted": "2026-10-05",
    "updated": "2026-10-05",
    "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\n\nABOUT THE ROLE\n\n\n\nWe're looking for a Finance Data Scientist to join our central Data team as the first dedicated analytics partner to Finance. You'll turn billing, revenue and forecasting data into audit-ready numbers, and the analysis that shapes pricing and planning decisions as we scale towards IPO.\n\n - Own finance-facing analysis: revenue and ARR reconciliation, cohort and retention economics, pricing and packaging experiments.\n\n - Partner with Analytics Engineering on the certified finance KPI layer (ARR, billing, revenue), and be the first to catch when a number is quietly wrong.\n\n - Build forecasting and scenario models that FP&A uses directly in planning and board reporting.\n\n - Translate ambiguous finance questions from FP&A, RevOps and leadership into clear, reusable analysis.\n\n\n\n\nREQUIREMENTS\n\nDemonstrated experience as a data scientist or analyst embedded with a Finance / FP&A function, ideally at a growth-stage or pre-IPO company.\n\n - Strong SQL and Python, with comfort reconciling data across Stripe, Salesforce and a dbt-modelled warehouse.\n\n - Finance fluency: ARR, billing, revenue recognition, cohort economics — you can speak FP&A's language.\n\n - Rigour around data quality: you reconcile by default and can explain a variance, not just report it.\n\n - Strong stakeholder management with Finance leadership, and the ability to push back on ambiguous asks.\n\n\nBONUS\n\n - Experience preparing finance data for audit, SOX or IPO readiness.\n\n - Experience with pricing / packaging experimentation or revenue forecasting at a subscription or usage-based business.\n\n - Experience with dbt or a modern warehouse (BigQuery), partnering directly with analytics engineers.\n\n\nGROWTH POTENTIAL\n\nWe believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:\n\n - Grow into a Lead Finance Data Scientist role as the central Data team scales.\n\n - Expand scope into broader strategic finance or RevOps analytics.\n\n - Path into a Head of FP&A Analytics or data leadership track.\n\n\nLOCATION\n\nThis role is remote-first, so it can be executed from anywhere in Europe or the US East Coast, with the ability to operate in CET / ET timezones required. If you prefer, you can work from our offices in London, Warsaw, Dublin or New York.\n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
@@ -882,7 +898,7 @@
    "company": "elevenlabs",
    "role": "Data Engineer",
    "location": "United Kingdom; Spain; Hungary; Bulgaria; Poland; Italy; Netherlands; France; remote",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/e53c5be6-5c1a-4870-ad85-8397a1f201de",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/e53c5be6-5c1a-4870-ad85-8397a1f201de",
    "posted": "2026-10-26",
    "updated": "2026-10-26",
    "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\n\nABOUT THE ROLE\n\nWe’re looking for an experienced Data Engineer to join our Data team. You will build and scale our data pipelines, establish best practices, ensure data quality, and enable self-service data access across teams.\n\n - Own and streamline data pipelines from ingestion to delivery, ensuring they are reliable, scalable, and efficient.\n\n - Implement and maintain dbt best practices, data standards, and quality controls.\n\n - Build self-service tooling and write clear documentation to empower cross-functional teams (Engineering, Revenue Operations, Growth, and others) to independently meet their data needs.\n\n - Create AI agents to serve data questions for others\n\n\n\n\nREQUIREMENTS\n\nDemonstrated experience formalising and scaling data pipelines, ideally as one of the first or early data engineers on a growing team.\n\n - Expert knowledge of dbt (required).\n\n - Proficiency with tools across the modern data stack (Python, SQL, BI tools).\n\n - Strong infra fundamentals (Terraform or other infrastructure as code, GCP or other cloud providers)\n\n - Structured thinking; ability to simplify complex, messy data into clear structures.\n\n - Strong ability to understand varied stakeholder requirements and build generalised solutions.\n\n\n\n\nLOCATION\n\nThis role is remote and can be executed globally. If you prefer, you can work from our offices in London, Warsaw, New York.\n\n\n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
@@ -898,7 +914,7 @@
    "company": "elevenlabs",
    "role": "Analytics Engineer",
    "location": "Poland; United Kingdom; remote",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
    "posted": "2026-10-26",
    "updated": "2026-10-26",
    "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\nAbout the role\n\nWe're looking for an experienced Analytics Engineer to join our Data team as one of its first hires. You will own the transformation layer between raw data and business decisions: modelling our data in dbt, defining the certified metrics the company runs on, and setting the standards that every analyst and data scientist at ElevenLabs builds.\n\n - Drive the implementation of a world-class metric layer for the company: modelling conventions, project structure, testing, CI, and documentation.\n\n - Design and maintain the certified KPI layer for product (activation, adoption, retention, usage), finance (billing, ARR, revenue), and company-wide topics, built to withstand audit scrutiny.\n\n - Partner with Data Engineering on evolving the data warehouse architecture, and with stakeholders to turn ambiguous questions into trusted, reusable data products, including data served through AI agents.\n\n\n\nRequirements\n\nDemonstrated experience building and scaling a dbt project and metrics layer, ideally as one of the first analytics engineers on a growing team.\n\n - Expert knowledge of dbt and advanced SQL (required); strong grasp of dimensional modelling, grain, and incremental patterns.\n\n - Proficiency across the modern data stack (BigQuery or similar warehouse, Python, BI tools such as Looker).\n\n - Rigour around data quality: you test, document, and reconcile by default, and you spot a model that runs cleanly but is quietly wrong.\n\n - Strong ability to understand varied stakeholder requirements, push back where needed, and translate them into generalised, well-documented models.\n\nBonus:\n\n - Experience modelling billing, subscription and ARR data (Stripe, Salesforce) or product event data at scale.\n\n - Experience serving data to LLM-based agents or building semantic / metrics layers consumed by AI tools.\n\n - Experience with CI for data (Slim CI, data contracts, PII policy tags) and infrastructure-as-code for warehouse access.\n\n\n\n \n\n\nLOCATION\n\nThis role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.\n\n \n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
