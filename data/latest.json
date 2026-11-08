@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T11:55:05Z",
+ "generated_at": "2026-11-08T12:10:07Z",
  "counts": {
   "matches": 50,
-  "new": 1,
+  "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -189,7 +189,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 139,
+   "open_jobs": 137,
    "matching": 3
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 114,
+   "open_jobs": 113,
    "matching": 3
   }
  ],
@@ -219,22 +219,6 @@
   }
  ],
  "jobs": [
-  {
-   "ats": "ashby",
-   "token": "faculty",
-   "id": "156e729b-aba8-4301-bb6a-2f4de3f8be61",
-   "company": "faculty",
-   "role": "Lead Data Scientist",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/faculty/156e729b-aba8-4301-bb6a-2f4de3f8be61",
-   "posted": "2026-11-06",
-   "updated": "2026-11-06",
-   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\nABOUT THE TEAM\n\nOur Retail and Consumer experts are dedicated to helping clients in an industry which is being transformed by new technologies and evolving consumer expectations. Leveraging over a decade of experience in Applied AI, we combine exceptional technical and delivery expertise to empower businesses to adapt and thrive.\n\n \n\n\nABOUT THE ROLE\n\nAs a Lead Data Scientist, you'll take on a pivotal, entrepreneurial role, functioning as the technical expert who thrives on complexity and commercial impact. You will be responsible for setting the technical direction and ensuring the high-quality, scalable delivery of our most challenging, high-impact projects.\n\nThis position combines deep expertise in machine learning with strategic oversight to define project roadmaps, manage technical risk, and architect reliable solutions. Your focus will be on driving innovation, mentoring cross-functional teams, and actively shaping both our technical standards and long-term customer relationships.\n\n \n\n\nWHAT YOU'LL BE DOING:\n\n - Setting the technical direction for complex, business-critical projects and expertly balancing trade-offs between speed, innovation, and reliability.\n\n - Designing and implementing reliable, production-grade technical solutions, ensuring comprehensive documentation of architectures and specifications.\n\n - Defining project problems, developing clear roadmaps, and overseeing end-to-end delivery across multi-disciplinary workstreams.\n\n - Leading technical scoping and feasibility studies for high-value sales opportunities and strategic customer engagements.\n\n - Managing relationships and communications with technical stakeholders, fostering trust and aligning technical solutions with shared long-term commercial goals.\n\n - Driving the adoption of best practices, shared resources, and robust technical processes across the wider Data Science craft.\n\n - Mentoring and developing other data scientists and team members, actively contributing to the growth and technical excellence of the organisation.\n\n \n\n\nWHO WE'RE LOOKING FOR:\n\n - You have proven project management expertise, capable of dividing complex, ill-defined problems into actionable, clearly defined workstreams with timelines you can defend.\n\n - You possess strong customer leadership skills, able to act as a trusted technical advisor and drive long-term strategic relationships with demanding clients.\n\n - You bring depth of expertise in at least one machine learning domain and strong technical breadth across the entire data science landscape.\n\n - You are a skilled technical leader, proficient in mentoring individuals, managing teams (including other managers), and rolling out impactful tools and workflows.\n\n - You are adept at managing ill-defined, high-risk tasks, consistently delivering innovative and practical outcomes under commercial pressure.\n\n - You excel at cross-functional collaboration, effectively aligning technical strategy with Engineering, Commercial, and Infrastructure teams.\n\n - You have experience extending technical oversight to business unit-level initiatives, using your vision to influence and contribute to organisational success.\n\n \n\n\nTHE INTERVIEW PROCESS\n\n 1. Talent Team Screen (30 minutes)\n\n 2. Introduction to the team (30 minutes)\n\n 3. Take Home Technical Assessment\n\n 4. Technical Interview (90 minutes)\n\n 5. Commercial Interview (60 minutes)\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
-   "salary_text": null,
-   "key": "ashby:faculty:156e729b-aba8-4301-bb6a-2f4de3f8be61",
-   "is_new": true,
-   "first_seen": "2026-11-07"
-  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -1018,6 +1002,22 @@
    "key": "ashby:accurx:a4df2c3f-2ac9-4b8f-bc78-1feb836fbd38",
    "is_new": false,
    "first_seen": "2026-11-04"
+  },
+  {
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "156e729b-aba8-4301-bb6a-2f4de3f8be61",
+   "company": "faculty",
+   "role": "Lead Data Scientist",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/156e729b-aba8-4301-bb6a-2f4de3f8be61",
+   "posted": "2026-11-06",
+   "updated": "2026-11-06",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\nABOUT THE TEAM\n\nOur Retail and Consumer experts are dedicated to helping clients in an industry which is being transformed by new technologies and evolving consumer expectations. Leveraging over a decade of experience in Applied AI, we combine exceptional technical and delivery expertise to empower businesses to adapt and thrive.\n\n \n\n\nABOUT THE ROLE\n\nAs a Lead Data Scientist, you'll take on a pivotal, entrepreneurial role, functioning as the technical expert who thrives on complexity and commercial impact. You will be responsible for setting the technical direction and ensuring the high-quality, scalable delivery of our most challenging, high-impact projects.\n\nThis position combines deep expertise in machine learning with strategic oversight to define project roadmaps, manage technical risk, and architect reliable solutions. Your focus will be on driving innovation, mentoring cross-functional teams, and actively shaping both our technical standards and long-term customer relationships.\n\n \n\n\nWHAT YOU'LL BE DOING:\n\n - Setting the technical direction for complex, business-critical projects and expertly balancing trade-offs between speed, innovation, and reliability.\n\n - Designing and implementing reliable, production-grade technical solutions, ensuring comprehensive documentation of architectures and specifications.\n\n - Defining project problems, developing clear roadmaps, and overseeing end-to-end delivery across multi-disciplinary workstreams.\n\n - Leading technical scoping and feasibility studies for high-value sales opportunities and strategic customer engagements.\n\n - Managing relationships and communications with technical stakeholders, fostering trust and aligning technical solutions with shared long-term commercial goals.\n\n - Driving the adoption of best practices, shared resources, and robust technical processes across the wider Data Science craft.\n\n - Mentoring and developing other data scientists and team members, actively contributing to the growth and technical excellence of the organisation.\n\n \n\n\nWHO WE'RE LOOKING FOR:\n\n - You have proven project management expertise, capable of dividing complex, ill-defined problems into actionable, clearly defined workstreams with timelines you can defend.\n\n - You possess strong customer leadership skills, able to act as a trusted technical advisor and drive long-term strategic relationships with demanding clients.\n\n - You bring depth of expertise in at least one machine learning domain and strong technical breadth across the entire data science landscape.\n\n - You are a skilled technical leader, proficient in mentoring individuals, managing teams (including other managers), and rolling out impactful tools and workflows.\n\n - You are adept at managing ill-defined, high-risk tasks, consistently delivering innovative and practical outcomes under commercial pressure.\n\n - You excel at cross-functional collaboration, effectively aligning technical strategy with Engineering, Commercial, and Infrastructure teams.\n\n - You have experience extending technical oversight to business unit-level initiatives, using your vision to influence and contribute to organisational success.\n\n \n\n\nTHE INTERVIEW PROCESS\n\n 1. Talent Team Screen (30 minutes)\n\n 2. Introduction to the team (30 minutes)\n\n 3. Take Home Technical Assessment\n\n 4. Technical Interview (90 minutes)\n\n 5. Commercial Interview (60 minutes)\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
+   "salary_text": null,
+   "key": "ashby:faculty:156e729b-aba8-4301-bb6a-2f4de3f8be61",
+   "is_new": false,
+   "first_seen": "2026-11-07"
   }
  ]
 }
