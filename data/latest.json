@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T12:10:07Z",
+ "generated_at": "2026-11-09T14:16:45Z",
  "counts": {
-  "matches": 50,
-  "new": 0,
+  "matches": 51,
+  "new": 2,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 72
+   "open_jobs": 70
   },
   {
    "ats": "greenhouse",
@@ -20,7 +20,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 58
+   "open_jobs": 62
   },
   {
    "ats": "greenhouse",
@@ -35,12 +35,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 82
+   "open_jobs": 81
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 26
+   "open_jobs": 27
   },
   {
    "ats": "greenhouse",
@@ -80,7 +80,7 @@
   {
    "ats": "ashby",
    "token": "photoroom",
-   "open_jobs": 8
+   "open_jobs": 7
   },
   {
    "ats": "ashby",
@@ -90,7 +90,7 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 15
+   "open_jobs": 16
   },
   {
    "ats": "ashby",
@@ -100,17 +100,17 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 26
+   "open_jobs": 25
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 76
+   "open_jobs": 77
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 87
+   "open_jobs": 96
   },
   {
    "ats": "ashby",
@@ -120,12 +120,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 305
+   "open_jobs": 304
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 876
+   "open_jobs": 875
   },
   {
    "ats": "lever",
@@ -135,12 +135,12 @@
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 16
+   "open_jobs": 17
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 533
+   "open_jobs": 532
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 199,
+   "open_jobs": 197,
    "matching": 0
   },
   {
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 137,
+   "open_jobs": 136,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 29,
+   "open_jobs": 30,
    "matching": 4
   },
   {
@@ -219,6 +219,38 @@
   }
  ],
  "jobs": [
+  {
+   "ats": "greenhouse",
+   "token": "monzo",
+   "id": "8281171",
+   "company": "Monzo",
+   "role": "Analytics Engineering Manager, FinCrime",
+   "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8281171",
+   "posted": "2026-11-09",
+   "updated": "2026-11-09",
+   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\nAnalytics Engineering Manager - Fincrime\n\nLondon/Cardiff/UK Remote | 💰£97,800-£125,000 + Incentive Awards tied to your performance and benefits | Hear from the team ✨\n\n⭐Our Fincrime Analytics Engineering Team\n\nOur Financial Crime Collective helps keep Monzo and our customers safe. We build effective, proportionate controls to protect against financial crime while delivering great customer outcomes.\n\nOur Analytics Engineering discipline works in the intersection between data, engineering and our collectives - Core, Money, Borrowing, Operations and Financial Crime and beyond.&nbsp;\n\nThe AE teams are responsible for building downstream data models from backend services with the desire to make our Data Warehouse a genuine competitive advantage for Monzo. We want a discipline capable of building a reliable and scalable Data Warehouse to support decision making in a cost effective and performant manner.&nbsp;\n\nManagers within Data have two primary responsibilities; people and technical products. Your focus will be on helping engineers with their personal and professional development, listening and guiding them through hard times and celebrating their successes. You will also be leading and participating directly in technical initiatives and helping Monzo shape its Data organisation, ensuring the team focuses on valuable work, shipping things with a level of care and attention to detail.\n\nThere will be a strong focus on delivering best practice across our data discipline and helping bring a new level of maturity around Data Governance principles, working in collaboration with others to deliver this.\n\n🔑You’ll play a key role by...\n\nWorking in a multi-disciplinary team, you will:\n\n- Be a hands-on leader in building a discipline of exceptional analytics engineers working to make Data at Monzo the gold standard within the industry\n\n- Nurture between 5 to 6 analytics engineers, supporting, coaching and developing high performing engineers through regular 1:1s, continuous feedback and relationships with others\n\n- Aid prioritisation of initiatives and projects, working closely with other leads for each of our Monzo collectives\n\n- Be hands on through participating in the review cycle, architecture and design leadership and development of your own changes to the pipelines\n\n- Be part of the hiring team within Analytics Engineering\n\n- Work closely with other leads to deliver a scalable, consistent approach to governance and best practices\n\n- Drive effective project management of central Analytics Engineering projects, ensuring they’re well scoped and delivered to deadlines\n\n- Establish yourself as a trusted partner to various collectives and the leadership team, with the capacity for getting things done, be it either hands-on or by leading others\n\n- We all own and support the pipelines we contribute to, and on call support out of hours will be expected from time to time as part of this role\n\n🤩We’d love to hear from you if…\n\nYou have experience managing or mentoring the performance and development of high-performing engineers.\n\n- You have strong experience in data warehousing architecture at scale\n\n- You have experience and a passion for leading data warehousing, data visualisation, big data or ETL projects as an analyst, developer, designer or architect\n\n- You know what it takes to hire great engineers within the data space\n\n- You’re equally comfortable working hands on and leading a team\n\nNice To Haves:\n\n- Any experience working within a finance or banking environment\n\n- Experience working in a highly regulated environment (e.g. finance, insurance, gaming, food, health care)\n\n- Experience with any of our stack of dbt, BigQuery and Looker\n\nNot ticking every box? That’s totally okay! Studies show that women and people of colour might hesitate to apply unless they meet every single requirement. At Monzo, we’re dedicated to creating a diverse and welcoming team. If you’re passionate about this role and keen to learn and grow with us, we encourage you to apply— even if you don’t have everything that’s listed just yet. Drop us your application, we’d love to hear from you!\n\n🙌What’s in it for you\n\n💰£97,800-£125,000 + Incentive Awards tied to your performance and benefits\n\n✈️ We’ll help you relocate to the UK.&nbsp;\n\n✅ We can sponsor your visa.&nbsp;\n\n📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London)&nbsp;\n\n⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.&nbsp;\n\n📚£1,000 learning budget each year to use on books, training courses and conferences.\n\n🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.&nbsp;\n\n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps\n\n- Recruiter Screening Call\n\n- Initial Call\n\n- Take Home Task\n\n- Final Loop (3 sessions - case study, collaboration and people&nbsp; leadership)\n\nThis process should take around 2-3 weeks - your schedule is really important to",
+   "salary_text": null,
+   "key": "greenhouse:monzo:8281171",
+   "is_new": true,
+   "first_seen": "2026-11-09"
+  },
+  {
+   "ats": "lever",
+   "token": "numan",
+   "id": "f0d880ac-10ad-450c-93dc-18498580ebe5",
+   "company": "numan",
+   "role": "Lead Growth Product Analyst",
+   "location": "London; hybrid",
+   "url": "https://jobs.eu.lever.co/numan/f0d880ac-10ad-450c-93dc-18498580ebe5",
+   "posted": "2026-11-09",
+   "updated": null,
+   "description": "About Numan \n \nFounded in 2018, we’ve already grown to be a 300+ team distributed across the globe, united by a singular mission: empowering people to take control of their health.\n \nNuman is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\n \nTo deliver on our transformative mission, we are guided by our 5 company values: \n \n• Patients first.\n• Learn fast.\n• Own the quality.\n• Succeed together.\n• Care deeply.\n \nBacked by top-tier investors, Numan is already having a positive impact on hundreds of thousands of patients here in the UK, and we want you to help us deliver this mission!\n\n\n\nThe Role: \n\n- \nOwn the analytics for the growth squad across acquisition, conversion, retention and lifetime value, and be the go-to person for what’s working and why.\n\n- \nDesign, run and evaluate experiments on the product, propositions, offers and pricing. That includes A/B tests and holdouts that measure true incrementality, not just uplift of a subset of customers.\n\n- \nLeverage the Finance and Data Teams view of unit economics (CAC, contribution margin, LTV:CAC), adhering to the existing artifacts and definitions,  and show how every initiative moves those numbers.\n\n- \nAnalyse marketing channel mix and acquisition efficiency with the marketing team, including attribution and spend allocation.\n\n- \nSegment customers and prospects by persona, behaviour and expected value, and turn those segments into targeted propositions and journeys.  Leveraging data science predictions where they can add value.\n\n- \nTrack early-journey behaviour such as first-month engagement, commitment take-up and early retention, and find the levers that set patients up for long-term success.\n\n- \nShape the growth roadmap with the Principal PM, sizing opportunities and prioritising by expected impact on tier-one metrics.\n\n- \nPresent results, wins and failures to leadership and stakeholders clearly and regularly, with a recommendation every time.\n\n- \nWork with BI, data engineering, commercial and pricing, take ownership of a set of scorecard metrics, and be able to understand and articulate drivers to their movement and fluctuations.\n\n- \nKeep all analysis and experimentation inside clinical, data protection and advertising rules, working with the clinical and compliance teams where appropriate.\n\nYou'll need: \n- \nSeveral years in product, growth or marketing analytics, ideally in a subscription, D2C or digital health business.\n\n- \nA track record of analysis that changed decisions and moved commercial metrics, with clear examples.\n\n- \nExpert SQL and confident use of a BI tool such as Looker. Python or R for deeper analysis.\n\n- \nStrong experimentation skills, including test design, sample sizing, statistical significance, incrementality and pitfalls such as novelty effects and cannibalisation.\n\n- \nA solid grasp of subscription economics: cohorts, retention curves, CAC, contribution margin and LTV.\n\n- \nExperience with marketing measurement, such as attribution models, channel performance and spend efficiency.\n\n- \nComfort with product analytics tools such as Amplitude or Mixpanel, and with funnel and behavioural analysis.\n\n- \nThe ability to turn messy questions into a clear recommendation, and to explain it simply to non-technical audiences.\n\n- \nCommercial judgement and a bias to action: you’re comfortable deciding with imperfect data and saying when you were wrong.",
+   "salary_text": null,
+   "key": "lever:numan:f0d880ac-10ad-450c-93dc-18498580ebe5",
+   "is_new": true,
+   "first_seen": "2026-11-09"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -488,22 +520,6 @@
    "description": "LONDON/HYBRID\n\n\n£40,000 - £60,000 + SHARE OPTIONS UP TO £14,500 + BENEFITS https://www.notion.so/accurx/Perks-Benefits-f1e9148b71be486791aa2c503e5d775a?source=copy_link\n\n\n\n\n💬 ACCURX IS WHERE CONVERSATIONS HAPPEN WITH AND ABOUT PATIENTS.\n\nFor decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n\nWhat started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n\n\n\nOur platform now powers Total Triage https://www.accurx.com/primary-care to manage patient demand, and Self-Book, https://www.accurx.com/booking which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires https://www.accurx.com/questionnaires for long-term conditions, while Accumail https://www.accurx.com/accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe https://www.accurx.com/scribe, our AI-powered note-taker that drafts medical notes in real-time.\n\n\n\n\n\nTHE TEAM\n\nWe have a massive vision and even more ideas, but right now, our ambitions are outstripping our capacity. That’s where you come in. We aren't looking for someone to just \"run the reports\" we’re looking for a foundational member of a growing function who is excited to help us redefine how data influences product.\n\nAt Accurx, we don't just wait for a roadmap to be handed down; we expect everyone to help shape it. While you'll be part of a team of expert data and product leaders, you'll be the one in the driver's seat for your domain. You won't be watching from the sidelines - you'll be proactively hunting for insights, challenging our current assumptions, and taking ownership of how data can save clinician time from day one. This is a role for a critical thinker who is energised by the \"blank canvas\" of a growing function and has the drive to turn raw data into a better reality for millions of patients.\n\n\n\n\n\n\nCHALLENGES YOU’LL SOLVE...\n\n - You will steer product strategy by partnering with Product Managers to define what success looks like and by monitoring the KPIs that prove our impact on the frontline of healthcare.\n\n - You will interrogate user behaviour by performing deep-dive analyses that look past the surface to find the \"why,\" ensuring we’re solving the right problems for the right people.\n\n - You will lead rigorous experiments by helping design and run A/B tests, owning the process from the initial hypothesis through to the final, data-backed recommendation.\n\n - You will build the engine for self-service insights by creating the dashboards and visualisations that ensure your pod has high-quality data at their fingertips to move fast.\n\n\n\nYOU SHOULD APPLY IF...\n\n - You've worked within a product team environment (not just as a standalone data or BI function), partnering directly with Product Managers, Engineers, and Designers on live product decisions, not just reporting on outcomes after the fact.\n\n - You are a proactive investigator who doesn't need a ticket to start digging; when things are quiet, you’re already looking for the next trend or bottleneck that we’ve missed.\n\n - You have a \"get stuck in\" mindset - you’re excited by a lean environment where you can build your own processes and take on challenges that push you outside your comfort zone.\n\n - You bring strong Product Thinking with an understanding of user funnels and a hunger to master metrics like activation, retention, and cohort behaviour.\n\n - You are sharpening a strong technical toolkit, with a solid command of SQL and the ambition to use Python.\n\n - You are a delivery-focused collaborator who thrives in agile environments and knows how to communicate technical findings clearly to engineers and designers.\n\n - You’ve used tools like Mixpanel or Amplitude and are ready to become a power user who empowers the whole team through effective data storytelling.\n\n\n\n\n\nWHAT’S IN IT FOR YOU?\n\nYou’ll join a high-performing team on a mission to solve healthcare productivity, building a platform used by around 300k NHS staff every week, supporting the care of over 50 million NHS patients every year. We set a high bar, move fast, and give people the ownership and support to do the best work of their careers\n\n - £40,000 - £60,000 salary, plus a discretionary recognition bonus for exceptional performance and impact, nominated by managers and awarded by our leadership team\n\n - Equity: £14,500 in equal share options, so you share in the value you help create\n\n - Benefits to suit you: adjust your healthcare cover, your pension or life insurance, whatever stage you’re at in life\n\n - Built for collaboration: We are an office-first culture and ask that you’re in our (dog-friendly) Shoreditch office for a minimum of 3 days a week\n\n - Close to our users: Regular hackathons, plus dedicated time to visit GP practices and other healthcare settings to see first-hand how our products are used\n\n - Time off: You’ll get 28 days of holiday (plus bank holidays) and up to 4 weeks to work from anywhere per year\n\n - Support at home: We offer enhanced parental leave, fertility support and parental loss support\n\n - We have our very own chefs: Free healthy breakfasts, snacks and lunches, plus a weekly sweet treat",
    "salary_text": "£40K – £60K • Offers Equity",
    "key": "ashby:accurx:92c80ced-031a-4823-aecf-04eb3f58b480",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
-   "token": "oviva",
-   "id": "427a2a9a-2ebb-4a9e-a8f4-35b64d9ac761",
-   "company": "oviva",
-   "role": "Staff Data Engineer ",
-   "location": "Remote UK; London; remote",
-   "url": "https://jobs.ashbyhq.com/oviva/427a2a9a-2ebb-4a9e-a8f4-35b64d9ac761",
-   "posted": "2026-09-17",
-   "updated": "2026-09-17",
-   "description": "Why Oviva?\nAt Oviva, we’re on a mission to make sustainable, personalized, clinically effective care accessible to everyone as we build Europe’s leading AI-powered chronic care platform. Our digital programmes help people manage weight-related illnesses by focusing on what matters most: improving health, building confidence, and enhancing quality of life.\n\nTo date, we have supported over one million people across the UK, Switzerland, and Germany. Our mission is powered by a dedicated team operating across four countries, including our hub in Poland. Every conversation, coaching session, and line of code brings us closer to a healthier future.\n\nOur journey is accelerating: In 2026, we secured €200 million in Series D funding led by Kinnevik and a group of leading global investors. This investment fuels our next phase of growth, allowing us to scale our AI-enabled chronic care platform across Europe and expand our support to even more people living with chronic conditions.\nJoin us, and be part of the team making that future possible!\n\n\nThe role\nWe are looking for a Staff Data Engineer to join our Data Platform team and help shape how we collect, model, and serve data across our entire organization. In this role, you will take ownership of building reliable, scalable data systems from source ingestion through to end-to-end data products.\n\nAbout You\n\n - Strong experience: Extensive background in professional data engineering with a proven track record of designing end-to-end data systems.\n\n - Technical proficiency: Solid expertise in SQL and Python, experience with cloud data warehouses (e.g., BigQuery, Snowflake, or Redshift), and data transformation tools (such as dbt).\n\n - Pipeline mastery: Practical experience building and operating batch or streaming pipelines using orchestration tools like Airflow, Prefect, or Dagster.\n\n - Strong communicator: Skilled at writing clear technical specifications and explaining complex trade-offs to both technical and non-technical colleagues.\n\n - Growth mindset: Open to feedback, curious to learn, and driven to make an impact.\n\nPreferred, but not required: Experience with streaming architectures, infrastructure-as-code, or working within high-growth health-tech environments\n\nWhat you will do \n\n - Architect and build data systems: Design and implement scalable data pipelines, transformation layers, and data products with clear documentation.\n\n - Drive technical quality: Define best practices for testing, data modeling, CI/CD pipelines, and data quality frameworks.\n\n - Lead cross-functional initiatives: Collaborate with analytics, data science, and product engineering to translate business goals into sound technical designs.\n\n - Ensure reliability & performance: Proactively monitor pipeline health and optimize data infrastructure so our teams can depend on trustworthy data.\n\n - Empower the team: Support team growth through code reviews, technical pairing, and sharing knowledge\n\nWhat we offer\n\n - A mission-driven environment focused on making a real-world impact.\n\n - High-growth opportunities with a clear path to broader strategic leadership.\n\n - A flexible remote/hybrid work culture across the UK, Germany, Switzerland and Poland.\n\n - Annual learning & development budget.\n\n - Home working allowance and flexible working hours.\n\n - Competitive compensation, benefits, and inclusive policies (enhanced leave, etc.)\n\nHaving a culture that people want to work in, is very important to us. We do this by keeping our values at the forefront of everything we do: \nWe put the patient first. We empower our teams. We make it happen\n\nOviva is passionate about creating an inclusive culture that celebrates diverse voices and perspectives. We are proud to be a Disability Confident Employer and welcome applicants from all backgrounds and identities.\n\nReady to help shape the future of digital healthcare? Apply today.\n\n\n\n#LI-OM1",
-   "salary_text": null,
-   "key": "ashby:oviva:427a2a9a-2ebb-4a9e-a8f4-35b64d9ac761",
    "is_new": false,
    "first_seen": "2026-10-09"
   },
