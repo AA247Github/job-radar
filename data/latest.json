@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T13:45:21Z",
+ "generated_at": "2026-11-11T12:56:58Z",
  "counts": {
-  "matches": 49,
-  "new": 1,
+  "matches": 48,
+  "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -10,17 +10,17 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 66
+   "open_jobs": 58
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 26
+   "open_jobs": 29
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 63
+   "open_jobs": 64
   },
   {
    "ats": "greenhouse",
@@ -30,17 +30,17 @@
   {
    "ats": "greenhouse",
    "token": "cleo",
-   "open_jobs": 9
+   "open_jobs": 10
   },
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 77
+   "open_jobs": 80
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 29
+   "open_jobs": 28
   },
   {
    "ats": "greenhouse",
@@ -60,7 +60,7 @@
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 14
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
@@ -70,7 +70,7 @@
   {
    "ats": "ashby",
    "token": "anima",
-   "open_jobs": 8
+   "open_jobs": 10
   },
   {
    "ats": "ashby",
@@ -90,7 +90,7 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 14
+   "open_jobs": 13
   },
   {
    "ats": "ashby",
@@ -100,22 +100,22 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 25
+   "open_jobs": 26
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 78
+   "open_jobs": 77
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 97
+   "open_jobs": 95
   },
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 23
+   "open_jobs": 24
   },
   {
    "ats": "lever",
@@ -130,24 +130,24 @@
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 31
+   "open_jobs": 29
   },
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 17
+   "open_jobs": 16
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 564
+   "open_jobs": 572
   }
  ],
  "discovered_tokens": [
   {
    "ats": "lever_eu",
    "token": "peppy",
-   "open_jobs": 1,
+   "open_jobs": 2,
    "matching": 0
   },
   {
@@ -189,7 +189,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 129,
+   "open_jobs": 130,
    "matching": 3
   },
   {
@@ -201,13 +201,13 @@
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 25,
+   "open_jobs": 23,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 112,
+   "open_jobs": 101,
    "matching": 2
   }
  ],
@@ -219,22 +219,6 @@
   }
  ],
  "jobs": [
-  {
-   "ats": "greenhouse",
-   "token": "monzo",
-   "id": "8365296",
-   "company": "Monzo",
-   "role": "FOS Insights Analyst",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8365296",
-   "posted": "2026-11-09",
-   "updated": "2026-11-09",
-   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\nLondon OR Cardiff OR Remote (UK) | 💰 £33,600 - £44,450 + Incentive Awards tied to your performance + benefits ✨\n\n⭐Our Complaints team\n\nOur mission is to make money work for everyone. And while having a great app is part of that, we pride ourselves on providing world-class support. By solving customers' problems, treating them fairly and being transparent, we're making banking better 💪\n\nOur Complaints team works alongside Customer Operations to make sure customers receive the best possible service, even when things go wrong. We put empathy at the heart of how we handle complaints and use what we learn to make things better.\n\nThe Financial Ombudsman Service (FOS) plays an important role in helping us improve. As a FOS Insight Analyst, you'll uncover the root causes behind complaints and Ombudsman decisions, turn data into meaningful insights and help teams make changes that improve customer outcomes and prevent future harm.\n\n🔑You’ll play a key role by…\n\n- \nMonitoring key risk indicators, including FOS referral and overturn rates, to spot emerging trends and opportunities for improvement.\n\n- \nCarrying out root cause analysis and deep dives into FOS referrals and outcomes to understand what's driving complaints and decisions.\n\n- \nTurning complex data into clear, actionable insights and recommendations that help teams address underlying issues.\n\n- \nSharing findings with senior leaders and governance committees to support informed decisions and improve customer outcomes.\n\n- \nTracking agreed actions across teams, highlighting progress, challenges and opportunities to make improvements.\n\n- \nAssessing the impact of completed actions to understand what's working and where further changes are needed.\n\n- \nWorking with the FOS to share insights, discuss differences in interpretation and identify practical solutions.\n\n🤩 We’d love to hear from you if…\n\n- \nYou have experience carrying out root cause analysis and turning findings into meaningful improvements.\n\n- \nYou understand complaint handling in an FCA-regulated environment, including the Dispute Resolution (DISP) rules.\n\n- \nYou're familiar with the Financial Ombudsman Service, how complaints are referred and how decisions are made.\n\n- \nYou're confident analysing and interpreting data, including using tools like Looker to identify trends and patterns.\n\n- \nYou can turn complex information into clear, practical recommendations that different audiences can understand.\n\n- \nYou're comfortable working with stakeholders across different teams, constructively challenging decisions and influencing positive change.\n\nNot ticking every box? That’s totally okay! Studies show that women and people of colour might hesitate to apply unless they meet every single requirement. At Monzo, we’re dedicated to creating a diverse and welcoming team. If you’re passionate about this role and keen to learn and grow with us, we encourage you to apply— even if you don’t have everything that's listed just yet. Drop us your application, we’d love to hear from you!\n\n🙌What’s in it for you\n\n- \n💰£33,600 - £44,450+ Incentive Awards tied to your performance ➕ benefits.\n\n- \n⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.\n\n- \n📚£1,000 learning budget each year to use on books, training courses and conferences.\n\n- \n🏡We will set you up to work from home; all employees are given MacBooks and for fully remote workers we will provide extra support for your work-from-home setup.\n\n- \n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps\n\n1. Application\n2. Recruiter call&nbsp;\n3. Role Specific Interview&nbsp;\n4. Values Interview\n\nThis process should take around 2-3 weeks - your schedule is really important to us, so we promise to be as flexible as possible!\n\n🤖 We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo. You can read them here.\n\nWe’ll close this role once we have enough applications for the next stage, so please apply as soon as you can - we don’t want you to miss out!\n\nLinkedIn Tags: #LI-JK1\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
-   "salary_text": null,
-   "key": "greenhouse:monzo:8365296",
-   "is_new": true,
-   "first_seen": "2026-11-10"
-  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -701,22 +685,6 @@
   },
   {
    "ats": "ashby",
-   "token": "faculty",
-   "id": "61c1d7d5-6bb1-4a22-a950-bbf26e59d675",
-   "company": "faculty",
-   "role": "Senior Data Scientist ",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/faculty/61c1d7d5-6bb1-4a22-a950-bbf26e59d675",
-   "posted": "2026-10-09",
-   "updated": "2026-10-09",
-   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\nABOUT THE TEAM\n\n\n\nFaculty’s Retail & Consumer team builds AI that re-engineers how retail and consumer businesses make decisions, from personalised promotions and pricing to range, inventory and customer acquisition. We combine deep sector expertise with outstanding scientific and technical capability to solve hard problems and embed the solutions in our clients’ core business processes.\n\n\n\n\nABOUT THE ROLE\n\nAs a Senior Data Scientist, you will lead high-impact AI projects and shape the technical direction of bespoke solutions for some of the most recognisable names in retail and consumer.\n\nYou will define the data science approach for each engagement, design robust software architectures, mentor colleagues and ensure delivery rigour across projects. You will also build deep client relationships and strengthen our reputation as a leader in practical, measurable AI.\n\n\n\n\nWHAT YOU’LL BE DOING\n\n - Leading project teams that deliver bespoke algorithms and high-stakes AI solutions to clients across the retail and consumer sector\n\n - Translating complex business problems into the right data science solutions, and mapping the end-to-end approach so it meets client needs and is technically feasible\n\n - Designing the software architecture for data science solutions, working alongside engineering colleagues\n\n - Partnering with our commercial teams to build client relationships and shape project scope for technical success\n\n - Owning the technical side of the client relationship on projects and in business development, helping to secure successful outcomes\n\n - Estimating delivery timelines and leading your team to deliver to a demanding schedule\n\n - Supporting the professional growth of data scientists on your projects through mentorship, coaching and feedback\n\n - Upholding best practice throughout the project lifecycle, including embedding responsible AI thinking in how problems are framed, not only in how models are evaluated\n\n - Contributing to hiring at Faculty\n\n\n\n\nWHAT WE’RE LOOKING FOR\n\n - You have senior experience in a professional data science position or a quantitative academic field\n\n - You have broad knowledge of state-of-the-art ML and AI, and can apply it, along with novel ideas, to build algorithms for complex data science problems\n\n - You hold yourself to rigorous validation standards, ensuring models perform reliably in real-world conditions and edge cases\n\n - You can scope projects by assessing technical feasibility and breaking complex workstreams into clear delivery milestones\n\n - You have mastery of Python and relevant frameworks, and can architect production-grade infrastructure for sophisticated models and agentic AI systems\n\n - You communicate clearly, translating sophisticated models and quantitative findings into actionable strategy for client stakeholders\n\n - You care about accountability, transparency and responsible AI, and nurture those habits in the people around you\n\n - You enjoy mentoring and developing other data scientists\n\n\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.\n\n",
-   "salary_text": null,
-   "key": "ashby:faculty:61c1d7d5-6bb1-4a22-a950-bbf26e59d675",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
    "token": "marshmallow",
    "id": "c316bf98-6f62-43be-914b-b96f486e08ce",
    "company": "marshmallow",
@@ -986,6 +954,22 @@
    "key": "ashby:faculty:156e729b-aba8-4301-bb6a-2f4de3f8be61",
    "is_new": false,
    "first_seen": "2026-11-07"
+  },
+  {
+   "ats": "greenhouse",
+   "token": "monzo",
+   "id": "8365296",
+   "company": "Monzo",
+   "role": "FOS Insights Analyst",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8365296",
+   "posted": "2026-11-09",
+   "updated": "2026-11-09",
+   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\nLondon OR Cardiff OR Remote (UK) | 💰 £33,600 - £44,450 + Incentive Awards tied to your performance + benefits ✨\n\n⭐Our Complaints team\n\nOur mission is to make money work for everyone. And while having a great app is part of that, we pride ourselves on providing world-class support. By solving customers' problems, treating them fairly and being transparent, we're making banking better 💪\n\nOur Complaints team works alongside Customer Operations to make sure customers receive the best possible service, even when things go wrong. We put empathy at the heart of how we handle complaints and use what we learn to make things better.\n\nThe Financial Ombudsman Service (FOS) plays an important role in helping us improve. As a FOS Insight Analyst, you'll uncover the root causes behind complaints and Ombudsman decisions, turn data into meaningful insights and help teams make changes that improve customer outcomes and prevent future harm.\n\n🔑You’ll play a key role by…\n\n- \nMonitoring key risk indicators, including FOS referral and overturn rates, to spot emerging trends and opportunities for improvement.\n\n- \nCarrying out root cause analysis and deep dives into FOS referrals and outcomes to understand what's driving complaints and decisions.\n\n- \nTurning complex data into clear, actionable insights and recommendations that help teams address underlying issues.\n\n- \nSharing findings with senior leaders and governance committees to support informed decisions and improve customer outcomes.\n\n- \nTracking agreed actions across teams, highlighting progress, challenges and opportunities to make improvements.\n\n- \nAssessing the impact of completed actions to understand what's working and where further changes are needed.\n\n- \nWorking with the FOS to share insights, discuss differences in interpretation and identify practical solutions.\n\n🤩 We’d love to hear from you if…\n\n- \nYou have experience carrying out root cause analysis and turning findings into meaningful improvements.\n\n- \nYou understand complaint handling in an FCA-regulated environment, including the Dispute Resolution (DISP) rules.\n\n- \nYou're familiar with the Financial Ombudsman Service, how complaints are referred and how decisions are made.\n\n- \nYou're confident analysing and interpreting data, including using tools like Looker to identify trends and patterns.\n\n- \nYou can turn complex information into clear, practical recommendations that different audiences can understand.\n\n- \nYou're comfortable working with stakeholders across different teams, constructively challenging decisions and influencing positive change.\n\nNot ticking every box? That’s totally okay! Studies show that women and people of colour might hesitate to apply unless they meet every single requirement. At Monzo, we’re dedicated to creating a diverse and welcoming team. If you’re passionate about this role and keen to learn and grow with us, we encourage you to apply— even if you don’t have everything that's listed just yet. Drop us your application, we’d love to hear from you!\n\n🙌What’s in it for you\n\n- \n💰£33,600 - £44,450+ Incentive Awards tied to your performance ➕ benefits.\n\n- \n⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.\n\n- \n📚£1,000 learning budget each year to use on books, training courses and conferences.\n\n- \n🏡We will set you up to work from home; all employees are given MacBooks and for fully remote workers we will provide extra support for your work-from-home setup.\n\n- \n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps\n\n1. Application\n2. Recruiter call&nbsp;\n3. Role Specific Interview&nbsp;\n4. Values Interview\n\nThis process should take around 2-3 weeks - your schedule is really important to us, so we promise to be as flexible as possible!\n\n🤖 We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo. You can read them here.\n\nWe’ll close this role once we have enough applications for the next stage, so please apply as soon as you can - we don’t want you to miss out!\n\nLinkedIn Tags: #LI-JK1\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
+   "salary_text": null,
+   "key": "greenhouse:monzo:8365296",
+   "is_new": false,
+   "first_seen": "2026-11-10"
   },
   {
    "ats": "lever",
