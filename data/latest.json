@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T12:56:58Z",
+ "generated_at": "2026-11-12T13:58:38Z",
  "counts": {
-  "matches": 48,
+  "matches": 45,
   "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 58
+   "open_jobs": 50
   },
   {
    "ats": "greenhouse",
@@ -20,22 +20,22 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 64
+   "open_jobs": 61
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 18
+   "open_jobs": 19
   },
   {
    "ats": "greenhouse",
    "token": "cleo",
-   "open_jobs": 10
+   "open_jobs": 11
   },
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 80
+   "open_jobs": 71
   },
   {
    "ats": "greenhouse",
@@ -50,7 +50,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 43
+   "open_jobs": 42
   },
   {
    "ats": "greenhouse",
@@ -105,12 +105,12 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 77
+   "open_jobs": 76
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 95
+   "open_jobs": 97
   },
   {
    "ats": "ashby",
@@ -120,27 +120,27 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 304
+   "open_jobs": 303
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 857
+   "open_jobs": 860
   },
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 29
+   "open_jobs": 28
   },
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 16
+   "open_jobs": 17
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 572
+   "open_jobs": 570
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 194,
+   "open_jobs": 188,
    "matching": 0
   },
   {
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 130,
+   "open_jobs": 129,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 31,
+   "open_jobs": 32,
    "matching": 4
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 101,
+   "open_jobs": 98,
    "matching": 2
   }
  ],
@@ -219,22 +219,6 @@
   }
  ],
  "jobs": [
-  {
-   "ats": "greenhouse",
-   "token": "monzo",
-   "id": "6180814",
-   "company": "Monzo",
-   "role": "Senior Data Scientist",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/6180814",
-   "posted": "2024-08-15",
-   "updated": "2026-11-03",
-   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\n📍London | UK remote | 💰 £80,000 to £95,000 + Incentive Awards tied to your performance + Benefits | Hear from the team\n\nAbout our Data Science Team:\n\nWe're looking for a Senior Product Data Scientist excited to help build the bank of the future. You'll have the opportunity to super charge our user engagement in 2025 and help us to build a bank that customers truly love.\n\nAt Monzo, we're building a bank that is fair, transparent and a delight to use. We’re growing extremely fast and have over 11 million customers in the UK. We’ve built a product that people love and more than 80% of our growth comes from word of mouth and referrals.\n\nEnable Monzo to Make Better Decisions, Faster\n\nWe have a strong culture of data-driven decision making across the whole company. And we're great believers in powerful, real-time analytics and empowerment of the wider business. All our data lives in one place and is super easy to use. 90% of day-to-day data-driven decisions are covered by self-serve analytics through Looker which gives data scientists the head space to focus on more impactful business questions and analyses.\n\nHow we hire\n\nWe are excited to be expanding and are hiring for multiple roles across our Data Science teams! Whether your interests lie in Borrowing, Growth, Payments, Fincrime, Wealth, or Core, we are looking for talented individuals with a versatile skill set to contribute across our squads. While we allocate teams after the interview process, we aim to match your skills and aspirations with the most suitable role. Throughout the process, you will meet team members from across our Data Science collectives, who will guide you through the opportunities available. Join us and be part of shaping our future!\n\nWhat you’ll be working on&nbsp;\n\nWe work in cross-functional squads where every data scientist is a member of a central data discipline and fully embedded into 1 product squad alongside engineers, designers, marketers, product managers etc.\n\nYour day-to-day&nbsp;&nbsp;&nbsp;\n\n- Applying your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with our products and how those insights can inform our product strategy\n\n- Guide and enable product teams to measure things that matter; initiate or help run A/B experiments to keep improving everything we do\n\n- Drive together with the finance team a unified company-wide understanding of the lifetime value of our users and how different product features are impacting user profitability\n\n- Liaise with engineers to keep making sure we collect the right data to produce relevant business insights\n\nYou should apply if:\n\nWhat we’re doing here at Monzo excites you!\n\n- You're impact driven and eager to have a real positive impact on the company, product, users and very importantly your colleagues as well\n\n- You're commercially minded and can put numbers into business perspective\n\n- You’re as comfortable getting hands-on as taking a step back and thinking strategically\n\n- You have a self-starter mindset; you proactively identify issues and opportunities and tackle them without being told to do so\n\n- You're a team player whom your colleagues can rely on\n\n- You have solid grounding in SQL and preferably Python\n\n- You have experience in conducting large scale A/B experiments\n\nThe Interview Process:\n\nOur interview process involves three main stages:&nbsp;\n\n- Recruiter Call\n\n- Initial Call&nbsp;\n\n- Technical Interview\n\n- Final Interview including a case study and collaboration interview&nbsp;\n\nOur average process takes around 2-3 weeks but we will always work around your availability.&nbsp;\n\nYou will have the chance to speak to our recruitment team at various points during your process.\n\nWhat’s in it for you:\n\n💰 £80,000 to £95,000 + Incentive Awards tied to your performance + Benefits\n\n✈️ We can help you relocate to the UK&nbsp;\n\n✅ We can sponsor visas&nbsp;\n\n📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London).\n\n⏰ We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.\n\n📚Learning budget of £1,000 a year for books, training courses and conferences\n\n➕And much more, see our full list of benefits here\n\nIf you prefer to work part-time, we'll make this happen whenever we can - whether this is to help you meet other commitments or strike a great work-life balance.\n\n&nbsp;\n\n#LI-NB2 #LI-Remote\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, g",
-   "salary_text": null,
-   "key": "greenhouse:monzo:6180814",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -429,22 +413,6 @@
   },
   {
    "ats": "ashby",
-   "token": "lendable",
-   "id": "1b771c08-449e-412f-90c7-040e950c0ddf",
-   "company": "lendable",
-   "role": "Data Platform Engineer",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/lendable/1b771c08-449e-412f-90c7-040e950c0ddf",
-   "posted": "2026-09-04",
-   "updated": "2026-09-04",
-   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nAs a Data Platform Engineer, you'll work alongside senior team members to tackle complex challenges, while taking ownership of your own areas of the problem, in a fast-paced environment where no two days look the same. The role is fundamentally about problem solving: understanding business challenges, breaking them down, and delivering pragmatic, scalable solutions.\n\nYou’ll work closely with product, analytics, and engineering teams, operating with a high degree of autonomy. That means proactively gathering context, aligning stakeholders, and ensuring work lands effectively.\n\nData Platform sits at the centre of the business, with a real opportunity to shape how teams interact with data. The focus is on enabling fast, iterative analytics, moving from idea to insight quickly, while maintaining strong foundations around reliability, cost, and security.\n\n\n\n\nOUR MODERN TECH STACK\n\nYou’ll work across a broad set of technologies as we evolve the platform. Experience is helpful, but not essential:\n\n - Languages: Python, SQL, Terragrunt, JavaScript\n\n - Cloud: AWS (primary), some GCP\n\n - Warehouse & Storage: Snowflake, S3/Parquet\n\n - Data & ETL: dbt, Fivetran\n\n - Platform & Infra: Kubernetes, Kafka, RabbitMQ, Argo, GitHub Actions, HashiCorp Vault\n\n - Observability: Datadog, Grafana\n\n - Dashboarding: Preset\n\n - Other: Claude\n\n\n\n\nWHAT WE’RE LOOKING FOR\n\nStrong fundamentals and the ability to apply them pragmatically:\n\n - Solid programming ability (Python or similar)\n\n - Strong experience with Snowflake (or similar warehouses)\n\n - Good understanding of software engineering patterns and architectures\n\n - Experience building data-intensive systems\n\n - Cloud experience (AWS preferred)\n\n - Infrastructure as code (Terraform ideally)\n\n - CI/CD best practices\n\n - Familiarity with modern data architectures (Lambda/Kappa)\n\nJust as importantly, how you work:\n\n - A self-starter who takes ownership and drives work forward\n\n - Strong problem solver who focuses on understanding before building\n\n - Good judgement on build vs buy decisions\n\n - Comfortable working in ambiguity and shaping direction\n\n - Clear communicator across technical and non-technical audiences\n\n - Able to manage multiple streams of work without losing momentum\n\n - Pragmatic, balancing speed with scalability and reliability\n\n - Actively looks to improve ways of working, including leveraging AI tooling\n\n\n\n\nINTERVIEW PROCESS\n\n - Initial call with Talent team\n\n - Hiring manager call\n\n - Technical interview \n\n - Final interview with VP of Platform\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
-   "salary_text": null,
-   "key": "ashby:lendable:1b771c08-449e-412f-90c7-040e950c0ddf",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
    "token": "tem",
    "id": "9d3b99f8-8b01-4bd9-99e0-a037aadc0b2e",
    "company": "tem",
@@ -474,22 +442,6 @@
    "key": "ashby:accurx:92c80ced-031a-4823-aecf-04eb3f58b480",
    "is_new": false,
    "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "lever",
-   "token": "zopa",
-   "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "company": "zopa",
-   "role": "Senior BI Analyst (Collections & Recoveries)",
-   "location": "London; hybrid",
-   "url": "https://jobs.lever.co/zopa/9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "posted": "2026-09-19",
-   "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring Senior BI Analysts to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \nThe opportunity \nThis role has a strong BI and reporting focus, with a meaningful element of data modelling and collaboration with Analytics Engineering. You will build trusted data pipelines, establish semantic layers with clearly defined metrics and design self-serve reporting. You will enable analysis at scale and help teams monitor performance, identify opportunities and make informed decisions. \nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- \nSupport performance monitoring across either operational or risk-focused domains\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation  \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders.  \n\n- \nAn organised, curious approach to problem solving and managing priorities\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- \nExperience analysing credit, operational or customer performance metrics would be useful",
-   "salary_text": null,
-   "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
-   "is_new": false,
-   "first_seen": "2026-10-12"
   },
   {
    "ats": "ashby",
@@ -958,18 +910,18 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "id": "8365296",
+   "id": "8281171",
    "company": "Monzo",
-   "role": "FOS Insights Analyst",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8365296",
+   "role": "Analytics Engineering Manager, FinCrime",
+   "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8281171",
    "posted": "2026-11-09",
-   "updated": "2026-11-09",
-   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\nLondon OR Cardiff OR Remote (UK) | 💰 £33,600 - £44,450 + Incentive Awards tied to your performance + benefits ✨\n\n⭐Our Complaints team\n\nOur mission is to make money work for everyone. And while having a great app is part of that, we pride ourselves on providing world-class support. By solving customers' problems, treating them fairly and being transparent, we're making banking better 💪\n\nOur Complaints team works alongside Customer Operations to make sure customers receive the best possible service, even when things go wrong. We put empathy at the heart of how we handle complaints and use what we learn to make things better.\n\nThe Financial Ombudsman Service (FOS) plays an important role in helping us improve. As a FOS Insight Analyst, you'll uncover the root causes behind complaints and Ombudsman decisions, turn data into meaningful insights and help teams make changes that improve customer outcomes and prevent future harm.\n\n🔑You’ll play a key role by…\n\n- \nMonitoring key risk indicators, including FOS referral and overturn rates, to spot emerging trends and opportunities for improvement.\n\n- \nCarrying out root cause analysis and deep dives into FOS referrals and outcomes to understand what's driving complaints and decisions.\n\n- \nTurning complex data into clear, actionable insights and recommendations that help teams address underlying issues.\n\n- \nSharing findings with senior leaders and governance committees to support informed decisions and improve customer outcomes.\n\n- \nTracking agreed actions across teams, highlighting progress, challenges and opportunities to make improvements.\n\n- \nAssessing the impact of completed actions to understand what's working and where further changes are needed.\n\n- \nWorking with the FOS to share insights, discuss differences in interpretation and identify practical solutions.\n\n🤩 We’d love to hear from you if…\n\n- \nYou have experience carrying out root cause analysis and turning findings into meaningful improvements.\n\n- \nYou understand complaint handling in an FCA-regulated environment, including the Dispute Resolution (DISP) rules.\n\n- \nYou're familiar with the Financial Ombudsman Service, how complaints are referred and how decisions are made.\n\n- \nYou're confident analysing and interpreting data, including using tools like Looker to identify trends and patterns.\n\n- \nYou can turn complex information into clear, practical recommendations that different audiences can understand.\n\n- \nYou're comfortable working with stakeholders across different teams, constructively challenging decisions and influencing positive change.\n\nNot ticking every box? That’s totally okay! Studies show that women and people of colour might hesitate to apply unless they meet every single requirement. At Monzo, we’re dedicated to creating a diverse and welcoming team. If you’re passionate about this role and keen to learn and grow with us, we encourage you to apply— even if you don’t have everything that's listed just yet. Drop us your application, we’d love to hear from you!\n\n🙌What’s in it for you\n\n- \n💰£33,600 - £44,450+ Incentive Awards tied to your performance ➕ benefits.\n\n- \n⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.\n\n- \n📚£1,000 learning budget each year to use on books, training courses and conferences.\n\n- \n🏡We will set you up to work from home; all employees are given MacBooks and for fully remote workers we will provide extra support for your work-from-home setup.\n\n- \n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps\n\n1. Application\n2. Recruiter call&nbsp;\n3. Role Specific Interview&nbsp;\n4. Values Interview\n\nThis process should take around 2-3 weeks - your schedule is really important to us, so we promise to be as flexible as possible!\n\n🤖 We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo. You can read them here.\n\nWe’ll close this role once we have enough applications for the next stage, so please apply as soon as you can - we don’t want you to miss out!\n\nLinkedIn Tags: #LI-JK1\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
+   "updated": "2026-11-11",
+   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\nAnalytics Engineering Manager - Fincrime\n\nLondon/Cardiff/UK Remote | 💰£97,800-£125,000 + Incentive Awards tied to your performance and benefits | Hear from the team ✨\n\n⭐Our Fincrime Analytics Engineering Team\n\nOur Financial Crime Collective helps keep Monzo and our customers safe. We build effective, proportionate controls to protect against financial crime while delivering great customer outcomes.\n\nOur Analytics Engineering discipline works in the intersection between data, engineering and our collectives - Core, Money, Borrowing, Operations and Financial Crime and beyond.&nbsp;\n\nThe AE teams are responsible for building downstream data models from backend services with the desire to make our Data Warehouse a genuine competitive advantage for Monzo. We want a discipline capable of building a reliable and scalable Data Warehouse to support decision making in a cost effective and performant manner.&nbsp;\n\nManagers within Data have two primary responsibilities; people and technical products. Your focus will be on helping engineers with their personal and professional development, listening and guiding them through hard times and celebrating their successes. You will also be leading and participating directly in technical initiatives and helping Monzo shape its Data organisation, ensuring the team focuses on valuable work, shipping things with a level of care and attention to detail.\n\nThere will be a strong focus on delivering best practice across our data discipline and helping bring a new level of maturity around Data Governance principles, working in collaboration with others to deliver this.\n\n🔑You’ll play a key role by...\n\nWorking in a multi-disciplinary team, you will:\n\n- Be a hands-on leader in building a discipline of exceptional analytics engineers working to make Data at Monzo the gold standard within the industry\n\n- Nurture between 5 to 6 analytics engineers, supporting, coaching and developing high performing engineers through regular 1:1s, continuous feedback and relationships with others\n\n- Aid prioritisation of initiatives and projects, working closely with other leads for each of our Monzo collectives\n\n- Be hands on through participating in the review cycle, architecture and design leadership and development of your own changes to the pipelines\n\n- Be part of the hiring team within Analytics Engineering\n\n- Work closely with other leads to deliver a scalable, consistent approach to governance and best practices\n\n- Drive effective project management of central Analytics Engineering projects, ensuring they’re well scoped and delivered to deadlines\n\n- Establish yourself as a trusted partner to various collectives and the leadership team, with the capacity for getting things done, be it either hands-on or by leading others\n\n- We all own and support the pipelines we contribute to, and on call support out of hours will be expected from time to time as part of this role\n\n🤩We’d love to hear from you if…\n\nYou have experience managing or mentoring the performance and development of high-performing engineers.\n\n- You have strong experience in data warehousing architecture at scale\n\n- You have experience and a passion for leading data warehousing, data visualisation, big data or ETL projects as an analyst, developer, designer or architect\n\n- You know what it takes to hire great engineers within the data space\n\n- You’re equally comfortable working hands on and leading a team\n\nNice To Haves:\n\n- Any experience working within a finance or banking environment\n\n- Experience working in a highly regulated environment (e.g. finance, insurance, gaming, food, health care)\n\n- Experience with any of our stack of dbt, BigQuery and Looker\n\nNot ticking every box? That’s totally okay! Studies show that women and people of colour might hesitate to apply unless they meet every single requirement. At Monzo, we’re dedicated to creating a diverse and welcoming team. If you’re passionate about this role and keen to learn and grow with us, we encourage you to apply— even if you don’t have everything that’s listed just yet. Drop us your application, we’d love to hear from you!\n\n🙌What’s in it for you\n\n💰£97,800-£125,000 + Incentive Awards tied to your performance and benefits\n\n✈️ We’ll help you relocate to the UK.&nbsp;\n\n✅ We can sponsor your visa.&nbsp;\n\n📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London)&nbsp;\n\n⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.&nbsp;\n\n📚£1,000 learning budget each year to use on books, training courses and conferences.\n\n🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.&nbsp;\n\n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps\n\n- Recruiter Screening Call\n\n- Initial Call\n\n- Take Home Task\n\n- Final Loop (3 sessions - case study, collaboration and people&nbsp; leadership)\n\nThis process should take around 2-3 weeks - your schedule is really important to",
    "salary_text": null,
-   "key": "greenhouse:monzo:8365296",
+   "key": "greenhouse:monzo:8281171",
    "is_new": false,
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-09"
   },
   {
    "ats": "lever",
