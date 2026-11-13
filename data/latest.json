@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T13:58:38Z",
+ "generated_at": "2026-11-13T13:24:18Z",
  "counts": {
   "matches": 45,
   "new": 0,
@@ -15,17 +15,17 @@
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 29
+   "open_jobs": 30
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 61
+   "open_jobs": 58
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 19
+   "open_jobs": 18
   },
   {
    "ats": "greenhouse",
@@ -50,7 +50,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 42
+   "open_jobs": 39
   },
   {
    "ats": "greenhouse",
@@ -60,7 +60,7 @@
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 15
+   "open_jobs": 14
   },
   {
    "ats": "ashby",
@@ -85,7 +85,7 @@
   {
    "ats": "ashby",
    "token": "causaly",
-   "open_jobs": 9
+   "open_jobs": 10
   },
   {
    "ats": "ashby",
@@ -100,17 +100,17 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 26
+   "open_jobs": 25
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 76
+   "open_jobs": 74
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 97
+   "open_jobs": 96
   },
   {
    "ats": "ashby",
@@ -120,12 +120,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 303
+   "open_jobs": 301
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 860
+   "open_jobs": 861
   },
   {
    "ats": "lever",
@@ -140,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 570
+   "open_jobs": 583
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 188,
+   "open_jobs": 189,
    "matching": 0
   },
   {
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 129,
+   "open_jobs": 130,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 32,
+   "open_jobs": 35,
    "matching": 4
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 98,
+   "open_jobs": 100,
    "matching": 2
   }
  ],
@@ -324,7 +324,7 @@
    "location": "Remote, UK",
    "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/4911780101",
    "posted": "2026-06-29",
-   "updated": "2026-09-18",
+   "updated": "2026-11-12",
    "description": "Data Engineer&nbsp; &nbsp; &nbsp;&nbsp;\n\n&nbsp;\n\nProlific\n\nProlific is not just another player in the AI space—we are the architects of the human data infrastructure that's reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it's the quality and diversity of human-generated data that truly differentiates products and models.\n\n&nbsp;\n\nThe role\n\nWe're looking for a Data Engineer to help build scalable data solutions that serve teams across the business—from data scientists and analysts to AI engineers and product teams. You'll contribute to both the underlying platform and the way data is used in our products, working in a modern, cloud-native environment where privacy, security, and good data practices are part of how we build.\n\n&nbsp;\n\nWhat you’ll bring to the role\n\n- Technical Expertise: 3+ years building and shipping production-grade data systems, with strong SQL skills and proficiency in Python or another object-oriented language (Java, Scala etc.)\n\n- Familiarity with cloud-native infrastructure—ideally&nbsp;some exposure to Terraform, Kubernetes, or similar IaC and container orchestration tools. We don't expect deep expertise in all of these, but comfort working in this kind of environment matters.\n\n- Experience designing data APIs or services that expose data to applications, or a strong interest in working across the analytical/operational boundary.\n\n- A thoughtful approach to data quality, privacy, and security—you&nbsp;understand that how data is used is as important as how it's moved.\n\n- Strong collaboration skills and comfort working across teams with different priorities—engineers, data scientists, AI engineers, and product.\n\n- A pragmatic, curious mindset—you&nbsp;enjoy keeping up with the field and know when to reach for a new tool versus when to stick with what works.\n\n- Pipeline Management: Hands-on experience with data pipeline tools (Airflow, dbt) and strong ability to optimize for performance and reliability.\n\n- Quality Focus: Commitment to continuously improving product quality, security, and performance through rigorous testing and code reviews.\n\n- Documentation: Meticulous approach to creating and maintaining architecture and systems documentation.\n\n- Problem-Solving: Exceptional analytical skills to troubleshoot complex data issues and implement effective solutions.\n\n- Independence: Capability to ship medium features independently while contributing to the team's overall objectives.\n\n&nbsp;\n\nWhat you’ll be doing in the role&nbsp;\n\n- Build and maintain data pipelines that power analytics, ML workloads, and product-facing applications—from internal databases, SaaS sources, and streaming systems through to the teams and services that consume them.\n\n- Evolve our data platform alongside cloud platform engineers, using infrastructure-as-code (Terraform) and Kubernetes-based deployments (Argo) to keep the platform scalable, reliable, and self-serve.\n\n- System Architecture: Design and implement scalable data infrastructure that accommodates our growing data volume and complexity.\n\n- Develop data services and APIs that expose trusted data to product applications, bridging analytical and operational systems.\n\n- Own data quality and observability, putting monitoring, testing, and alerting in place so issues are caught early and trust in the data stays high.\n\n- Partner with AI engineers, data scientists, analysts, and product teams to understand their data needs and design the right solutions—not just the quickest ones.\n\n- Uphold strong data privacy, security, and compliance practices in everything you build, particularly where data flows into product-facing contexts.\n\n- Technical Documentation: Create and maintain comprehensive documentation of data flows, models, and systems for knowledge sharing.\n\n- Security and Compliance: Ensure all data systems adhere to security best practices and compliance requirements.\n\n&nbsp;\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioral data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\n\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models but from integrating diverse human perspectives and behaviors into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation—one that reflects the breath and the best of humanity.\n\nWorking for us will place you at the forefront of AI innovation, providing access to our unique human data platform and opportunities for groundbreaking research. Join us to enjoy a competitive salary, benefits, and remote working within our impactful, mission-driven culture.\n\n&nbsp;\n\nLinks to more information on Prolific\n\nBenefits&nbsp;\n\nExternal Handbook&nbsp;\n\nWebsite&nbsp;\n\nYouTube&nbsp;\n\n&nbsp;\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organization planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal information.",
    "salary_text": null,
    "key": "greenhouse:prolific:4911780101",
