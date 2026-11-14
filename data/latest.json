@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T13:24:18Z",
+ "generated_at": "2026-11-14T12:28:43Z",
  "counts": {
-  "matches": 45,
-  "new": 0,
+  "matches": 48,
+  "new": 1,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 50
+   "open_jobs": 49
   },
   {
    "ats": "greenhouse",
@@ -20,37 +20,37 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 58
+   "open_jobs": 57
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 18
+   "open_jobs": 19
   },
   {
    "ats": "greenhouse",
    "token": "cleo",
-   "open_jobs": 11
+   "open_jobs": 12
   },
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 71
+   "open_jobs": 72
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 28
+   "open_jobs": 29
   },
   {
    "ats": "greenhouse",
    "token": "form3",
-   "open_jobs": 6
+   "open_jobs": 5
   },
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 39
+   "open_jobs": 40
   },
   {
    "ats": "greenhouse",
@@ -75,7 +75,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 32
+   "open_jobs": 31
   },
   {
    "ats": "ashby",
@@ -110,7 +110,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 96
+   "open_jobs": 97
   },
   {
    "ats": "ashby",
@@ -120,7 +120,7 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 301
+   "open_jobs": 302
   },
   {
    "ats": "lever",
@@ -130,7 +130,7 @@
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 28
+   "open_jobs": 30
   },
   {
    "ats": "lever_eu",
@@ -171,8 +171,8 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 189,
-   "matching": 0
+   "open_jobs": 186,
+   "matching": 2
   },
   {
    "ats": "ashby",
@@ -189,7 +189,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 130,
+   "open_jobs": 128,
    "matching": 3
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 100,
+   "open_jobs": 96,
    "matching": 2
   }
  ],
@@ -219,6 +219,22 @@
   }
  ],
  "jobs": [
+  {
+   "ats": "greenhouse",
+   "token": "deliveroo",
+   "id": "8220065",
+   "company": "Deliveroo ",
+   "role": "Senior Data Scientist - Experimentation",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220065",
+   "posted": "2026-11-13",
+   "updated": "2026-11-13",
+   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Data Science organisation sits at the heart of Deliveroo powering decision-making across our 3 sided marketplace.\n\nOur Analytics community is highly active, with guest lecturers, study groups, mentorship programmes and a robust technical review process.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common.\n\nWe’re looking for a Senior Data Scientist to join our London team (working hybrid, 3 days in the office). In this role, you’ll enable high-quality human-led decision-making to maximise impact.\n\n&nbsp;\n\nWhat You’ll Be Doing\n\nAs a Senior Data Scientist at Deliveroo, your goal is to maximise business impact within one of our product areas. A core part of the role is designing, running and interpreting experiments, and using causal inference to guide product decisions in complex, real-world settings.\n\nYou will go beyond simply answering “did this feature work?” and instead focus on understanding what the true impact is, why it worked or did not work, and how results generalise across users, markets and time.\n\nHere’s what your day-to-day might look like:\n\n- \nDriving Strategy/insights through Experimentation: Leading the design of both simple and complex experiments and proactively translating findings into strategic direction.\n\n- \nMaster Causal Inference: Apply advanced techniques to estimate long-term and heterogeneous treatment effects.\n\n- \nDrawing reliable conclusions in settings with selection bias or imperfect randomisation.\n\n- \nDrive Deep Product Insights: Uncover the fundamental drivers of experiment performance, determining why features succeed and how results generalise across different users, markets, and timeframes.\n\n- \nUsing insights from past experiments to improve future decision-making.\n\nWhat You’ll Need to Thrive\n\n- \nStrong experience designing, running and interpreting A/B experiments in production environments\n\n- \nSolid understanding of causal inference concepts\n\n- \nAbility to apply statistical thinking to messy, real-world product problems, not just ideal experimental setups\n\n- \nGreat communication skills in person, in writing and in code, with both technical and non-technical audiences\n\n- \nA problem solver with a deep analytical mindset\n\n- \nAbility to think creatively and insightfully about business problems\n\n- \nFamiliarity with SQL\n\n- \nExcellent people skills as you will be meeting with stakeholders to translate business needs into data science problems\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters, solving real-world problems in a three-sided marketplace that’s constantly evolving. We’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale Work on a complex, always-on marketplace that impacts millions every day.\n\n🌱 See your impact, fast Ship, test and improve ideas quickly in a low-hierarchy, high-ownership environment.\n\n🧠 Grow through challenge and ownership Take on big, ambiguous problems and accelerate your career with strong support.\n\n🌎 A culture built for builders High standards, collaboration, flexible working and continuous learning.\n\n​​💰 Share in the success you help create Competitive salary and equity options, so you’re rewarded for the impact you make.\n\n&nbsp;\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Find more about how we hire here.\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n\nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n\nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n\nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n\nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
+   "salary_text": null,
+   "key": "greenhouse:deliveroo:8220065",
+   "is_new": true,
+   "first_seen": "2026-11-14"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -444,6 +460,22 @@
    "first_seen": "2026-10-09"
   },
   {
+   "ats": "lever",
+   "token": "zopa",
+   "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "company": "zopa",
+   "role": "Senior Analytics Engineer/BI Analyst (Collections & Recoveries)",
+   "location": "London; hybrid",
+   "url": "https://jobs.lever.co/zopa/9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "posted": "2026-09-19",
+   "updated": null,
+   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring a Senior Analytics Engineer/BI Analyst to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \n\nYou’ll have the opportunity to help shape the team’s priorities, explore new ideas and build solutions that make a difference for our customers and colleagues. \nThe opportunity \nIn this role, you’ll work across BI, analytics and data modelling, building trusted data solutions that help teams understand performance and make better decisions. You’ll use SQL and tools such as dbt to transform and model data, define clear, consistent metrics and create self-serve reporting. Working closely with Analytics Engineering and stakeholders across the business, you’ll help make data accessible and reliable, enabling teams to identify opportunities and solve problems at scale. \nYou’ll join at a stage where there is an opportunity to explore the problem space and help shape the roadmap. You’ll identify opportunities, tackle priority problems and help decide where data and analytics can have the greatest impact.\nThis is a hands-on role, with scope to build and test ideas yourself while developing your influence with stakeholders. You’ll also have the opportunity to explore how automation and AI tools could improve the way the team works and support better decisions.\nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- Build and maintain data models and transformations, using tools such as dbt, to make data reliable and accessible for reporting and analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- Identify opportunities to reduce manual work and explore how automation and AI tools could improve processes and decision making\n\n- \nShare knowledge and help others in the team adopt and develop effective approaches\n\n- \nSupport performance monitoring across Collections & Recoveries\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation  \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders\n\n- \nAn organised, curious and proactive approach to problem solving and managing priorities.\n\n- \nComfort working through ambiguity, asking questions and using your judgement to help shape the way forward\n\n- \nEnjoy taking ownership of your work, collaborating with others and sharing knowledge\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- Experience in Collections & Recoveries or a related financial services environment\n\n- Experience using automation or AI tools to improve analytical workflows or solve business problems",
+   "salary_text": null,
+   "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
+   "is_new": false,
+   "first_seen": "2026-10-12"
+  },
+  {
    "ats": "ashby",
    "token": "trainline",
    "id": "f1181e4f-8df4-41f6-a1d6-2ca1fd620ab7",
@@ -520,6 +552,22 @@
    "description": "About us\n\nAt Trainline, our purpose is to empower greener travel choices, connecting people and places. https://www.thetrainline.com/terms/sustainability-faqs Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. \n\nGreat journeys start with Trainline 🚄 \n\nWe’re Europe’s leading independent rail platform, helping millions of travellers find and book the best-value rail and coach journeys across our app, website and partner channels.\n\nOur job is to make the green travel choice the best choice. By building a better train travel experience, we help more people choose rail - creating a positive impact for customers, our business and the planet.\n\nWe’re a team of more than 1,000 Trainliners from over 50 nationalities, working across London, Paris, Barcelona, Milan, Edinburgh and Madrid. Now is a brilliant time to join us and help shape the future of travel.\n\nIntroducing the Trainline Partner Solutions Data Analytics Team 👋\nData Analytics is central to how we build better products, support our partners and grow our business. Our Data Analysts are embedded across cross-functional teams spanning product, commercial and industry initiatives, working closely with Product Managers, Software Engineers, Commercial teams, Embedded Data Scientists and the wider Data organisation to enable confident, evidence-based decision making. As a Data Analyst within Enterprise Solutions, our B2B arm, you will help shape the future of rail through business travellers and wider retail innovation, supporting partners across the industry with data-driven insight that improves how rail travel is sold, delivered and experienced.\n\nYou will work closely with Embedded Data Scientists, Product Managers and commercial colleagues to structure analytical approaches, interpret findings and translate complex data into insight that informs product strategy and partner-facing solutions. This role sits within a growing Data organisation that includes Data Science, Machine Learning, Data Engineering, Business Intelligence and Data Product Management, offering the opportunity to contribute to decisions that shape the next generation of rail retail and enterprise capability.\n\n\n\nIn this role as the Data Analyst, you will... 🚄\n\n - Analyse partner and customer behaviour to inform the development of enterprise and retail solutions.\n\n - Translate complex analysis into clear, compelling insights and practical recommendations for technical and non-technical audiences.\n\n - Produce high-quality analytical deliverables, dashboards, reports and presentations that help senior stakeholders and external partners make informed decisions.\n\n - Work closely with Data Scientists to structure analytical approaches, interpret findings and draw meaningful conclusions from large and complex datasets.\n\n - Collaborate across Data, Product and Design to ensure insight is embedded into decision making from early exploration through to delivery.\n\n - Help define how we measure success across TPS products and partner solutions.\n\n - Contribute to a growing Data organisation that includes Data Science, Machine Learning, Data Engineering, Business Intelligence and Data Product Management.\n\n - Support the development of innovative retail and enterprise solutions that help shape the future of rail.\n\n\n\nWe'd love to hear from you if you have... 🔎\n\n - Experience using analytics to support business decisions, answer complex commercial questions and identify opportunities for improvement.\n\n - Strong SQL skills and confidence working with large datasets to produce accurate, reliable and well-structured analysis.\n\n - Some experience using AI to responsibly accelerate your coding for analysis, as well as basic automation of day-to-day work processes\n\n - The ability to structure analytical work clearly, navigate ambiguity and turn complex findings into actionable recommendations.\n\n - Experience communicating insight to a range of audiences, including senior stakeholders, partners and colleagues from technical and non-technical backgrounds.\n\n - Strong data visualisation skills, ideally using Python or tools such as Tableau, Power BI, or similar.\n\n - A thoughtful approach to storytelling, with the ability to create polished deliverables that make insight easy to understand and act on.\n\n - Strong organisational skills, with the ability to manage multiple analytical work streams and balance competing priorities.\n\n - You may also have experience with DBT or modern data transformation workflows\n\n\n\nMore information:\n\nEnjoy fantastic perks like private healthcare & dental insurance, a generous work from abroad policy, 2-for-1 share purchase plans, an EV Scheme to further reduce carbon emissions, extra festive time off, and excellent family-friendly benefits. \n\nWe prioritise career growth with clear career paths, transparent pay bands, personal learning budgets, and regular learning days. Jump on board and supercharge your career from day one! \n\nWe're operating a hybrid model and ask that Trainliners work from the office a minimum of 60% of their time over a 12-week period. We also have a 28-day Work from Abroad policy.\n\nOur values represent the things that matter most to us and what we live and breathe everyday, in everything we do: \n\n - 💭 Think Big - We're building the future of rail \n\n - ✔️ Own It - We focus on every customer, partner and journey \n\n - 🤝  Travel Together - We're one team \n\n - ♻️ Do Good - We make a positive impact \n\nWe know that having a diverse team makes us better and helps us succeed. And we mean all forms of diversity - gender, ethnicity, sexuality, disability, nationality and diversity of thought. That's why we're committed to creating inclusive places to work, where everyone belongs and differences are valued and celebrated.\n\nInterested in finding out more about what it's like to work at Trainline? Why not check us out on L",
    "salary_text": "£0 – £55K",
    "key": "ashby:trainline:874365d1-fc59-4e29-a92f-cbc98dc06b63",
+   "is_new": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "ats": "greenhouse",
+   "token": "deliveroo",
+   "id": "8220072",
+   "company": "Deliveroo ",
+   "role": "Senior Product Data Scientist",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220072",
+   "posted": "2026-10-01",
+   "updated": "2026-11-13",
+   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Analytics organisation sits at the heart of Deliveroo powering decision-making across product, commercial and operations through experimentation and causal inference.\n\nWe’re looking for a Senior Data Scientist to join our London team (working hybrid, 3 days in the office). In this role, you’ll enable high-quality human-led decision-making to maximise impact.\n\nWe’re hiring multiple Senior Data Scientists across different areas of the business. Rather than hiring for one fixed team, we use the interview process to understand your strengths, interests and development areas, and then align you to the right scope, remit and team.\n\nAbout Our Analytics Organisation\n\nWe have an outstanding analytics organisation, with a mission to enable the highest quality human and machine decision-making.\n\nOur community is highly active, with guest lectures, study groups, mentorship programmes and a robust technical review process. Data Scientists can progress equally as technical leads or people managers.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not.\n\n&nbsp;\n\nWhat You’ll Be Doing\n\nYou will help answer questions like:\n\n- \nWhich markets/cities should we enter next?\n\n- \nHow can we incentivise good rider behaviour?\n\n- \nWhat is the impact of exclusive deals we have with restaurants?\n\n- \nHow do we optimise our compensation policy to keep our customers happy and ordering with Deliveroo?\n\n- \nWhat are the trade-offs we face when choosing between growth and profitability? How should we decide between them?\n\n- \nHow much should our pricing vary by distance and by market?\n\n- \nWhat is the optimum selection and variety of restaurants in a particular area?\n\n- \nHow do we adapt our consumer app to better suit grocery shoppers?\n\nWhat You’ll Need to Thrive\n\n- \nSignificant experience in Data Science (or similar) roles.\n\n- \nExperience leading both simple and more complex experiment designs, with the ability to proactively unpick insights to steer strategic decision making\n\n- \nGreat communication skills - in person, in writing, in code; to technical and non-technical audiences.\n\n- \nThrough solid analysis, provide clear and actionable recommendations that influence the team's roadmap.\n\n- \nEffective problem-solving, demonstrating an ability to successfully address complex and ambiguous challenges.\n\n- \nAbility to think creatively and insightfully about business problems\n\n- \nProficiency with analytical tools like R/Python and familiarity with SQL. Proficiency with Cursor/AI tools to deliver impactful, high-quality work efficiently is also valued\n\n- \nA pragmatic, flexible approach, where you most care about achieving impact\n\n- \nExcellent people skills — you'll be meeting with a range of both technical and non-technical stakeholders to translate business needs into data science problems\n\n&nbsp;\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters, solving real-world problems in a three-sided marketplace that’s constantly evolving. We’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale Work on a complex, always-on marketplace that impacts millions every day.\n\n🌱 See your impact, fast Ship, test and improve ideas quickly in a low-hierarchy, high-ownership environment.\n\n🧠 Grow through challenge and ownership Take on big, ambiguous problems and accelerate your career with strong support.\n\n🌎 A culture built for builders High standards, collaboration, flexible working and continuous learning.\n\n​​💰 Share in the success you help create Competitive salary and equity options, so you’re rewarded for the impact you make.\n\n&nbsp;\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Find more about how we hire here.\n\n&nbsp;\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n\nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n\nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n\nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n\nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
+   "salary_text": null,
+   "key": "greenhouse:deliveroo:8220072",
    "is_new": false,
    "first_seen": "2026-10-09"
   },
