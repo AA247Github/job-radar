@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T12:57:07Z",
+ "generated_at": "2026-11-16T13:58:11Z",
  "counts": {
-  "matches": 48,
+  "matches": 47,
   "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
@@ -15,12 +15,12 @@
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 30
+   "open_jobs": 31
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 57
+   "open_jobs": 60
   },
   {
    "ats": "greenhouse",
@@ -35,7 +35,7 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 72
+   "open_jobs": 76
   },
   {
    "ats": "greenhouse",
@@ -50,7 +50,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 40
+   "open_jobs": 39
   },
   {
    "ats": "greenhouse",
@@ -75,7 +75,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 31
+   "open_jobs": 29
   },
   {
    "ats": "ashby",
@@ -100,7 +100,7 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 25
+   "open_jobs": 24
   },
   {
    "ats": "ashby",
@@ -110,7 +110,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 97
+   "open_jobs": 96
   },
   {
    "ats": "ashby",
@@ -125,12 +125,12 @@
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 861
+   "open_jobs": 859
   },
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 30
+   "open_jobs": 31
   },
   {
    "ats": "lever_eu",
@@ -140,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 583
+   "open_jobs": 581
   }
  ],
  "discovered_tokens": [
@@ -159,8 +159,8 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 14,
-   "matching": 4
+   "open_jobs": 12,
+   "matching": 3
   },
   {
    "ats": "ashby",
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 186,
+   "open_jobs": 185,
    "matching": 2
   },
   {
@@ -189,7 +189,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 128,
+   "open_jobs": 122,
    "matching": 3
   },
   {
@@ -201,7 +201,7 @@
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 23,
+   "open_jobs": 24,
    "matching": 2
   },
   {
@@ -829,22 +829,6 @@
   },
   {
    "ats": "ashby",
-   "token": "marshmallow",
-   "id": "086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
-   "company": "marshmallow",
-   "role": "Pricing Data Scientist",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/marshmallow/086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
-   "posted": "2026-10-27",
-   "updated": "2026-10-27",
-   "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 3 DAYS IN OFFICE)\n\nWe are not able to offer visa sponsorship for this position.\n\n \n\n\nPRICING AT MARSHMALLOW\n\nThis role will sit in the Pricing Team, reporting into the Pricing Data Science Manager. The team is responsible for managing our loss ratio, underwriting footprint, broker optimisation and growth targets, proving integral to driving the business forwards. But you’ve probably read that all before! So what’s new?\n\nWe work in a very different way to most pricing teams that you might be familiar with. Everyone in Pricing has the potential to make significant contribution to the business, taking ownership, moving fast, innovating and delivering changes to our rates at high frequency.\n\nWe don’t just churn out GLMs all day. We build & deploy exceptional in-house pricing data science models using the latest modelling techniques. You’ll work alongside other Pricing Data Scientists & Analysts pushing innovative pricing projects, whilst also being able to work with the wider Data Science community on modelling customer behaviour, fraud & MLENG enhancements.\n\nWe work alongside a bunch of amazing engineers who ensure we can implement our decisions quickly. We also have access to huge amounts of data. We don’t just mean your standard policy, claims and quote data. Our engineers spend their lives building APIs to third parties so that we know more about our customers than any of our competitors.\n\nAll of this means that you’ll have access to as much data as you can handle, the freedom to be creative, the backing of senior leaders to make decisions, and the ability to see your ideas implemented rapidly. And on top of all of that, we’re a pretty fun group to hang around with!\n\n \n\n\nWHAT YOU’LL BE DOING\n\n - Developing a deep understanding of Marshmallow’s quote, policy and claims data and use this to derive insights that can be used to enhance our pricing.\n\n - Own one of the strategic initiatives of the pricing team, such as supporting our expansion plans or protecting our renewing customers.\n\n - Conducting claims analysis and claims modelling using SQL and Python.\n\n - Conducting price optimisation analysis/modelling using Python.\n\n - Building and deploying models in APIs for use in real time pricing.\n\n - Identify new sources of external data that enable us to refine our view of claims risk, and conduct analysis to quantify their value.\n\n - Working directly with our Engineering & MLENG functions to implement pricing proposals.\n\n - Providing pricing support for the launch of multiple new products.\n\n\nWHO ARE YOU?\n\n - Proactive: You drive growth by identifying & delivering new opportunities \n\n - Modeller: You use your DS expertise to build innovative best in class models\n\n - Commercial: You directly use your models as tools to deliver timely real world impact\n\n - Curious: You aren’t satisfied with ‘That’s just how it is’; you immediately investigate further\n\n - Owner: You don’t just pull existing levers - you own end to end transformation in your area\n\n - Opinionated: You generate your own opinions & pitch to others in an open & honest way\n\n - Explainer: You can communicate complicated concepts in a simple way to non-experts\n\n - Networker: You build and maintain strong relationships throughout the business\n\n\nWHAT SKILLS ARE WE LOOKING FOR FROM YOU?\n\n - Ability to interrogate data and conduct pricing analysis within SQL & Python/R\n\n - Ability to build GLMs, GBMs and other claims models within Python/R\n\n - Experience working in a data driven (ideally commercial) role (quant, credit, fraud etc)\n\n \n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Combined Past Experience & Technical interview (90 mins)\n\n - Onsite Culture interviews (90 mins)\n\nDiversity of thought\n\nWe know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.",
-   "salary_text": null,
-   "key": "ashby:marshmallow:086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
-   "is_new": false,
-   "first_seen": "2026-10-27"
-  },
-  {
-   "ats": "ashby",
    "token": "trainline",
    "id": "ce591ff8-7272-4e1a-8a61-1769e0342249",
    "company": "trainline",
@@ -917,7 +901,7 @@
    "url": "https://jobs.ashbyhq.com/accurx/a4df2c3f-2ac9-4b8f-bc78-1feb836fbd38",
    "posted": "2026-11-03",
    "updated": "2026-11-03",
-   "description": "💬 ACCURX IS WHERE CONVERSATIONS HAPPEN WITH AND ABOUT PATIENTS.\n\nFor decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n\nWhat started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n\nOur platform now powers Total Triage to manage patient demand, and Self-Book, which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires for long-term conditions, while Accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe, our AI-powered note-taker that drafts medical notes in real-time.\n\n\nThe team\n\nWe are a mission-driven team of 80 engineers based in London and the surrounding areas, united by the challenge of fixing healthcare communication. We are innovating for the NHS at a scale and depth that has never been done before, solving the real-world problems that stand between millions of patients and the care they need.\n\nWe are a highly cross-functional group where engineering, product, data, and security collaborate as true peers. We foster a low-ego, high-impact environment that values expertise and new ideas, maintaining the high standards required to build and scale a national healthcare communication platform. Within this ecosystem, our teams operate with high autonomy, owning everything from initial system design to long-term service stability.\n\nAs a Senior Data Engineer, you’ll sit at the intersection of our Analytics Engineering, Product, and ML teams, designing and scaling the pipelines and data architecture that everything else is built on, and building the foundations that turn data from a support function into a strategic asset.\n\n\nChallenges you’ll solve…\n\n - You will design and scale a robust data architecture that handles massive event-driven communication flows across nearly every GP practice in the UK.\n\n - You will build and own ingestion and ELT pipelines end-to-end, from source systems through to our Snowflake data warehouse, using Python and SQL in production.\n\n - You will make and own architectural decisions that support analytics, experimentation and machine learning at scale.\n\n - You will partner closely with Analytics Engineering, Product and ML teams to turn raw healthcare communication data into reliable, high-performance datasets they can build on.\n\n - You will set and uphold standards for data integrity, security and reliability, in an environment where getting data right is part of keeping patients safe.\n\n - You will lay the data foundations for our AI and ML work, helping take models from experimentation into production.\n\n - You will take on greenfield problems, shaping how data works at Accurx from the ground up.\n\n - You will mentor teammates and contribute to a strong engineering culture through rigorous code reviews, sprint planning and open collaboration.\n\nYou should apply if…\n\n - You have strong, proven experience as a Data Engineer, designing and building ingestion and ETL/ELT pipelines from scratch using Python and SQL in production environments.\n\n - You have a deep understanding of modern cloud data platforms such as Snowflake, BigQuery or Redshift, and transformation tools like dbt, with a focus on creating clean, reliable and reusable datasets.\n\n - You are comfortable owning decisions around data architecture, and working with cloud environments and software engineering best practices like Git and CI/CD.\n\n - You have experience, or a strong interest, in building and operationalising machine learning models, and understand how strong data foundations enable better AI outcomes.\n\n - You think beyond pipelines. You care about how data drives real-world outcomes, especially in healthcare, and can work cross-functionally to shape problems and deliver solutions.\n\n - You actively leverage AI tools to automate routine tasks and continuously explore ways to integrate AI into your workflows, improving quality and speed.\n   \n\nWhat’s in it for you?\n\nYou’ll join a high-performing team on a mission to solve healthcare productivity, building a platform used by around 300k NHS staff every week, supporting the care of over 50 million NHS patients every year. We set a high bar, move fast, and give people the ownership and support to do the best work of their careers.\n\n - £85,000 - £105,000 base salary, plus a discretionary recognition bonus for exceptional performance and impact, nominated by managers and awarded by our leadership team\n\n - Equity: £30,000 in equal share options, so you share in the value you help create\n\n - Benefits to suit you: adjust your healthcare cover, your pension or life insurance, whatever stage you’re at in life\n\n - Built for collaboration: We are an office-first culture and ask that you’re in our (dog-friendly) Shoreditch office for a minimum of 3 days a week\n\n - Close to our users: Regular hackathons, plus dedicated time to visit GP practices and other healthcare settings to see first-hand how our products are used\n\n - Time off: You’ll get 28 days of holiday (plus bank holidays) and up to 4 weeks to work from anywhere per year\n\n - Support at home: We offer enhanced parental leave, fertility support and parental loss support\n\n - We have our very own chefs: Free healthy breakfasts, snacks and lunches, plus a weekly sweet treat",
+   "description": "💬 ACCURX IS WHERE CONVERSATIONS HAPPEN WITH AND ABOUT PATIENTS.\n\nFor decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n\nWhat started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n\nOur platform now powers Total Triage to manage patient demand, and Self-Book, which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires for long-term conditions, while Accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe, our AI-powered note-taker that drafts medical notes in real-time.\n\n\n\n\n\nTHE TEAM\n\nWe are a mission-driven team of 80 engineers based in London and the surrounding areas, united by the challenge of fixing healthcare communication. We are innovating for the NHS at a scale and depth that has never been done before, solving the real-world problems that stand between millions of patients and the care they need.\n\nWe are a highly cross-functional group where engineering, product, data, and security collaborate as true peers. We foster a low-ego, high-impact environment that values expertise and new ideas, maintaining the high standards required to build and scale a national healthcare communication platform. Within this ecosystem, our teams operate with high autonomy, owning everything from initial system design to long-term service stability.\n\nAs a Senior Data Engineer, you’ll work at the intersection of our Product, AI and ML, and Analytics Engineering teams. You’ll build and mature the data foundations that power our AI work in healthcare and help everyone at Accurx make better decisions, turning data from a support function into a strategic asset. As AI and ML become a bigger part of what we build, you’ll also help shape how data engineering works here.\n\n\n\n\nCHALLENGES YOU’LL SOLVE…\n\n - You will build the data foundations that let Accurx develop AI and ML products for healthcare, starting with making sure the teams building them have the data they need.\n\n - You will work with product and engineering teams to plan, build and maintain data extraction from our production systems: working out what data is needed, how it should be made available, and how to get it out without affecting the performance of systems used by nearly every GP practice in the UK.\n\n - You will design and own ingestion and ELT pipelines end-to-end, along with the data architecture behind them, from source systems through to our Snowflake data warehouse, using Python and SQL in production.\n\n - You will make sensitive healthcare data safe to use, building privacy, anonymisation and strong data governance into how data moves through Accurx. Getting data right here is part of keeping patients safe.\n\n - You will help everyone at Accurx make better data-driven decisions, through projects spanning ingestion, privacy, metadata and a semantic layer.\n\n - You will raise the maturity of data engineering at Accurx, from our tooling (including how we use dbt for transformations) to our processes and standards.\n\n - You will be a strategic voice on how data engineering should work here, with the confidence to question existing plans and approaches when there’s a better way.\n\n - You will partner closely with our AI, ML and Analytics Engineering teams, as well as product and business stakeholders, as AI and ML become a growing part of what we build.\n\n - You will mentor teammates and contribute to a strong engineering culture through rigorous code reviews, sprint planning and open collaboration.\n   \n   \n\n\nYOU SHOULD APPLY IF…\n\n - You have strong, proven experience as a Data Engineer, designing and building ingestion and ETL/ELT pipelines from scratch using Python and SQL in production environments.\n\n - You’ve worked with product and engineering teams to extract data from production systems, and know how to do it without hurting the performance of live services.\n\n - You treat data governance and privacy as a core part of the job, not an afterthought.\n\n - You’re confident with CI/CD and software engineering best practices like Git, and comfortable working in cloud environments.\n\n - You’ve helped a data engineering function become more mature, whether by introducing new tools, improving processes or setting standards that stuck.\n\n - You’re comfortable working with stakeholders well beyond your immediate team, balancing competing needs and shaping problems with them.\n\n - You have a deep understanding of modern cloud data platforms and transformation tools like dbt, with a focus on creating clean, reliable and reusable datasets.\n\n - You have experience, or a strong interest, in supporting data science and machine learning, and understand how strong data foundations enable better AI outcomes.\n\n - You think beyond pipelines. You care about how data drives real-world outcomes, especially in healthcare.\n\n - You actively use AI tools to automate routine tasks and keep exploring ways to bring AI into your workflows, improving quality and speed.\n   \n   \n\n\nBONUS POINTS IF…\n\n - You’ve worked with Snowflake, Fivetran or Azure.\n\n - You have a strategic view on where data engineering should be heading.\n\n - You’ve worked in a regulated industry like finance or insurance, or in a startup where you owned a broad slice of the data process.\n   \n\n\nWHAT’S IN IT FOR YOU?\n\nYou’ll join a high-performing team on a mission to solve healthcare productivity, building a platform used by around 300k NHS staff every week, supporting the care of over 50 million NHS patients every year. We set a high bar, move fast, and give people the ownership and support to do the best work of their careers.\n\n - £85,000 - £105,000 base salary, plus a discretionary recognition bonus for ex",
    "salary_text": "£85K – £105K • Offers Equity",
    "key": "ashby:accurx:a4df2c3f-2ac9-4b8f-bc78-1feb836fbd38",
    "is_new": false,
@@ -980,7 +964,7 @@
    "location": "London, United Kingdom",
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220065",
    "posted": "2026-11-13",
-   "updated": "2026-11-13",
+   "updated": "2026-11-16",
    "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Data Science organisation sits at the heart of Deliveroo powering decision-making across our 3 sided marketplace.\n\nOur Analytics community is highly active, with guest lecturers, study groups, mentorship programmes and a robust technical review process.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common.\n\nWe’re looking for a Senior Data Scientist to join our London team (working hybrid, 3 days in the office). In this role, you’ll enable high-quality human-led decision-making to maximise impact.\n\n&nbsp;\n\nWhat You’ll Be Doing\n\nAs a Senior Data Scientist at Deliveroo, your goal is to maximise business impact within one of our product areas. A core part of the role is designing, running and interpreting experiments, and using causal inference to guide product decisions in complex, real-world settings.\n\nYou will go beyond simply answering “did this feature work?” and instead focus on understanding what the true impact is, why it worked or did not work, and how results generalise across users, markets and time.\n\nHere’s what your day-to-day might look like:\n\n- \nDriving Strategy/insights through Experimentation: Leading the design of both simple and complex experiments and proactively translating findings into strategic direction.\n\n- \nMaster Causal Inference: Apply advanced techniques to estimate long-term and heterogeneous treatment effects.\n\n- \nDrawing reliable conclusions in settings with selection bias or imperfect randomisation.\n\n- \nDrive Deep Product Insights: Uncover the fundamental drivers of experiment performance, determining why features succeed and how results generalise across different users, markets, and timeframes.\n\n- \nUsing insights from past experiments to improve future decision-making.\n\nWhat You’ll Need to Thrive\n\n- \nStrong experience designing, running and interpreting A/B experiments in production environments\n\n- \nSolid understanding of causal inference concepts\n\n- \nAbility to apply statistical thinking to messy, real-world product problems, not just ideal experimental setups\n\n- \nGreat communication skills in person, in writing and in code, with both technical and non-technical audiences\n\n- \nA problem solver with a deep analytical mindset\n\n- \nAbility to think creatively and insightfully about business problems\n\n- \nFamiliarity with SQL\n\n- \nExcellent people skills as you will be meeting with stakeholders to translate business needs into data science problems\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters, solving real-world problems in a three-sided marketplace that’s constantly evolving. We’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale Work on a complex, always-on marketplace that impacts millions every day.\n\n🌱 See your impact, fast Ship, test and improve ideas quickly in a low-hierarchy, high-ownership environment.\n\n🧠 Grow through challenge and ownership Take on big, ambiguous problems and accelerate your career with strong support.\n\n🌎 A culture built for builders High standards, collaboration, flexible working and continuous learning.\n\n​​💰 Share in the success you help create Competitive salary and equity options, so you’re rewarded for the impact you make.\n\n&nbsp;\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Find more about how we hire here.\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n\nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n\nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n\nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n\nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
    "salary_text": null,
    "key": "greenhouse:deliveroo:8220065",
