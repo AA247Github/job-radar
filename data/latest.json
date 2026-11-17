@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T13:58:11Z",
+ "generated_at": "2026-11-17T14:51:06Z",
  "counts": {
-  "matches": 47,
-  "new": 0,
+  "matches": 43,
+  "new": 1,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -10,12 +10,12 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 49
+   "open_jobs": 39
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 31
+   "open_jobs": 34
   },
   {
    "ats": "greenhouse",
@@ -25,7 +25,7 @@
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 19
+   "open_jobs": 18
   },
   {
    "ats": "greenhouse",
@@ -35,12 +35,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 76
+   "open_jobs": 80
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 29
+   "open_jobs": 31
   },
   {
    "ats": "greenhouse",
@@ -90,12 +90,12 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 13
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 31
+   "open_jobs": 29
   },
   {
    "ats": "ashby",
@@ -105,12 +105,12 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 74
+   "open_jobs": 73
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 96
+   "open_jobs": 95
   },
   {
    "ats": "ashby",
@@ -120,7 +120,7 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 302
+   "open_jobs": 303
   },
   {
    "ats": "lever",
@@ -130,17 +130,17 @@
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 31
+   "open_jobs": 30
   },
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 17
+   "open_jobs": 16
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 581
+   "open_jobs": 575
   }
  ],
  "discovered_tokens": [
@@ -159,8 +159,8 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 12,
-   "matching": 3
+   "open_jobs": 10,
+   "matching": 1
   },
   {
    "ats": "ashby",
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 185,
+   "open_jobs": 181,
    "matching": 2
   },
   {
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 122,
-   "matching": 3
+   "open_jobs": 121,
+   "matching": 2
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 35,
+   "open_jobs": 36,
    "matching": 4
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 96,
+   "open_jobs": 97,
    "matching": 2
   }
  ],
@@ -219,6 +219,22 @@
   }
  ],
  "jobs": [
+  {
+   "ats": "lever",
+   "token": "zopa",
+   "id": "b8ba48cd-1cd7-4d77-8581-04d4b3c35fd0",
+   "company": "zopa",
+   "role": "Senior Data Analyst (Fraud & Financial Crime)",
+   "location": "London; hybrid",
+   "url": "https://jobs.lever.co/zopa/b8ba48cd-1cd7-4d77-8581-04d4b3c35fd0",
+   "posted": "2026-11-13",
+   "updated": null,
+   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe’re looking for a Senior Data Analyst to join our Fraud & Financial Crime Analytics team at Zopa. \nYou’ll useyour analytical skills and hands-on SQL experienceto help protect our customers and the bank from fraud and financial crime, while making sure genuine customers experience as little friction as possible. Your initial focus will be on card transactions and related events, including card tokens and account takeover. \nThis is a hands-on role where you’ll own the analysis, implementation and ongoing performance of our controls. You’ll work with large datasets, identify emerging risks and use your findings to design and improve the rules and models that help keep our customers safe. \nYou don’t need to have worked in fraud or financial crime before. We’re looking for a strong analyst who enjoys solving complex problems, is curious about how things work and wants to build expertise in this area. \nWhy this role matters \nFraud and financial crime are constantly evolving, and so are the products and services we offer our customers. To grow safely, we need controls that can identify and prevent harm while allowing genuine customers to use their accounts with confidence. \nWe want to build the next generation of fraud and financial crime controls, using modern data, technology and AI to stay ahead of emerging threats and make our detection as effective as it can be. \nYou’ll be embedded in one of our product squads as part of the wider Fraud & Financial Crime Analytics team, working alongside Fraud Risk, Operations, Data Science, Engineering and Product. Together, you’ll help shape, build and continuously improve the controls that protect our customers. \nThis is one of the most impactful analytics roles in the business. In the same day, you could be triaging a new fraud risk, designing the controls to stop it and protecting our customers from harm. \nThis is an opportunity to bring your own ideas, shape how we solve problems and make a visible impact on both our customers and the business. \n\n\nA day in the life\n- \nOwn and improve controls: Analyse, implement, test and optimise rules and other controls that prevent and detect fraud and financial crime. \n\n- \nInvestigate emerging risks: Use data to identify suspicious patterns, understand changing threats and recommend practical ways to respond. \n\n- \nMeasure what matters: Monitor detection, losses, false positives and alert volumes to understand control performance and identify opportunities to improve. \n\n- \nTest and learn: Develop hypotheses and evaluate new approaches, balancing improvements in detection with the impact on genuine customers and Operations. \n\n- \nBuild the next generation of controls: Work with Data Science, Product and Engineering to explore how new data, models, AI and automation can improve our detection and how we work. \n\n- \nSupport change: Help implement and monitor model-led controls, and test and migrate controls as our platforms evolve. \n\n- \nShape your priorities: Work with the squad to identify and prioritise opportunities, influence decisions and share your knowledge with others.\n\nAbout you \n- \nStrong analytical experience and advanced SQL skills, including the ability to work confidently with large, complex datasets. \n\n- \nExperience using Python for analysis, or the ability and willingness to develop those skills. \n\n- \nA track record of owning complex analytical problems from initial question through to a clear recommendation or implemented change. \n\n- \nThe ability to take an open-ended problem, work out where to start and turn it into a clear analytical approach. \n\n- \nExperience using data to assess performance, identify opportunities and make decisions. \n\n- \nAn understanding of basic machine learning concepts and performance metrics, such as precision and recall, or exposure to using them to assess controls. \n\n- \nSound judgement and the ability to balance analytical rigour with the need to make timely decisions. \n\n- \nThe ability to tell a clear story with data and use your insights to influence technical and non-technical stakeholders. \n\n- \nA collaborative approach and confidence working with people across different teams and levels of seniority. \n\n- \nCuriosity about new tools and an interest in using AI and automation to improve how you work and the controls you build. \n\nIt would be great if you also have: \n\n- \nExperience in fraud, financial crime, risk analytics or another controls-focused environment. \n\n- \nExperience analysing card transactions, payments or customer behaviour. \n\n- \nStronger experience working with machine learning models, including evaluating, implementing or monitoring their performance. \n\n- \nExperience using AI tools such as Claude to support analysis, coding or automation. \n\n- \nExposure to decisioning systems, rule-based controls or experimentation. \n\n- \nExperience with data visualisation tools such as Tableau. \n\n- \nExperience in financial services, fintech or another fast-moving, product-led environment.\n\nI",
+   "salary_text": null,
+   "key": "lever:zopa:b8ba48cd-1cd7-4d77-8581-04d4b3c35fd0",
+   "is_new": true,
+   "first_seen": "2026-11-17"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -621,38 +637,6 @@
   },
   {
    "ats": "ashby",
-   "token": "marshmallow",
-   "id": "9c4c710f-6e8a-4081-84ad-325d58832e3b",
-   "company": "marshmallow",
-   "role": "Principal Data Scientist",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/marshmallow/9c4c710f-6e8a-4081-84ad-325d58832e3b",
-   "posted": "2026-10-06",
-   "updated": "2026-10-06",
-   "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 3 DAYS IN OFFICE)\n\nWe are able to offer visa sponsorship for this position.\n\n\n\n\nDATA SCIENCE AT MARSHMALLOW\n\nOur Data Science team partners across the business to turn data into better decisions, smarter products, and simpler customer journeys. We work closely with Product, Engineering, and Operations to build and ship models and AI systems that are reliable in production and deliver measurable impact.\n\nWithin Data Science, this role sits in Claims, supporting the function and the broader ambition to automate more of the claims journey. Claims is one of Marshmallow's most important customer touchpoints, and we're looking for a Principal Data Scientist who can provide technical leadership across traditional ML and Generative AI, bring system-level thinking to how we scale decisioning, and confidently challenge proposals to ensure we build robust, sustainable solutions.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Provide technical leadership for data science across Claims Fraud, shaping the approach to risk decisioning and fraud detection in partnership with Product and Engineering\n\n - Design, build and iterate on production ML and Generative AI/LLM systems that support claims validation and automation\n\n - Collaborate closely with other Claims data scientists to bring system-level thinking to how models, data and workflows fit together, identifying architectural improvements needed to scale decisioning and reduce time-to-production\n\n - Be vocal about the platform and tooling investments needed (monitoring, feedback loops, QA) to achieve AI-driven end to end claims automation\n\n - Advocate for robust, scalable, and strategically aligned technical solutions in cross-functional discussions, ensuring current systems and infrastructure contribute to the multi-year vision for automated claims handling\n\n - Set a high bar for statistical rigour, experimentation and measurement, helping improve how Claims performance and uncertainty are understood and communicated to senior stakeholders\n\n\nWHO YOU ARE\n\n - You think in systems: you can connect the dots between data science, engineering, and product to shape scalable solutions that build on each other over time.\n\n - You're confident in challenging assumptions and pushing for the right approach, using strong communication skills to influence stakeholders across seniority levels and disciplines with clear, pragmatic reasoning.\n\n - You thrive in ambiguity and change, staying resilient and effective during transitions while bringing structure, clarity, and momentum to complex problem spaces.\n\n - You're motivated by real-world impact, partnering closely with cross-functional teams to drive meaningful automation and better customer outcomes across the claims journey.\n\n\nWHAT YOU'LL BRING\n\n - Significant commercial experience delivering end-to-end Machine Learning solutions, from problem framing and experimentation through to production deployment and ongoing monitoring\n\n - Hands-on experience building and shipping Generative AI systems in production (not just prototypes), including evaluation, safety/quality considerations, and integration into customer or operational workflows\n\n - Strong statistical and modelling foundation, with experience in risk-based decisioning under uncertainty (e.g., fraud, credit, insurance, or other regulated domains)\n\n - Proven ability to influence technical direction across Data Science and Engineering, including shaping scalable model/service integration patterns and challenging proposals to drive robust, long-term solutions\n\n - Strong stakeholder management skills, with confidence communicating trade-offs and pushing back constructively with Product and Engineering to ensure high-quality outcomes\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Systems Design & Technical interview with a couple of the team (90 mins)\n\n - Culture interview (60 mins)\n\nDiversity of thought\n\nWe know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.",
-   "salary_text": null,
-   "key": "ashby:marshmallow:9c4c710f-6e8a-4081-84ad-325d58832e3b",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
-   "token": "marshmallow",
-   "id": "ecb457b5-1773-496c-a8b5-fabec42759e2",
-   "company": "marshmallow",
-   "role": "Staff Data Scientist",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/marshmallow/ecb457b5-1773-496c-a8b5-fabec42759e2",
-   "posted": "2026-10-06",
-   "updated": "2026-10-06",
-   "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans.\n\n\n\nBut we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones.\n\n\n\nTo achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest.\n\n\n\nWe’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you.\n\n\n\n\nLONDON (HYBRID, 3 DAYS IN OFFICE)\n\nWe are able to offer visa sponsorship for this position.\n\n\n\n\nDATA SCIENCE AT MARSHMALLOW\n\nOur Data Science team partners across the business to turn data into better decisions, smarter products, and simpler customer journeys. We work closely with Product, Engineering, and Operations to build and ship models and AI systems that are reliable in production and deliver measurable impact.\n\nWithin Data Science, this role sits in Claims, supporting the function and the broader ambition to automate more of the claims journey. Claims is one of Marshmallow's most important customer touchpoints, and we're looking for a Staff Data Scientist who can provide technical leadership across traditional ML and Generative AI, bring system-level thinking to how we scale decisioning, and confidently challenge proposals to ensure we build robust, sustainable solutions.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Provide technical leadership for data science across Claims Fraud, shaping the approach to risk decisioning and fraud detection in partnership with Product and Engineering\n\n - Design, build and iterate on production ML and Generative AI/LLM systems that support claims validation and automation\n\n - Collaborate closely with other Claims data scientists to bring system-level thinking to how models, data and workflows fit together, identifying architectural improvements needed to scale decisioning and reduce time-to-production\n\n - Be vocal about the platform and tooling investments needed (monitoring, feedback loops, QA) to achieve AI-driven end to end claims automation\n\n - Advocate for robust, scalable, and strategically aligned technical solutions in cross-functional discussions, ensuring current systems and infrastructure contribute to the multi-year vision for automated claims handling\n\n - Set a high bar for statistical rigour, experimentation and measurement, helping improve how Claims performance and uncertainty are understood and communicated to senior stakeholders\n\n\nWHO YOU ARE\n\n - You think in systems: you can connect the dots between data science, engineering, and product to shape scalable solutions that build on each other over time.\n\n - You're confident in challenging assumptions and pushing for the right approach, using strong communication skills to influence stakeholders across seniority levels and disciplines with clear, pragmatic reasoning.\n\n - You thrive in ambiguity and change, staying resilient and effective during transitions while bringing structure, clarity, and momentum to complex problem spaces.\n\n - You're motivated by real-world impact, partnering closely with cross-functional teams to drive meaningful automation and better customer outcomes across the claims journey.\n\n\nWHAT YOU'LL BRING\n\n - Significant commercial experience delivering end-to-end Machine Learning solutions, from problem framing and experimentation through to production deployment and ongoing monitoring\n\n - Hands-on experience building and shipping Generative AI systems in production (not just prototypes), including evaluation, safety/quality considerations, and integration into customer or operational workflows\n\n - Strong statistical and modelling foundation, with experience in risk-based decisioning under uncertainty (e.g., fraud, credit, insurance, or other regulated domains)\n\n - Proven ability to influence technical direction across Data Science and Engineering, including shaping scalable model/service integration patterns and challenging proposals to drive robust, long-term solutions\n\n - Strong stakeholder management skills, with confidence communicating trade-offs and pushing back constructively with Product and Engineering to ensure high-quality outcomes\n\n\n\n\nPERKS OF THE JOB\n\n - Bonus scheme designed to reward high performance\n\n - Private medical insurance with Vitality, mental health support with Oliva\n\n - Personal learning budget and 2 dedicated L&D days a year\n\n - Monthly flexible benefits budget to spend as you choose\n\n - 25 days holiday plus bank holidays\n\n - 4 weeks Work From Anywhere per year\n\n\nOUR PROCESS\n\n - Initial call with a member from our Talent Team (30 mins)\n\n - Past Experience interview with Hiring Manager (60 mins)\n\n - Systems Design & Technical interview with a couple of the team (90 mins)\n\n - Culture interview (60 mins)\n\nDiversity of thought\n\nWe know the best ideas come from having different perspectives in the room - and we're committed to hiring fairly, regardless of background, identity or experience. If you see yourself in this role, we'd encourage you to apply.",
-   "salary_text": null,
-   "key": "ashby:marshmallow:ecb457b5-1773-496c-a8b5-fabec42759e2",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
    "token": "trainline",
    "id": "2757aa18-5e60-45cf-ac9d-be11dee1afe2",
    "company": "trainline",
@@ -682,22 +666,6 @@
    "key": "ashby:marshmallow:c316bf98-6f62-43be-914b-b96f486e08ce",
    "is_new": false,
    "first_seen": "2026-10-10"
-  },
-  {
-   "ats": "ashby",
-   "token": "lendable",
-   "id": "77e2a14b-f8c2-4b7c-b889-f98c20334e92",
-   "company": "lendable",
-   "role": "Data Analyst",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/lendable/77e2a14b-f8c2-4b7c-b889-f98c20334e92",
-   "posted": "2026-10-16",
-   "updated": "2026-10-16",
-   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe’re building the most advanced, data-driven operating model in fintech. As part of Lendable’s Operations Science & Strategy team, you’ll sit at the intersection of analytics, data science, and AI engineering - using data, LLMs, and automation to transform how our Operations teams work at scale.\n\nYou’ll work directly with senior operations leadership working on special projects to diagnose demand drivers, uncover commercial opportunities, build KPI frameworks, and deploy automation that materially reduces our cost-to-serve while improving customer outcomes.\n\nIf you’re technical, curious, and love owning problems end-to-end, this is the role for you.\n\n\n\n\nWHAT YOU’LL DO\n\n\n1. AUTOMATION & AI ENGINEERING\n\n - Use Python and LLM APIs (e.g. OpenAI) to design and deploy automation that replaces manual CS/FS processes.\n\n - Build prototypes, test with real operations data, and scale the successful ones into production workflows.\n\n - Partner with PMs and engineers to operationalise AI-driven solutions across Operations.\n\n\n2. DEMAND ANALYTICS & STRATEGY\n\n - Analyse key operations demand drivers (contact per customer, reason drivers, seasonality, servicing behaviour).\n\n - Identify levers to reduce avoidable demand and improve customer outcomes.\n\n - Build analytical models that drive decision-making around cost optimisation and resourcing.\n\n\n3. KPI & FUNNEL INTELLIGENCE\n\n - Build clear, robust KPI frameworks and funnel views across customer journeys.\n\n - Translate data into commercial insight, operational efficiency recommendations, and productivity tracking.\n\n - Create metrics that scale across new geographies, products, and teams.\n\n\n4. WORK WITH SENIOR LEADERSHIP\n\n - Work directly with Ops Directors, Heads of CS/FS/Fraud/Complaints, and the COO on strategic initiatives.\n\n - Turn raw data into narrative-driven recommendations that are simple, actionable, and commercially grounded.\n\n - Own analytics for high-impact projects end-to-end.\n   \n\n\nWHAT WE’RE LOOKING FOR\n\n\nMUST-HAVE SKILLS\n\n - 2-3 years of hands-on experience using Python in a professional setting.\n\n - Highly numerate with strong analytical reasoning \n\n - Ability to independently structure analysis, build prototypes, and deliver insights.\n\n - Experience communicating data-driven recommendations to non-technical business stakeholders.\n\n\nNICE-TO-HAVES\n\n - STEM Degree\n\n - Experience with dbt or modern data stacks.\n\n - Familiarity with LLMs, APIs, or interest in building AI automation.\n\n - Exposure to product, strategy, or operations environments.\n\n - Thrives in fast-paced, ambiguous environments.\n\n - Comfortable wearing multiple hats Analyst, Data Scientist, AI Engineer, PM.\n\n - Highly motivated, entrepreneurial mindset, and excited by building the strongest operating model in fintech.\n   \n\n\nWHY JOIN\n\n - Work on high-visibility, high-impact projects that directly shape the future of Lendable’s operations.\n\n - Build automation and analytics used daily by hundreds of agents and thousands of customers.\n\n - Collaborate with a small, sharp, and ambitious team that moves fast.\n\n - Real ownership: if you build it, you’ll see it shipped and scaled.\n\n\n\n\nINTERVIEW PROCESS\n\nCognitive test\n\nScreening Call + Python Questions\n\nLive Technical Python Interview\n\nFinal interviews with 2 senior leaders \n\n\n\n\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
-   "salary_text": null,
-   "key": "ashby:lendable:77e2a14b-f8c2-4b7c-b889-f98c20334e92",
-   "is_new": false,
-   "first_seen": "2026-10-16"
   },
   {
    "ats": "ashby",
@@ -813,22 +781,6 @@
   },
   {
    "ats": "ashby",
-   "token": "elevenlabs",
-   "id": "3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
-   "company": "elevenlabs",
-   "role": "Analytics Engineer",
-   "location": "Poland; United Kingdom; remote",
-   "url": "https://jobs.ashbyhq.com/ElevenLabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
-   "posted": "2026-10-26",
-   "updated": "2026-10-26",
-   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\nAbout the role\n\nWe're looking for an experienced Analytics Engineer to join our Data team as one of its first hires. You will own the transformation layer between raw data and business decisions: modelling our data in dbt, defining the certified metrics the company runs on, and setting the standards that every analyst and data scientist at ElevenLabs builds.\n\n - Drive the implementation of a world-class metric layer for the company: modelling conventions, project structure, testing, CI, and documentation.\n\n - Design and maintain the certified KPI layer for product (activation, adoption, retention, usage), finance (billing, ARR, revenue), and company-wide topics, built to withstand audit scrutiny.\n\n - Partner with Data Engineering on evolving the data warehouse architecture, and with stakeholders to turn ambiguous questions into trusted, reusable data products, including data served through AI agents.\n\n\n\nRequirements\n\nDemonstrated experience building and scaling a dbt project and metrics layer, ideally as one of the first analytics engineers on a growing team.\n\n - Expert knowledge of dbt and advanced SQL (required); strong grasp of dimensional modelling, grain, and incremental patterns.\n\n - Proficiency across the modern data stack (BigQuery or similar warehouse, Python, BI tools such as Looker).\n\n - Rigour around data quality: you test, document, and reconcile by default, and you spot a model that runs cleanly but is quietly wrong.\n\n - Strong ability to understand varied stakeholder requirements, push back where needed, and translate them into generalised, well-documented models.\n\nBonus:\n\n - Experience modelling billing, subscription and ARR data (Stripe, Salesforce) or product event data at scale.\n\n - Experience serving data to LLM-based agents or building semantic / metrics layers consumed by AI tools.\n\n - Experience with CI for data (Slim CI, data contracts, PII policy tags) and infrastructure-as-code for warehouse access.\n\n\n\n \n\n\nLOCATION\n\nThis role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.\n\n \n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
-   "salary_text": null,
-   "key": "ashby:elevenlabs:3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "ashby",
    "token": "trainline",
    "id": "ce591ff8-7272-4e1a-8a61-1769e0342249",
    "company": "trainline",
@@ -922,22 +874,6 @@
    "key": "ashby:faculty:156e729b-aba8-4301-bb6a-2f4de3f8be61",
    "is_new": false,
    "first_seen": "2026-11-07"
-  },
-  {
-   "ats": "greenhouse",
-   "token": "monzo",
-   "id": "8281171",
-   "company": "Monzo",
-   "role": "Analytics Engineering Manager, FinCrime",
-   "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8281171",
-   "posted": "2026-11-09",
-   "updated": "2026-11-11",
-   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\nAnalytics Engineering Manager - Fincrime\n\nLondon/Cardiff/UK Remote | 💰£97,800-£125,000 + Incentive Awards tied to your performance and benefits | Hear from the team ✨\n\n⭐Our Fincrime Analytics Engineering Team\n\nOur Financial Crime Collective helps keep Monzo and our customers safe. We build effective, proportionate controls to protect against financial crime while delivering great customer outcomes.\n\nOur Analytics Engineering discipline works in the intersection between data, engineering and our collectives - Core, Money, Borrowing, Operations and Financial Crime and beyond.&nbsp;\n\nThe AE teams are responsible for building downstream data models from backend services with the desire to make our Data Warehouse a genuine competitive advantage for Monzo. We want a discipline capable of building a reliable and scalable Data Warehouse to support decision making in a cost effective and performant manner.&nbsp;\n\nManagers within Data have two primary responsibilities; people and technical products. Your focus will be on helping engineers with their personal and professional development, listening and guiding them through hard times and celebrating their successes. You will also be leading and participating directly in technical initiatives and helping Monzo shape its Data organisation, ensuring the team focuses on valuable work, shipping things with a level of care and attention to detail.\n\nThere will be a strong focus on delivering best practice across our data discipline and helping bring a new level of maturity around Data Governance principles, working in collaboration with others to deliver this.\n\n🔑You’ll play a key role by...\n\nWorking in a multi-disciplinary team, you will:\n\n- Be a hands-on leader in building a discipline of exceptional analytics engineers working to make Data at Monzo the gold standard within the industry\n\n- Nurture between 5 to 6 analytics engineers, supporting, coaching and developing high performing engineers through regular 1:1s, continuous feedback and relationships with others\n\n- Aid prioritisation of initiatives and projects, working closely with other leads for each of our Monzo collectives\n\n- Be hands on through participating in the review cycle, architecture and design leadership and development of your own changes to the pipelines\n\n- Be part of the hiring team within Analytics Engineering\n\n- Work closely with other leads to deliver a scalable, consistent approach to governance and best practices\n\n- Drive effective project management of central Analytics Engineering projects, ensuring they’re well scoped and delivered to deadlines\n\n- Establish yourself as a trusted partner to various collectives and the leadership team, with the capacity for getting things done, be it either hands-on or by leading others\n\n- We all own and support the pipelines we contribute to, and on call support out of hours will be expected from time to time as part of this role\n\n🤩We’d love to hear from you if…\n\nYou have experience managing or mentoring the performance and development of high-performing engineers.\n\n- You have strong experience in data warehousing architecture at scale\n\n- You have experience and a passion for leading data warehousing, data visualisation, big data or ETL projects as an analyst, developer, designer or architect\n\n- You know what it takes to hire great engineers within the data space\n\n- You’re equally comfortable working hands on and leading a team\n\nNice To Haves:\n\n- Any experience working within a finance or banking environment\n\n- Experience working in a highly regulated environment (e.g. finance, insurance, gaming, food, health care)\n\n- Experience with any of our stack of dbt, BigQuery and Looker\n\nNot ticking every box? That’s totally okay! Studies show that women and people of colour might hesitate to apply unless they meet every single requirement. At Monzo, we’re dedicated to creating a diverse and welcoming team. If you’re passionate about this role and keen to learn and grow with us, we encourage you to apply— even if you don’t have everything that’s listed just yet. Drop us your application, we’d love to hear from you!\n\n🙌What’s in it for you\n\n💰£97,800-£125,000 + Incentive Awards tied to your performance and benefits\n\n✈️ We’ll help you relocate to the UK.&nbsp;\n\n✅ We can sponsor your visa.&nbsp;\n\n📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London)&nbsp;\n\n⏰We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.&nbsp;\n\n📚£1,000 learning budget each year to use on books, training courses and conferences.\n\n🏡We will set you up to work from home; all employees are given Macbooks and for fully remote workers we will provide extra support for your work-from-home setup.&nbsp;\n\n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps\n\n- Recruiter Screening Call\n\n- Initial Call\n\n- Take Home Task\n\n- Final Loop (3 sessions - case study, collaboration and people&nbsp; leadership)\n\nThis process should take around 2-3 weeks - your schedule is really important to",
-   "salary_text": null,
-   "key": "greenhouse:monzo:8281171",
-   "is_new": false,
-   "first_seen": "2026-11-09"
   },
   {
    "ats": "lever",
