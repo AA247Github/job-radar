@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T14:30:48Z",
+ "generated_at": "2026-11-19T14:40:54Z",
  "counts": {
   "matches": 44,
-  "new": 1,
+  "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -15,17 +15,17 @@
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 34
+   "open_jobs": 36
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 63
+   "open_jobs": 60
   },
   {
    "ats": "greenhouse",
    "token": "wise",
-   "open_jobs": 19
+   "open_jobs": 18
   },
   {
    "ats": "greenhouse",
@@ -35,12 +35,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 80
+   "open_jobs": 81
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 28
+   "open_jobs": 29
   },
   {
    "ats": "greenhouse",
@@ -50,17 +50,17 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 40
+   "open_jobs": 37
   },
   {
    "ats": "greenhouse",
    "token": "clearscoretechnologylimited",
-   "open_jobs": 9
+   "open_jobs": 8
   },
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 13
+   "open_jobs": 14
   },
   {
    "ats": "ashby",
@@ -75,7 +75,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 28
+   "open_jobs": 27
   },
   {
    "ats": "ashby",
@@ -85,12 +85,12 @@
   {
    "ats": "ashby",
    "token": "causaly",
-   "open_jobs": 10
+   "open_jobs": 13
   },
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 15
+   "open_jobs": 14
   },
   {
    "ats": "ashby",
@@ -100,12 +100,12 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 24
+   "open_jobs": 23
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 71
+   "open_jobs": 72
   },
   {
    "ats": "ashby",
@@ -115,17 +115,17 @@
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 23
+   "open_jobs": 24
   },
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 301
+   "open_jobs": 308
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 862
+   "open_jobs": 863
   },
   {
    "ats": "lever",
@@ -159,7 +159,7 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 10,
+   "open_jobs": 9,
    "matching": 1
   },
   {
@@ -171,8 +171,8 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 182,
-   "matching": 2
+   "open_jobs": 186,
+   "matching": 0
   },
   {
    "ats": "ashby",
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 127,
-   "matching": 2
+   "open_jobs": 128,
+   "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 36,
+   "open_jobs": 37,
    "matching": 4
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 98,
+   "open_jobs": 105,
    "matching": 2
   }
  ],
@@ -219,22 +219,6 @@
   }
  ],
  "jobs": [
-  {
-   "ats": "greenhouse",
-   "token": "monzo",
-   "id": "8385865",
-   "company": "Monzo",
-   "role": "Senior Regulatory Reporting Analyst",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8385865",
-   "posted": "2026-11-18",
-   "updated": "2026-11-18",
-   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\n📍London | 💰£56,100 - £64,000 ➕ Incentive Awards tied to your performance ➕ Benefits | Hear from the team ✨ \n\n⭐ Our Regulatory team\n\nWe are looking for a curious, adaptive and data-focused Senior Regulatory Reporting Analyst with a strong attention to detail to join our regulatory reporting team at Monzo. The team is responsible for understanding our prudential regulatory reporting requirements, working on projects and submissions relating to these and collaborating with teams across Monzo.\n\n🔑 You’ll play a key role by…\n\n- Taking ownership of the preparation, analysis and submission of regulatory reporting requirements (e.g. Capital, Liquidity)\n\n- Ensuring compliance with the applicable regulatory interpretations\n\n- Assisting the wider team in producing Monzo’s capital and liquidity regulatory reporting and disclosures (including Pillar 3)\n\n- Executing and improving the controls required to ensure regulatory reporting is timely, accurate and complete\n\n- Ensuring high data quality by performing data profiling and investigating data quality issues\n\n- Using data visualisation tools to build dashboards and facilitate sign-off and useful insights\n\n- Partnering with teams internally to help them make informed business decisions and providing input into new product launches\n\n- Designing brilliant ways to automate your work and leverage technology to ensure we scale with the business\n\n🤩We’d love to hear from you if…\n\n- You have a good understanding of capital requirements, liquidity reports and regulatory frameworks\n\n- You’re excited by data and have a sharp eye for detail\n\n- You have knowledge of coding languages (SQL would be a bonus), although a willingness to learn is just fine&nbsp;\n\n- You have strong analytical skills, high attention to detail and the ability to meet tight deadlines\n\n- You want to automate or enhance recurring processes, particularly by leveraging technology, and implement changes in collaboration with IT and regulatory change teams.\n\n🙌 What’s in it for you\n\n💰 £56,100 - £64,000 ➕ Incentive Awards tied to your performance\n\n📍 This role is based in our London office, with a hybrid working approach\n\n⏰ We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.&nbsp;\n\n📚 £1,000 learning budget each year to use on books, training courses and conferences.\n\n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps:\n\n- Phone call with recruiter\n\n- Initial call with hiring manager (30 mins)\n\n- Technical interview with hiring manager and team member (45 mins)\n\n- Monzo behavioural interview (45 min)\n\nThis process should take around 3 - 4 weeks - your schedule is really important to us, so we promise to be as flexible as possible!&nbsp;\n\nWe’ll only close this role once we have enough applications for the next stage. Please submit your application as soon as possible to make sure you don’t miss out.\n\nWe have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo 🤖&nbsp;You can read them here.\n\n#LI-NZ1\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
-   "salary_text": null,
-   "key": "greenhouse:monzo:8385865",
-   "is_new": true,
-   "first_seen": "2026-11-18"
-  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -552,22 +536,6 @@
    "description": "About us\n\nAt Trainline, our purpose is to empower greener travel choices, connecting people and places. https://www.thetrainline.com/terms/sustainability-faqs Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. \n\nGreat journeys start with Trainline 🚄 \n\nWe’re Europe’s leading independent rail platform, helping millions of travellers find and book the best-value rail and coach journeys across our app, website and partner channels.\n\nOur job is to make the green travel choice the best choice. By building a better train travel experience, we help more people choose rail - creating a positive impact for customers, our business and the planet.\n\nWe’re a team of more than 1,000 Trainliners from over 50 nationalities, working across London, Paris, Barcelona, Milan, Edinburgh and Madrid. Now is a brilliant time to join us and help shape the future of travel.\n\nIntroducing the Trainline Partner Solutions Data Analytics Team 👋\nData Analytics is central to how we build better products, support our partners and grow our business. Our Data Analysts are embedded across cross-functional teams spanning product, commercial and industry initiatives, working closely with Product Managers, Software Engineers, Commercial teams, Embedded Data Scientists and the wider Data organisation to enable confident, evidence-based decision making. As a Data Analyst within Enterprise Solutions, our B2B arm, you will help shape the future of rail through business travellers and wider retail innovation, supporting partners across the industry with data-driven insight that improves how rail travel is sold, delivered and experienced.\n\nYou will work closely with Embedded Data Scientists, Product Managers and commercial colleagues to structure analytical approaches, interpret findings and translate complex data into insight that informs product strategy and partner-facing solutions. This role sits within a growing Data organisation that includes Data Science, Machine Learning, Data Engineering, Business Intelligence and Data Product Management, offering the opportunity to contribute to decisions that shape the next generation of rail retail and enterprise capability.\n\n\n\nIn this role as the Data Analyst, you will... 🚄\n\n - Analyse partner and customer behaviour to inform the development of enterprise and retail solutions.\n\n - Translate complex analysis into clear, compelling insights and practical recommendations for technical and non-technical audiences.\n\n - Produce high-quality analytical deliverables, dashboards, reports and presentations that help senior stakeholders and external partners make informed decisions.\n\n - Work closely with Data Scientists to structure analytical approaches, interpret findings and draw meaningful conclusions from large and complex datasets.\n\n - Collaborate across Data, Product and Design to ensure insight is embedded into decision making from early exploration through to delivery.\n\n - Help define how we measure success across TPS products and partner solutions.\n\n - Contribute to a growing Data organisation that includes Data Science, Machine Learning, Data Engineering, Business Intelligence and Data Product Management.\n\n - Support the development of innovative retail and enterprise solutions that help shape the future of rail.\n\n\n\nWe'd love to hear from you if you have... 🔎\n\n - Experience using analytics to support business decisions, answer complex commercial questions and identify opportunities for improvement.\n\n - Strong SQL skills and confidence working with large datasets to produce accurate, reliable and well-structured analysis.\n\n - Some experience using AI to responsibly accelerate your coding for analysis, as well as basic automation of day-to-day work processes\n\n - The ability to structure analytical work clearly, navigate ambiguity and turn complex findings into actionable recommendations.\n\n - Experience communicating insight to a range of audiences, including senior stakeholders, partners and colleagues from technical and non-technical backgrounds.\n\n - Strong data visualisation skills, ideally using Python or tools such as Tableau, Power BI, or similar.\n\n - A thoughtful approach to storytelling, with the ability to create polished deliverables that make insight easy to understand and act on.\n\n - Strong organisational skills, with the ability to manage multiple analytical work streams and balance competing priorities.\n\n - You may also have experience with DBT or modern data transformation workflows\n\n\n\nMore information:\n\nEnjoy fantastic perks like private healthcare & dental insurance, a generous work from abroad policy, 2-for-1 share purchase plans, an EV Scheme to further reduce carbon emissions, extra festive time off, and excellent family-friendly benefits. \n\nWe prioritise career growth with clear career paths, transparent pay bands, personal learning budgets, and regular learning days. Jump on board and supercharge your career from day one! \n\nWe're operating a hybrid model and ask that Trainliners work from the office a minimum of 60% of their time over a 12-week period. We also have a 28-day Work from Abroad policy.\n\nOur values represent the things that matter most to us and what we live and breathe everyday, in everything we do: \n\n - 💭 Think Big - We're building the future of rail \n\n - ✔️ Own It - We focus on every customer, partner and journey \n\n - 🤝  Travel Together - We're one team \n\n - ♻️ Do Good - We make a positive impact \n\nWe know that having a diverse team makes us better and helps us succeed. And we mean all forms of diversity - gender, ethnicity, sexuality, disability, nationality and diversity of thought. That's why we're committed to creating inclusive places to work, where everyone belongs and differences are valued and celebrated.\n\nInterested in finding out more about what it's like to work at Trainline? Why not check us out on L",
    "salary_text": "£0 – £55K",
    "key": "ashby:trainline:874365d1-fc59-4e29-a92f-cbc98dc06b63",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "greenhouse",
-   "token": "deliveroo",
-   "id": "8220072",
-   "company": "Deliveroo ",
-   "role": "Senior Product Data Scientist",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220072",
-   "posted": "2026-10-01",
-   "updated": "2026-11-13",
-   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Analytics organisation sits at the heart of Deliveroo powering decision-making across product, commercial and operations through experimentation and causal inference.\n\nWe’re looking for a Senior Data Scientist to join our London team (working hybrid, 3 days in the office). In this role, you’ll enable high-quality human-led decision-making to maximise impact.\n\nWe’re hiring multiple Senior Data Scientists across different areas of the business. Rather than hiring for one fixed team, we use the interview process to understand your strengths, interests and development areas, and then align you to the right scope, remit and team.\n\nAbout Our Analytics Organisation\n\nWe have an outstanding analytics organisation, with a mission to enable the highest quality human and machine decision-making.\n\nOur community is highly active, with guest lectures, study groups, mentorship programmes and a robust technical review process. Data Scientists can progress equally as technical leads or people managers.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not.\n\n&nbsp;\n\nWhat You’ll Be Doing\n\nYou will help answer questions like:\n\n- \nWhich markets/cities should we enter next?\n\n- \nHow can we incentivise good rider behaviour?\n\n- \nWhat is the impact of exclusive deals we have with restaurants?\n\n- \nHow do we optimise our compensation policy to keep our customers happy and ordering with Deliveroo?\n\n- \nWhat are the trade-offs we face when choosing between growth and profitability? How should we decide between them?\n\n- \nHow much should our pricing vary by distance and by market?\n\n- \nWhat is the optimum selection and variety of restaurants in a particular area?\n\n- \nHow do we adapt our consumer app to better suit grocery shoppers?\n\nWhat You’ll Need to Thrive\n\n- \nSignificant experience in Data Science (or similar) roles.\n\n- \nExperience leading both simple and more complex experiment designs, with the ability to proactively unpick insights to steer strategic decision making\n\n- \nGreat communication skills - in person, in writing, in code; to technical and non-technical audiences.\n\n- \nThrough solid analysis, provide clear and actionable recommendations that influence the team's roadmap.\n\n- \nEffective problem-solving, demonstrating an ability to successfully address complex and ambiguous challenges.\n\n- \nAbility to think creatively and insightfully about business problems\n\n- \nProficiency with analytical tools like R/Python and familiarity with SQL. Proficiency with Cursor/AI tools to deliver impactful, high-quality work efficiently is also valued\n\n- \nA pragmatic, flexible approach, where you most care about achieving impact\n\n- \nExcellent people skills — you'll be meeting with a range of both technical and non-technical stakeholders to translate business needs into data science problems\n\n&nbsp;\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters, solving real-world problems in a three-sided marketplace that’s constantly evolving. We’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale Work on a complex, always-on marketplace that impacts millions every day.\n\n🌱 See your impact, fast Ship, test and improve ideas quickly in a low-hierarchy, high-ownership environment.\n\n🧠 Grow through challenge and ownership Take on big, ambiguous problems and accelerate your career with strong support.\n\n🌎 A culture built for builders High standards, collaboration, flexible working and continuous learning.\n\n​​💰 Share in the success you help create Competitive salary and equity options, so you’re rewarded for the impact you make.\n\n&nbsp;\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Find more about how we hire here.\n\n&nbsp;\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n\nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n\nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n\nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n\nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
-   "salary_text": null,
-   "key": "greenhouse:deliveroo:8220072",
    "is_new": false,
    "first_seen": "2026-10-09"
   },
@@ -892,22 +860,6 @@
    "first_seen": "2026-11-17"
   },
   {
-   "ats": "greenhouse",
-   "token": "deliveroo",
-   "id": "8220065",
-   "company": "Deliveroo ",
-   "role": "Senior Data Scientist - Experimentation",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8220065",
-   "posted": "2026-11-13",
-   "updated": "2026-11-16",
-   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nJoin us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Data Science organisation sits at the heart of Deliveroo powering decision-making across our 3 sided marketplace.\n\nOur Analytics community is highly active, with guest lecturers, study groups, mentorship programmes and a robust technical review process.\n\nOur data scientists come from all kinds of backgrounds but have excellence in common.\n\nWe’re looking for a Senior Data Scientist to join our London team (working hybrid, 3 days in the office). In this role, you’ll enable high-quality human-led decision-making to maximise impact.\n\n&nbsp;\n\nWhat You’ll Be Doing\n\nAs a Senior Data Scientist at Deliveroo, your goal is to maximise business impact within one of our product areas. A core part of the role is designing, running and interpreting experiments, and using causal inference to guide product decisions in complex, real-world settings.\n\nYou will go beyond simply answering “did this feature work?” and instead focus on understanding what the true impact is, why it worked or did not work, and how results generalise across users, markets and time.\n\nHere’s what your day-to-day might look like:\n\n- \nDriving Strategy/insights through Experimentation: Leading the design of both simple and complex experiments and proactively translating findings into strategic direction.\n\n- \nMaster Causal Inference: Apply advanced techniques to estimate long-term and heterogeneous treatment effects.\n\n- \nDrawing reliable conclusions in settings with selection bias or imperfect randomisation.\n\n- \nDrive Deep Product Insights: Uncover the fundamental drivers of experiment performance, determining why features succeed and how results generalise across different users, markets, and timeframes.\n\n- \nUsing insights from past experiments to improve future decision-making.\n\nWhat You’ll Need to Thrive\n\n- \nStrong experience designing, running and interpreting A/B experiments in production environments\n\n- \nSolid understanding of causal inference concepts\n\n- \nAbility to apply statistical thinking to messy, real-world product problems, not just ideal experimental setups\n\n- \nGreat communication skills in person, in writing and in code, with both technical and non-technical audiences\n\n- \nA problem solver with a deep analytical mindset\n\n- \nAbility to think creatively and insightfully about business problems\n\n- \nFamiliarity with SQL\n\n- \nExcellent people skills as you will be meeting with stakeholders to translate business needs into data science problems\n\nWhy Join Us?\n\nAt Deliveroo, you’ll do work that matters, solving real-world problems in a three-sided marketplace that’s constantly evolving. We’re food lovers, problem solvers, community builders and more, brought together by a shared drive to make things better. Working here you can expect to:\n\n🔧 Solve meaningful problems at real scale Work on a complex, always-on marketplace that impacts millions every day.\n\n🌱 See your impact, fast Ship, test and improve ideas quickly in a low-hierarchy, high-ownership environment.\n\n🧠 Grow through challenge and ownership Take on big, ambiguous problems and accelerate your career with strong support.\n\n🌎 A culture built for builders High standards, collaboration, flexible working and continuous learning.\n\n​​💰 Share in the success you help create Competitive salary and equity options, so you’re rewarded for the impact you make.\n\n&nbsp;\n\nWe aim to create a fair process that lets your skills shine—our interview typically includes 3-4 stages. Find more about how we hire here.\nDiversity, Equity and Inclusion\n\nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n\nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n\nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n\nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n\nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
-   "salary_text": null,
-   "key": "greenhouse:deliveroo:8220065",
-   "is_new": false,
-   "first_seen": "2026-11-14"
-  },
-  {
    "ats": "ashby",
    "token": "faculty",
    "id": "0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2",
@@ -922,6 +874,54 @@
    "key": "ashby:faculty:0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2",
    "is_new": false,
    "first_seen": "2026-10-23"
+  },
+  {
+   "ats": "greenhouse",
+   "token": "monzo",
+   "id": "8385865",
+   "company": "Monzo",
+   "role": "Senior Regulatory Reporting Analyst",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8385865",
+   "posted": "2026-11-18",
+   "updated": "2026-11-18",
+   "description": "🚀 We’re on a mission to make money work for everyone.\n\nWe’re waving goodbye to the complicated and confusing ways of traditional banking.\n\nAfter starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and&nbsp;combine their pensions with us.&nbsp;\n\nWith our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!\n\nWe’re not about selling products - we want to solve problems and change lives through Monzo ❤️\n\n&nbsp;\n📍London | 💰£56,100 - £64,000 ➕ Incentive Awards tied to your performance ➕ Benefits | Hear from the team ✨ \n\n⭐ Our Regulatory team\n\nWe are looking for a curious, adaptive and data-focused Senior Regulatory Reporting Analyst with a strong attention to detail to join our regulatory reporting team at Monzo. The team is responsible for understanding our prudential regulatory reporting requirements, working on projects and submissions relating to these and collaborating with teams across Monzo.\n\n🔑 You’ll play a key role by…\n\n- Taking ownership of the preparation, analysis and submission of regulatory reporting requirements (e.g. Capital, Liquidity)\n\n- Ensuring compliance with the applicable regulatory interpretations\n\n- Assisting the wider team in producing Monzo’s capital and liquidity regulatory reporting and disclosures (including Pillar 3)\n\n- Executing and improving the controls required to ensure regulatory reporting is timely, accurate and complete\n\n- Ensuring high data quality by performing data profiling and investigating data quality issues\n\n- Using data visualisation tools to build dashboards and facilitate sign-off and useful insights\n\n- Partnering with teams internally to help them make informed business decisions and providing input into new product launches\n\n- Designing brilliant ways to automate your work and leverage technology to ensure we scale with the business\n\n🤩We’d love to hear from you if…\n\n- You have a good understanding of capital requirements, liquidity reports and regulatory frameworks\n\n- You’re excited by data and have a sharp eye for detail\n\n- You have knowledge of coding languages (SQL would be a bonus), although a willingness to learn is just fine&nbsp;\n\n- You have strong analytical skills, high attention to detail and the ability to meet tight deadlines\n\n- You want to automate or enhance recurring processes, particularly by leveraging technology, and implement changes in collaboration with IT and regulatory change teams.\n\n🙌 What’s in it for you\n\n💰 £56,100 - £64,000 ➕ Incentive Awards tied to your performance\n\n📍 This role is based in our London office, with a hybrid working approach\n\n⏰ We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.&nbsp;\n\n📚 £1,000 learning budget each year to use on books, training courses and conferences.\n\n➕ Plus lots more! Read our full list of benefits.\n\n🌈 The application journey has 4 key steps:\n\n- Phone call with recruiter\n\n- Initial call with hiring manager (30 mins)\n\n- Technical interview with hiring manager and team member (45 mins)\n\n- Monzo behavioural interview (45 min)\n\nThis process should take around 3 - 4 weeks - your schedule is really important to us, so we promise to be as flexible as possible!&nbsp;\n\nWe’ll only close this role once we have enough applications for the next stage. Please submit your application as soon as possible to make sure you don’t miss out.\n\nWe have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo 🤖&nbsp;You can read them here.\n\n#LI-NZ1\n\nEqual opportunities for everyone\n\nDiversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2026 Diversity and Inclusion Report and 2025 Gender Pay Gap Report.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.\n\nIf you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊",
+   "salary_text": null,
+   "key": "greenhouse:monzo:8385865",
+   "is_new": false,
+   "first_seen": "2026-11-18"
+  },
+  {
+   "ats": "ashby",
+   "token": "accurx",
+   "id": "42be1c1b-ad79-4c95-b8c0-bf73995a14bd",
+   "company": "accurx",
+   "role": "Senior Analytics Engineer",
+   "location": "London (Shoreditch); remote",
+   "url": "https://jobs.ashbyhq.com/accurx/42be1c1b-ad79-4c95-b8c0-bf73995a14bd",
+   "posted": "2026-11-19",
+   "updated": "2026-11-19",
+   "description": "💬 ACCURX IS WHERE CONVERSATIONS HAPPEN WITH AND ABOUT PATIENTS.\n\nFor decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n\nWhat started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n\n \n\nOur platform now powers Total Triage https://www.accurx.com/primary-care to manage patient demand, and Self-Book, https://www.accurx.com/booking which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires https://www.accurx.com/questionnaires for long-term conditions, while Accumail https://www.accurx.com/accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe https://www.accurx.com/scribe, our AI-powered note-taker that drafts medical notes in real-time.\n\n\n\n\nTHE TEAM\n\nWe are a mission-driven team of 80 engineers based in London and the surrounding areas, united by the challenge of fixing healthcare communication. We are innovating for the NHS at a scale and depth that has never been done before, solving the real-world problems that stand between millions of patients and the care they need.\n\nWe are a highly cross-functional group where engineering, product, data, and security collaborate as true peers. We foster a low-ego, high-impact environment that values expertise and new ideas, maintaining the high standards required to build and scale a national healthcare communication platform. Within this ecosystem, our teams operate with high autonomy, owning everything from initial system design to long-term service stability.\n\nAs a Senior Analytics Engineer, you'll sit at the intersection of our Data Engineering, Product, and BI teams, expanding our data modelling and self-serve capabilities, and building the foundations that turn data from a support function into a strategic asset.\n\n \n\n\nCHALLENGES YOU'LL SOLVE…\n\n - You will own and evolve the presentation layer of our Snowflake data warehouse, modelling complex healthcare and health tech domains end-to-end using dbt.\n\n - You will design and build high-impact data models using advanced methodologies — translating real-world operational domains into scalable analytics blueprints that teams can trust.\n\n - You will partner closely with BI and Analytics teams to understand complex business requirements and deliver production-grade models that fuel actionable insights.\n\n - You will continuously improve data model performance and Snowflake warehouse design, prioritising compute efficiency, scalability, and a seamless experience for end users.\n\n - You will set, uphold, and scale standards for data quality, automated testing, and documentation within dbt — making our core data assets something the whole organisation can rely on.\n\n - You will champion self-serve analytics, training and empowering non-technical colleagues to confidently explore and leverage data through our BI tools.\n\n - You will mentor teammates, share advanced modelling knowledge, and contribute to a strong engineering culture through rigorous code reviews, sprint planning, and open collaboration.\n\n - You will support strategic data initiatives — collaborating across engineering teams to propose smart, scalable solutions and drive data infrastructure automation where it matters most.\n   \n   \n\n\nYOU SHOULD APPLY IF…\n\n - You have strong, proven experience as an Analytics Engineer within a modern data team, with advanced skills in SQL, Snowflake, and dbt (Core or Cloud). Experience with data ingestion tools like Fivetran or custom Python pipelines is a bonus.\n\n - You bring hands-on data modelling expertise,  Dimensional Modelling, Star Schemas, Data Vault, or OBT, and know how to translate complex real-world domains into clean, scalable analytics blueprints.\n\n - You are comfortable working with cloud environments (specifically Azure), software engineering best practices like Git and CI/CD, and data governance frameworks including PII management and secure data access.\n\n - You have successfully driven self-serve analytics adoption across cross-functional teams, and can communicate complex technical architecture clearly to any stakeholder — from analysts to senior leadership.\n\n - You actively leverage AI tools to automate routine tasks and continuously explore ways to integrate AI into your workflows, improving quality and speed.\n   \n   \n\n\nWHAT’S IN IT FOR YOU?\n\nYou’ll join a high-performing team on a mission to solve healthcare productivity, building a platform used by around 300k NHS staff every week, supporting the care of over 50 million NHS patients every year. We set a high bar, move fast, and give people the ownership and support to do the best work of their careers\n\n - £85,000 - £105,000 salary, plus a discretionary recognition bonus for exceptional performance and impact, nominated by managers and awarded by our leadership team\n\n - Equity: £30,000 in equal share options, so you share in the value you help create\n\n - Benefits to suit you: adjust your healthcare cover, your pension or life insurance, whatever stage you’re at in life\n\n - Built for collaboration: We are an office-first culture and ask that you’re in our (dog-friendly) Shoreditch office for a minimum of 3 days a week\n\n - Close to our users: Regular hackathons, plus dedicated time to visit GP practices and other healthcare settings to see first-hand how our products are used\n\n - Time off: You’ll get 28 days of holiday (plus bank holidays) and up to 4 weeks to work from anywhere per year\n\n - Support at home: We offer enhanced parental leave, fertility support and parental loss support\n\n - We have our very own chefs: Free healthy breakfasts, snacks and lunches, plus a weekly sweet treat\n\n",
+   "salary_text": "£85K – £105K",
+   "key": "ashby:accurx:42be1c1b-ad79-4c95-b8c0-bf73995a14bd",
+   "is_new": false,
+   "first_seen": "2026-10-09"
+  },
+  {
+   "ats": "ashby",
+   "token": "elevenlabs",
+   "id": "41b892ba-b530-44cb-9ae1-178908fc324c",
+   "company": "elevenlabs",
+   "role": "Data Scientist - Product Analytics",
+   "location": "United Kingdom; Spain; Hungary; Bulgaria; Germany; Poland; Italy; France; remote",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c",
+   "posted": "2026-11-19",
+   "updated": "2026-11-19",
+   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.\n\n - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.\n\n - Excellence everywhere: Everything we do should match the quality of our AI models.\n\n - Global team: We prioritize your talent, not your location.\n\n\n\n\nWHAT WE OFFER\n\n - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.\n\n - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.\n\n - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.\n\n - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.\n\n - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún\n\n - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.\n\nAbout the role\n\nWe're looking for a Data Scientist - Product Analytics to join our Growth Data team. You'll own the analysis behind how people discover, adopt and stick with ElevenLabs' products, partnering closely with Product, Growth and the central Data team's certified metrics layer.\n\n - Define and own product health metrics: activation, feature adoption, retention and engagement across ElevenCreative, ElevenAgents and ElevenAPI.\n\n - Design, analyse and communicate the results of product experiments (A/B tests, feature launches, onboarding changes).\n\n - Partner with Analytics Engineering on the certified product KPI layer in dbt, and with Product on turning ambiguous questions into trusted analysis.\n\n - Work alongside fellow Growth data scientists on marketing- and revenue-adjacent questions that touch the product funnel.\n\n\n\nRequirements\n\nDemonstrated experience as a data scientist embedded with a product or growth team, ideally at a product-led company.\n\n - Strong SQL and Python, with hands-on experience in experimentation (A/B testing) and product analytics.\n\n - Ability to translate ambiguous product questions into clear, reusable analysis and defensible metrics.\n\n - Comfort working directly with Product and Growth stakeholders, and pushing back on ill-defined asks.\n\n - Structured thinker who can move fast without sacrificing rigour.\n\n\n\nBonus\n\n - Experience with activation / retention modelling or lifecycle analytics at a consumer or prosumer product.\n\n - Experience with dbt or a modern warehouse, partnering directly with analytics engineers.\n\n - Experience using AI tools or agents to speed up analysis or enable self-serve data access.\n\n\n\nGrowth potential\n\nWe believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:\n\n - Grow into a Senior or Staff Product Data Scientist role as the Growth Data team scales.\n\n - Expand scope across additional product lines (ElevenAgents, ElevenAPI).\n\n - Path into a Growth Data Science lead or broader data leadership track.\n\n\n\n\nLOCATION\n\nThis role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.\n\n\n\n#LI-Remote\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.",
+   "salary_text": null,
+   "key": "ashby:elevenlabs:41b892ba-b530-44cb-9ae1-178908fc324c",
+   "is_new": false,
+   "first_seen": "2026-10-22"
   }
  ]
 }
