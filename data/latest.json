@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:40:54Z",
+ "generated_at": "2026-11-20T14:19:55Z",
  "counts": {
   "matches": 44,
   "new": 0,
@@ -15,12 +15,12 @@
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 36
+   "open_jobs": 37
   },
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 60
+   "open_jobs": 59
   },
   {
    "ats": "greenhouse",
@@ -30,12 +30,12 @@
   {
    "ats": "greenhouse",
    "token": "cleo",
-   "open_jobs": 12
+   "open_jobs": 15
   },
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 81
+   "open_jobs": 84
   },
   {
    "ats": "greenhouse",
@@ -50,12 +50,12 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 37
+   "open_jobs": 38
   },
   {
    "ats": "greenhouse",
    "token": "clearscoretechnologylimited",
-   "open_jobs": 8
+   "open_jobs": 9
   },
   {
    "ats": "ashby",
@@ -70,7 +70,7 @@
   {
    "ats": "ashby",
    "token": "anima",
-   "open_jobs": 10
+   "open_jobs": 11
   },
   {
    "ats": "ashby",
@@ -90,12 +90,12 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 14
+   "open_jobs": 15
   },
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 30
+   "open_jobs": 28
   },
   {
    "ats": "ashby",
@@ -105,32 +105,32 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 72
+   "open_jobs": 74
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 95
+   "open_jobs": 93
   },
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 24
+   "open_jobs": 23
   },
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 308
+   "open_jobs": 306
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 863
+   "open_jobs": 865
   },
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 29
+   "open_jobs": 31
   },
   {
    "ats": "lever_eu",
@@ -140,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 570
+   "open_jobs": 575
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 186,
+   "open_jobs": 191,
    "matching": 0
   },
   {
@@ -189,25 +189,25 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 128,
+   "open_jobs": 125,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 37,
+   "open_jobs": 36,
    "matching": 4
   },
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 24,
+   "open_jobs": 23,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 105,
+   "open_jobs": 103,
    "matching": 2
   }
  ],
@@ -352,7 +352,7 @@
    "token": "faculty",
    "id": "54729948-5b4a-404c-bea4-cec5759768b5",
    "company": "faculty",
-   "role": "Senior Data Scientist (Safety)  ",
+   "role": "Senior Data Scientist   ",
    "location": "London; remote",
    "url": "https://jobs.ashbyhq.com/faculty/54729948-5b4a-404c-bea4-cec5759768b5",
    "posted": "2026-08-26",
@@ -448,12 +448,12 @@
    "token": "zopa",
    "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
    "company": "zopa",
-   "role": "Senior Analytics Engineer/BI Analyst (Collections & Recoveries)",
+   "role": "Senior BI Analyst (Collections & Recoveries)",
    "location": "London; hybrid",
    "url": "https://jobs.lever.co/zopa/9b64ba26-893f-43a1-9a9a-6b683de05993",
    "posted": "2026-09-19",
    "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring a Senior Analytics Engineer/BI Analyst to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \n\nYou’ll have the opportunity to help shape the team’s priorities, explore new ideas and build solutions that make a difference for our customers and colleagues. \nThe opportunity \nIn this role, you’ll work across BI, analytics and data modelling, building trusted data solutions that help teams understand performance and make better decisions. You’ll use SQL and tools such as dbt to transform and model data, define clear, consistent metrics and create self-serve reporting. Working closely with Analytics Engineering and stakeholders across the business, you’ll help make data accessible and reliable, enabling teams to identify opportunities and solve problems at scale. \nYou’ll join at a stage where there is an opportunity to explore the problem space and help shape the roadmap. You’ll identify opportunities, tackle priority problems and help decide where data and analytics can have the greatest impact.\nThis is a hands-on role, with scope to build and test ideas yourself while developing your influence with stakeholders. You’ll also have the opportunity to explore how automation and AI tools could improve the way the team works and support better decisions.\nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- Build and maintain data models and transformations, using tools such as dbt, to make data reliable and accessible for reporting and analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- Identify opportunities to reduce manual work and explore how automation and AI tools could improve processes and decision making\n\n- \nShare knowledge and help others in the team adopt and develop effective approaches\n\n- \nSupport performance monitoring across Collections & Recoveries\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation  \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders\n\n- \nAn organised, curious and proactive approach to problem solving and managing priorities.\n\n- \nComfort working through ambiguity, asking questions and using your judgement to help shape the way forward\n\n- \nEnjoy taking ownership of your work, collaborating with others and sharing knowledge\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- Experience in Collections & Recoveries or a related financial services environment\n\n- Experience using automation or AI tools to improve analytical workflows or solve business problems",
+   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nWe are hiring a Senior BI Analyst to join our Collections & Recoveries team. \nThis role is ideal for technically strong, curious analysts who enjoy using data, reporting and automation to solve meaningful business problems. You will improve access to insight, reduce manual processes and build scalable data solutions that support better decisions across the bank. \n\nYou’ll have the opportunity to help shape the team’s priorities, explore new ideas and build solutions that make a difference for our customers and colleagues. \nThe opportunity \nIn this role, you’ll work across BI, analytics and data modelling, building trusted data solutions that help teams understand performance and make better decisions. You’ll use SQL and tools such as dbt to transform and model data, define clear, consistent metrics and create self-serve reporting. Working closely with Analytics Engineering and stakeholders across the business, you’ll help make data accessible and reliable, enabling teams to identify opportunities and solve problems at scale. \nYou’ll join at a stage where there is an opportunity to explore the problem space and help shape the roadmap. You’ll identify opportunities, tackle priority problems and help decide where data and analytics can have the greatest impact.\nThis is a hands-on role, with scope to build and test ideas yourself while developing your influence with stakeholders. You’ll also have the opportunity to explore how automation and AI tools could improve the way the team works and support better decisions.\nCollections & Recoveries \nHelping to deliver better outcomes for customers in financial difficulty through high-quality MI, operational performance insight and process efficiency. You will partner closely with Collections, Operations and Credit Strategy stakeholders to understand performance, improve reporting and support data-led decision making. \n\n\nA day in the life \n- \nDesign, build and maintain dashboards using Tableau or similar BI tools\n\n- \nUse SQL to explore data, build structured datasets and deliver repeatable analysis\n\n- Build and maintain data models and transformations, using tools such as dbt, to make data reliable and accessible for reporting and analysis\n\n- \nPartner with stakeholders to understand business problems and turn them into practical analytical solutions\n\n- \nDefine, document and maintain clear, trusted metrics\n\n- \nDeliver recurring MI and self-serve reporting that supports operational and risk decision making\n\n- \nWork with Analytics Engineering to design and improve core data models, including modernising stored-procedure logic into maintainable transformations  \n\n- \nImprove data quality, reporting standards and the usability of analytics products\n\n- Identify opportunities to reduce manual work and explore how automation and AI tools could improve processes and decision making\n\n- \nShare knowledge and help others in the team adopt and develop effective approaches\n\n- \nSupport performance monitoring across Collections & Recoveries\n\nAbout you \n- \nExperience in a BI, analytics or reporting role, with a track record of creating reliable production datasets, scalable reporting and self-serve insight\n\n- \nStrong SQL skills and confidence working with large, complex datasets\n\n- \nExperience with a BI tool such as Tableau, Looker or Power BI\n\n- \nExperience with data modelling or dbt, including building robust pipelines and maintaining clear documentation would be nice to have \n\n- \nStrong analytical judgement, attention to detail and focus on data accuracy\n\n- \nAbility to take ambiguous business needs, work productively with technical and non-technical stakeholders, and turn them into practical data products\n\n- \nCommunicate clearly, constructively challenge and explain complex data concepts to non-technical stakeholders\n\n- \nAn organised, curious and proactive approach to problem solving and managing priorities.\n\n- \nComfort working through ambiguity, asking questions and using your judgement to help shape the way forward\n\n- \nEnjoy taking ownership of your work, collaborating with others and sharing knowledge\n\n- \nPython experience would be beneficial but is not essential\n\nHelpful experience \n\n- Experience in Collections & Recoveries or a related financial services environment\n\n- Experience using automation or AI tools to improve analytical workflows or solve business problems",
    "salary_text": null,
    "key": "lever:zopa:9b64ba26-893f-43a1-9a9a-6b683de05993",
    "is_new": false,
@@ -672,7 +672,7 @@
    "token": "faculty",
    "id": "b84b4736-cd44-465a-9e80-6737e1f93076",
    "company": "faculty",
-   "role": "Lead Data Scientist (Safety) ",
+   "role": "Lead Data Scientist  ",
    "location": "London; remote",
    "url": "https://jobs.ashbyhq.com/faculty/b84b4736-cd44-465a-9e80-6737e1f93076",
    "posted": "2026-10-21",
