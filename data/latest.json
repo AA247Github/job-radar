@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T13:41:54Z",
+ "generated_at": "2026-11-22T13:34:46Z",
  "counts": {
   "matches": 45,
-  "new": 1,
+  "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -20,7 +20,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 59
+   "open_jobs": 58
   },
   {
    "ats": "greenhouse",
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 189,
+   "open_jobs": 190,
    "matching": 0
   },
   {
@@ -219,22 +219,6 @@
   }
  ],
  "jobs": [
-  {
-   "ats": "ashby",
-   "token": "lendable",
-   "id": "475dcdf5-e2b4-4281-87b3-815297417ceb",
-   "company": "lendable",
-   "role": "Analytics Engineer",
-   "location": "London; remote",
-   "url": "https://jobs.ashbyhq.com/lendable/475dcdf5-e2b4-4281-87b3-815297417ceb",
-   "posted": "2026-11-20",
-   "updated": "2026-11-20",
-   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong DBT and SQL is a must\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. 15 minute cognitive assessment\n\n 2. Initial chat\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
-   "salary_text": null,
-   "key": "ashby:lendable:475dcdf5-e2b4-4281-87b3-815297417ceb",
-   "is_new": true,
-   "first_seen": "2026-11-21"
-  },
   {
    "ats": "greenhouse",
    "token": "monzo",
@@ -938,6 +922,22 @@
    "key": "ashby:elevenlabs:41b892ba-b530-44cb-9ae1-178908fc324c",
    "is_new": false,
    "first_seen": "2026-10-22"
+  },
+  {
+   "ats": "ashby",
+   "token": "lendable",
+   "id": "475dcdf5-e2b4-4281-87b3-815297417ceb",
+   "company": "lendable",
+   "role": "Analytics Engineer",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/lendable/475dcdf5-e2b4-4281-87b3-815297417ceb",
+   "posted": "2026-11-20",
+   "updated": "2026-11-20",
+   "description": "ABOUT LENDABLE\n\nLendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start:\n\n\n\n - One of the UK’s most exciting unicorns with a team of over 800 people\n\n - Among the fastest-growing tech companies in the UK\n\n - Profitable since 2017\n\n - Backed by top investors including Balderton Capital and Goldman Sachs\n\n - Loved by customers with the best reviews in the market (4.9 across 10,000s of reviews on Trustpilot https://uk.trustpilot.com/review/lendable.co.uk)\n\n\n\nSo far, we’ve rebuilt the Big Three consumer finance products from scratch: loans, credit cards and car finance. We get money into our customers’ hands in minutes instead of days.\n\n\n\nWe’re growing fast, and there’s a lot more to do: we’re going after the two biggest Western markets (UK and US) where trillions worth of financial products are held by big banks with dated systems and painful processes.\n\n\n\n\nJOIN US IF YOU WANT TO\n\n 1. Take ownership: you are trusted to make decisions that drive a material impact on the direction and success of Lendable from day 1\n\n 2. Work in small teams of exceptional people: Lendies are relentlessly resourceful. We challenge the status quo to solve problems and find smarter solutions\n\n 3. Build the best technology in-house: we use new data sources, machine learning and AI to make machines do the heavy lifting\n\n\n\n\nABOUT THE ROLE\n\nWe're looking for an analytics engineer to contribute to the analytical foundation of the UK Cards team, a growing area of the business.\n\nYou’ll work closely with analysts, product teams, backend engineers, and business stakeholders to improve how data is structured, transformed, and consumed across the company.\n\nThe role is fundamentally about building a strong analytical foundation: making it easier for teams to move from question to insight quickly, while maintaining high standards around data quality, scalability, and maintainability.\n\nYou'll contribute to the modelling layer, help improve how the business work with data, and support the team in keeping our warehouse a reliable, strategic asset for the business.\n\n\n\n\nWHAT YOU'LL BE DOING\n\n - Building and improving the data models that support lending decisions, pricing, portfolio analysis, and investor reporting.\n\n - Championing standards and contributing to the improvement of our analytics engineering culture.\n\n - Supporting and collaborating with analysts at different technical levels,helping translate requirements into robust pipelines\n\n - Helping triage and resolve issues that affect the analytics pipeline or reduce trust in downstream datasets, and contributing ideas to improve the efficiency, reliability, and cost-effectiveness of our transformation pipeline over time.\n   \n   \n\n\nOUR MODERN DATA STACK\n\nYou’ll work with a modern analytics stack centred around SQL, Snowflake, dbt, Fivetran and Claude.\n\n\n\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for someone with solid analytics engineering fundamentals and the ability to apply them pragmatically in a fast-moving environment and explain tradeoffs to stakeholders with varying technical depth.\n\n - Strong DBT and SQL is a must\n\n - Strong data modelling skills and a good understanding of how analytical datasets should be structured for reliability and usability.\n\n - Strong experience with ELT pipelines and transformation at scale, ideally using dbt.\n\n - Experience with Snowflake or another modern cloud data warehouse.\n\n - Proactiveness in raising areas of data workflows that could be improved and suggesting solutions.\n\n - A collaborative working style and clear communication across technical and non-technical stakeholders.\n\n - Comfort using AI tools effectively to move faster, improve quality, and strengthen day-to-day analytical and engineering workflows\n   \n   \n\n\nINTERVIEW PROCESS\n\n 1. 15 minute cognitive assessment\n\n 2. Initial chat\n\n 3. 30 minute chat with hiring manager\n\n 4. 60 minute technical interview\n\n 5. 60 minute culture interview\n    \n    \n\nPlease note that unfortunately we're unable to sponsor for this position\n\n\n\n\nLIFE AT LENDABLE\n\n - Winning team: the opportunity to scale up one of the world’s most successful fintech companies\n\n - Flexible working: flexible approach tailored to each role. Hybrid roles require three days in-office weekly; fully remote roles include regular opportunities for in-person connection through socials and off-sites\n\n - Socials & connection: opportunities and events to come together, socialise, and get to know each other beyond the office walls\n\n - Health coverage: support for your physical and mental wellbeing, including private health cover\n\n - Retirement & savings: long-term financial wellbeing through retirement savings plans\n\n - Employee referral programme: earn a competitive bonus when you refer successful new team members\n\n - Office meals & snacks: enjoy a fully stocked kitchen, plus complimentary lunches prepared by in-house chefs on in-office days at select locations\n\n - Sustainable commuting: cycle-to-work and electric vehicle salary sacrifice schemes available in select locations\n\nPlease note: The availability and details of specific benefits vary by location and role. For more information, please speak to your Talent Partner.\n\nCheck out our blog https://blog.lendable.co.uk/!",
+   "salary_text": null,
+   "key": "ashby:lendable:475dcdf5-e2b4-4281-87b3-815297417ceb",
+   "is_new": false,
+   "first_seen": "2026-11-21"
   }
  ]
 }
