@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-22T13:34:46Z",
+ "generated_at": "2026-11-23T16:25:39Z",
  "counts": {
-  "matches": 45,
+  "matches": 43,
   "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 24
+   "open_jobs": 22
   },
   {
    "ats": "greenhouse",
@@ -20,7 +20,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 58
+   "open_jobs": 53
   },
   {
    "ats": "greenhouse",
@@ -35,7 +35,7 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 84
+   "open_jobs": 86
   },
   {
    "ats": "greenhouse",
@@ -45,7 +45,7 @@
   {
    "ats": "greenhouse",
    "token": "form3",
-   "open_jobs": 6
+   "open_jobs": 4
   },
   {
    "ats": "greenhouse",
@@ -60,7 +60,7 @@
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 14
+   "open_jobs": 13
   },
   {
    "ats": "ashby",
@@ -105,12 +105,12 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 73
+   "open_jobs": 74
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 91
+   "open_jobs": 89
   },
   {
    "ats": "ashby",
@@ -120,12 +120,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 308
+   "open_jobs": 307
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 860
+   "open_jobs": 859
   },
   {
    "ats": "lever",
@@ -159,7 +159,7 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 9,
+   "open_jobs": 8,
    "matching": 1
   },
   {
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 190,
+   "open_jobs": 186,
    "matching": 0
   },
   {
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 122,
+   "open_jobs": 123,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 36,
+   "open_jobs": 38,
    "matching": 4
   },
   {
@@ -428,22 +428,6 @@
    "first_seen": "2026-10-09"
   },
   {
-   "ats": "ashby",
-   "token": "accurx",
-   "id": "92c80ced-031a-4823-aecf-04eb3f58b480",
-   "company": "accurx",
-   "role": "Product Analyst",
-   "location": "London (Shoreditch); remote",
-   "url": "https://jobs.ashbyhq.com/accurx/92c80ced-031a-4823-aecf-04eb3f58b480",
-   "posted": "2026-09-11",
-   "updated": "2026-09-11",
-   "description": "LONDON/HYBRID\n\n\n£40,000 - £60,000 + SHARE OPTIONS UP TO £14,500 + BENEFITS https://www.notion.so/accurx/Perks-Benefits-f1e9148b71be486791aa2c503e5d775a?source=copy_link\n\n\n\n\n💬 ACCURX IS WHERE CONVERSATIONS HAPPEN WITH AND ABOUT PATIENTS.\n\nFor decades, the NHS has struggled with fragmented systems that make simple tasks feel impossible. We’re changing that by building a single, system-wide platform that connects everyone through communication.\n\nWhat started as a way for GPs to text a patient has now evolved into an all-in-one digital toolkit used by 98% of GP practices.\n\n\n\nOur platform now powers Total Triage https://www.accurx.com/primary-care to manage patient demand, and Self-Book, https://www.accurx.com/booking which lets patients schedule their own appointments in seconds. We’ve automated routine care with Patient Questionnaires https://www.accurx.com/questionnaires for long-term conditions, while Accumail https://www.accurx.com/accumail finally allows staff-to-staff communication to happen instantly across different care settings. We’re now pushing the boundaries of the consultation itself with Accurx Scribe https://www.accurx.com/scribe, our AI-powered note-taker that drafts medical notes in real-time.\n\n\n\n\n\nTHE TEAM\n\nWe have a massive vision and even more ideas, but right now, our ambitions are outstripping our capacity. That’s where you come in. We aren't looking for someone to just \"run the reports\" we’re looking for a foundational member of a growing function who is excited to help us redefine how data influences product.\n\nAt Accurx, we don't just wait for a roadmap to be handed down; we expect everyone to help shape it. While you'll be part of a team of expert data and product leaders, you'll be the one in the driver's seat for your domain. You won't be watching from the sidelines - you'll be proactively hunting for insights, challenging our current assumptions, and taking ownership of how data can save clinician time from day one. This is a role for a critical thinker who is energised by the \"blank canvas\" of a growing function and has the drive to turn raw data into a better reality for millions of patients.\n\n\n\n\n\n\nCHALLENGES YOU’LL SOLVE...\n\n - You will steer product strategy by partnering with Product Managers to define what success looks like and by monitoring the KPIs that prove our impact on the frontline of healthcare.\n\n - You will interrogate user behaviour by performing deep-dive analyses that look past the surface to find the \"why,\" ensuring we’re solving the right problems for the right people.\n\n - You will lead rigorous experiments by helping design and run A/B tests, owning the process from the initial hypothesis through to the final, data-backed recommendation.\n\n - You will build the engine for self-service insights by creating the dashboards and visualisations that ensure your pod has high-quality data at their fingertips to move fast.\n\n\n\nYOU SHOULD APPLY IF...\n\n - You've worked within a product team environment (not just as a standalone data or BI function), partnering directly with Product Managers, Engineers, and Designers on live product decisions, not just reporting on outcomes after the fact.\n\n - You are a proactive investigator who doesn't need a ticket to start digging; when things are quiet, you’re already looking for the next trend or bottleneck that we’ve missed.\n\n - You have a \"get stuck in\" mindset - you’re excited by a lean environment where you can build your own processes and take on challenges that push you outside your comfort zone.\n\n - You bring strong Product Thinking with an understanding of user funnels and a hunger to master metrics like activation, retention, and cohort behaviour.\n\n - You are sharpening a strong technical toolkit, with a solid command of SQL and the ambition to use Python.\n\n - You are a delivery-focused collaborator who thrives in agile environments and knows how to communicate technical findings clearly to engineers and designers.\n\n - You’ve used tools like Mixpanel or Amplitude and are ready to become a power user who empowers the whole team through effective data storytelling.\n\n\n\n\n\nWHAT’S IN IT FOR YOU?\n\nYou’ll join a high-performing team on a mission to solve healthcare productivity, building a platform used by around 300k NHS staff every week, supporting the care of over 50 million NHS patients every year. We set a high bar, move fast, and give people the ownership and support to do the best work of their careers\n\n - £40,000 - £60,000 salary, plus a discretionary recognition bonus for exceptional performance and impact, nominated by managers and awarded by our leadership team\n\n - Equity: £14,500 in equal share options, so you share in the value you help create\n\n - Benefits to suit you: adjust your healthcare cover, your pension or life insurance, whatever stage you’re at in life\n\n - Built for collaboration: We are an office-first culture and ask that you’re in our (dog-friendly) Shoreditch office for a minimum of 3 days a week\n\n - Close to our users: Regular hackathons, plus dedicated time to visit GP practices and other healthcare settings to see first-hand how our products are used\n\n - Time off: You’ll get 28 days of holiday (plus bank holidays) and up to 4 weeks to work from anywhere per year\n\n - Support at home: We offer enhanced parental leave, fertility support and parental loss support\n\n - We have our very own chefs: Free healthy breakfasts, snacks and lunches, plus a weekly sweet treat",
-   "salary_text": "£40K – £60K • Offers Equity",
-   "key": "ashby:accurx:92c80ced-031a-4823-aecf-04eb3f58b480",
-   "is_new": false,
-   "first_seen": "2026-10-09"
-  },
-  {
    "ats": "lever",
    "token": "zopa",
    "id": "9b64ba26-893f-43a1-9a9a-6b683de05993",
@@ -650,22 +634,6 @@
    "key": "ashby:teya:ee402538-d23e-47b8-8da8-69e6b1d35e1a",
    "is_new": false,
    "first_seen": "2026-10-17"
-  },
-  {
-   "ats": "greenhouse",
-   "token": "form3",
-   "id": "8885575002",
-   "company": "Form3 - External",
-   "role": "Reporting & Data Analyst (6-Month FTC)",
-   "location": "100% Remote (UK)",
-   "url": "https://www.form3.tech/careers/vacancies/8885575002?gh_jid=8885575002",
-   "posted": "2026-10-20",
-   "updated": "2026-10-26",
-   "description": "THE ROLE 📝&nbsp;\n\nWe’re looking for a Reporting &amp; Data Analyst to help Form3 develop a more reliable, scalable and accessible reporting capability across the organisation.&nbsp;\n\nThis is a six-month fixed-term contract with two clear priorities: completing and enhancing the Customer Service reporting suite in AWS QuickSight, and building trusted, reusable datasets that enable teams to create and maintain their own reporting.&nbsp;\n\nYou’ll work across the business to improve data quality, reduce manual reporting and establish stronger documentation, governance and knowledge transfer for the future.&nbsp;\n\n- Complete and enhance the Customer Service reporting suite and reporting deck in AWS QuickSight.&nbsp;\n\n- Design, build and document reusable datasets for multiple reporting use cases.&nbsp;\n\n- Integrate key business systems into curated reporting datasets.&nbsp;\n\n- Translate stakeholder questions into clear data and dashboard requirements.&nbsp;\n\n- Establish consistent business metrics, definitions and reporting logic.&nbsp;\n\n- Automate manual reporting and duplicated data preparation where possible.&nbsp;\n\n- Validate reporting outputs and investigate data-quality issues.&nbsp;\n\n- Provide knowledge transfer to internal teams and support a longer-term reporting roadmap.&nbsp;\n\n&nbsp;\n\nWE’RE LOOKING FOR 🔍&nbsp;\n\nEssential&nbsp;\n\n- Experience in a Reporting Analyst, Data Analyst, BI Analyst or similar role.&nbsp;\n\n- Hands-on experience building and maintaining dashboards using AWS QuickSight or a comparable BI platform.&nbsp;\n\n- Practical experience using SQL and Python for reporting, data transformation or analysis.&nbsp;\n\n- Experience working with multiple data sources and translating stakeholder requirements into accurate, maintainable reporting.&nbsp;\n\n- A self-sufficient and pragmatic approach, with the ability to take ownership and deliver within a focused six-month engagement.&nbsp;\n\n&nbsp;\n\nDesirable&nbsp;\n\n- Experience using Amazon Athena or a similar cloud-based data querying service.&nbsp;\n\n- Experience creating curated datasets for self-service reporting.&nbsp;\n\n- Experience improving data quality, reporting governance and technical documentation.&nbsp;\n\n- Experience working in a start-up, scale-up or small team where you have had broad ownership.&nbsp;\n\n&nbsp;\n\nTECH STACK ⚙️&nbsp;\n\n- AWS QuickSight - building dashboards, reporting suites and reusable datasets.&nbsp;\n\n- SQL - querying, transforming and validating reporting data.&nbsp;\n\n- Python - supporting data transformation, automation and reporting workflows.&nbsp;\n\n- Business and operational systems - integrating data sources into trusted reporting datasets.\n\n&nbsp;\n\nINTERVIEW PROCESS ✍️&nbsp;\n\nStage 1: Screening Call with Talent Team&nbsp;\n\nStage 2: Practical Technical Task&nbsp;\n\nStage 3: Interview with the Hiring Manager, including a discussion of your technical task and your approach to reporting, data quality, stakeholder requirements and self-service analytics&nbsp;\n\nWe always aim to stick to the above process, however there may be occasions when an additional interview stage is needed for us to be sure we’re hiring the right fit for the role.&nbsp;\n\n&nbsp;\n\nHIRING LOCATIONS📍&nbsp;\n\nHere are the locations that we are hiring from for this position.&nbsp;\n\n- United Kingdom&nbsp;\n\nAll new joiners start their first day in our office to collect the equipment needed to work remotely. We'll also arrange for some of your team to come in to say hi, ensuring you're supported and have a positive first few days with Form3!&nbsp;&nbsp;\n\n&nbsp;\n\nBENEFITS 🏝️&nbsp;\n\nForm3 are a 100% remote, flexible business and are able to offer part-time working arrangements. We believe this enables our people to achieve amazing things with a healthy work-life balance.&nbsp;\n\nFor further information on what it’s like to work here, and for more information on our full benefits package, visit our careers page. If you have any other questions, we’d be happy to discuss these with your during the interview process.&nbsp;\n\n&nbsp;&nbsp;\n\nABOUT FORM3 💭&nbsp;\n\nRevolutionising the world of payments with our cloud-native, multi-cloud platform. For more information about Form3, check out the following pages:&nbsp;\n\nWhat we do | Life at Form3 | Benefits | Payments Cannot Fail Series | .Tech Podcast&nbsp;\n&nbsp;\n\nOUR DEI&amp;B COMMITMENT&nbsp;\n\nWe hire talented people from a variety of backgrounds and experiences and are committed to a work environment based on diversity, open-mindedness and curiosity. We’re united by our company values (we even created them together!) and we celebrate our unique differences.&nbsp;\n\nOur employee lifecycle processes are designed to embrace equal opportunity and prevent discrimination against our people regardless of personal characteristics. It is our strong belief that the more inclusive and belonging we are as a business, the better our work will be.&nbsp;\n\nAs an inclusive employer, we guarantee to interview all neurodiverse and physically disabled applicants who meet the minimum criteria for this role. We also encourage candidates to notify us of any reasonable adjustments that may be required during the recruitment process. This includes providing job adverts in alternative, accessible formats or adjustments required at interview stage.&nbsp;\n\nIf you consider yourself to be neurodiverse or physically disabled under the UN definition of disability and would like to be considered under this scheme and/or require any reasonable adjustments please let us know by sending an email to careers@form3.tech clearly stating your consent for us to process this data. \n\nFor more information please refer to our Recruitment Data Policy.&nbsp;",
-   "salary_text": null,
-   "key": "greenhouse:form3:8885575002",
-   "is_new": false,
-   "first_seen": "2026-10-21"
   },
   {
    "ats": "ashby",
