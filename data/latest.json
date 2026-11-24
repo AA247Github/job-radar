@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T16:25:39Z",
+ "generated_at": "2026-11-24T16:16:43Z",
  "counts": {
-  "matches": 43,
+  "matches": 42,
   "new": 0,
   "boards_ok": 27,
   "boards_failed": 1
@@ -10,12 +10,12 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 22
+   "open_jobs": 19
   },
   {
    "ats": "greenhouse",
    "token": "prolific",
-   "open_jobs": 37
+   "open_jobs": 34
   },
   {
    "ats": "greenhouse",
@@ -35,12 +35,12 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 86
+   "open_jobs": 91
   },
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 29
+   "open_jobs": 28
   },
   {
    "ats": "greenhouse",
@@ -75,7 +75,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 27
+   "open_jobs": 26
   },
   {
    "ats": "ashby",
@@ -85,12 +85,12 @@
   {
    "ats": "ashby",
    "token": "causaly",
-   "open_jobs": 13
+   "open_jobs": 14
   },
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 16
+   "open_jobs": 14
   },
   {
    "ats": "ashby",
@@ -110,7 +110,7 @@
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 89
+   "open_jobs": 90
   },
   {
    "ats": "ashby",
@@ -120,12 +120,12 @@
   {
    "ats": "lever",
    "token": "palantir",
-   "open_jobs": 307
+   "open_jobs": 305
   },
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 859
+   "open_jobs": 872
   },
   {
    "ats": "lever",
@@ -135,12 +135,12 @@
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 15
+   "open_jobs": 10
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 574
+   "open_jobs": 583
   }
  ],
  "discovered_tokens": [
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 186,
+   "open_jobs": 194,
    "matching": 0
   },
   {
@@ -183,25 +183,25 @@
   {
    "ats": "ashby",
    "token": "skin-analytics",
-   "open_jobs": 4,
+   "open_jobs": 5,
    "matching": 0
   },
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 123,
+   "open_jobs": 118,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 38,
+   "open_jobs": 36,
    "matching": 4
   },
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 23,
+   "open_jobs": 22,
    "matching": 2
   },
   {
@@ -298,22 +298,6 @@
    "key": "ashby:faculty:92c892cd-1f6c-443d-9cd8-e4902f9b7fb6",
    "is_new": false,
    "first_seen": "2026-10-09"
-  },
-  {
-   "ats": "lever",
-   "token": "numan",
-   "id": "24aab881-0037-4349-9c5e-da4e26b35530",
-   "company": "numan",
-   "role": "Senior Analytics Engineer",
-   "location": "London; hybrid",
-   "url": "https://jobs.eu.lever.co/numan/24aab881-0037-4349-9c5e-da4e26b35530",
-   "posted": "2026-06-26",
-   "updated": null,
-   "description": "About Numan:\nNuman is transforming health: we’ve built a cutting-edge platform that integrates diagnostics, medication, supplements, digital programmes, and doctor consultations. Giving people the tools they need to maximise life.\nTo deliver on our transformative mission, we are guided by our 5 company values: \nPatients first, Learn fast, Own the quality, Succeed together and Care deeply.\n\n\nReporting to Head of Data Analytics (Hybrid - 3 days a week)\nMission: Build the trusted data foundations that power AI-driven decisions across Numan.\nThe role\nAs Numan enters an exciting new chapter of AI-powered analytics, we're looking for a Senior Analytics Engineer to sit at the core of our data platform and drive better decisions across the entire business.\nThis is one of the most varied analytics engineering roles in digital health. Your work will span multiple domains - from commercial performance and marketing effectiveness through to health outcomes analytics and clinical operations - giving you a genuinely broad view of the business and the full patient journey.\nWe are embarking on a strategic investment in AI-powered analytics, with a full remit to explore and adopt the latest and greatest technologies. You'll be shaping which tools, approaches, and practices Numan adopts as a company.\nReporting to the Head of Data Engineering and collaborating closely with data scientists, analysts, and stakeholders across the business.\n\n\nWhat you'll do:\n- \nDesigning, building, and maintaining scalable, well-tested dbt data models that power analytics across commercial, marketing, health outcomes, and clinical operations domains.\n\n- \nActing  as a senior technical voice within the analytics engineering function, setting standards for data modelling, testing, documentation, and code quality.\n\n- \nLeading end-to-end delivery of analytical projects: scoping requirements, managing dependencies, identifying critical path and risks, and communicating progress to stakeholders.\n\n- \nMentoring data scientist and analyst data modelling capabilities ; build a culture of best practices, code review, and continuous learning across the data team.\n\n- \nPartnering with clinical, commercial, and product teams to translate complex domain requirements into robust, well-documented data models.\n\n- \nEvaluating, trialing, and championing AI-powered analytics tooling - shaping Numan's strategic direction on emerging technologies and what we adopt as a company.\n\n- \nDriving  data quality, reliability, and governance across the transformation layer, proactively monitoring consumption and resolving issues before they impact stakeholders.\n\nWhat you'll bring:\n- \n3–5+ years of experience in an analytics engineering, data engineering, or business intelligence role.\n\n- \nProven track record of owning end-to-end data model design across multiple business domains — ideally spanning at least two of: commercial, marketing, health outcomes, or clinical/operational analytics.\n\n- \nStrong stakeholder management skills, with the confidence to translate complex technical concepts for non-technical audiences including clinical and commercial teams.\n\n- \nExperience setting technical standards and delivering high-quality work within a small, high-performing data team.\n\n- \nSelf-motivated and pragmatic, with a strong instinct for high-impact solutions over over-engineering.\n\n- \nGenuine curiosity about AI and emerging analytics technologies, with a desire to help shape how Numan adopts them.\n\n- \nExpert-level SQL: window functions, CTEs, advanced aggregations, and cloud warehouse-specific optimisation.\n\n- \nDeep proficiency in dbt: models, macros, tests, packages, documentation, exposures, and CI/CD integration.\n\n- \nStrong working knowledge of Google BigQuery (or equivalent cloud data warehouse): query optimisation, incremental loading strategies, and cost management.\n\n- \nExperience with Looker (LookML) or an equivalent BI layer, with a solid understanding of consumption-layer design.\n\n- \nDimensional data modelling expertise: star schemas, slowly changing dimensions, and when to denormalise.\n\n- \nStrong written and verbal communication skills; able to deliver clear, insight-led presentations that tell a compelling story to both technical and non-technical stakeholders.\n\n- \nUnderstanding of data privacy, governance, and compliance requirements — with particular sensitivity to regulated healthcare data.\n\n- \nPractical experience with AI-assisted analytics workflows, or a strong demonstrated appetite to work at the frontier of AI in analytics.\n\nIt's a bonus if you have:\n- \nWorked in a digital consumer scale-up, with experience of delivering high quality work at pace.\n\n- \nHands-on experience evaluating or implementing AI/LLM tooling in a data or analytics context (e.g. semantic layers, natural language querying, AI-assisted documentation).",
-   "salary_text": null,
-   "key": "lever:numan:24aab881-0037-4349-9c5e-da4e26b35530",
-   "is_new": false,
-   "first_seen": "2026-10-15"
   },
   {
    "ats": "greenhouse",
@@ -485,7 +469,7 @@
    "url": "https://jobs.lever.co/zopa/b00f2b6a-6c60-4b6e-8f8e-5c3630b1240c",
    "posted": "2026-09-23",
    "updated": null,
-   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nAt Zopa, analysts are the people who inspire ideas and strategies to drive our business forward and make our products better for customers. Our analysts are a mix of creative problem solvers and number whizzes with a passion for translating data into business opportunities and delivering insights to drive decision-making. They're also excellent communicators with the ability to story-tell with data to both technical and non-technical stakeholders.\n\nOur analysts are deeply embedded into the business and will interact with individuals at every level, from managers to our leadership team.\n\nThe role \n\nWe’re looking for a Product Analyst to join our Joint Current Account team. \n\nYou will be joining the team as they launch a new product that is fundamental to the bank’s future growth ambitions. We operate like a startup within the wider bank; we’re obsessive about our mission to build a powerfully simple to use and feature-rich everyday account that customers will love.\n\nAs a Product Analyst, you will develop a detailed understanding of who our customers are and how they use the account, guiding product development towards innovative features and experiences and owning customer outcomes.\n\nThis role is ideal for someone who wants to work in a fast-paced environment where you can have an outsized impact in the early stages of a new product. With so many decisions to inform, quick high conviction directional insights will sometimes be more valuable than achieving 100% precision with every analysis.\n\n\nA day in the life \n- Partnering with Product Managers, Designers, Engineers and Analysts across Zopa, delivering trusted insights daily to inform decisions and improve the Joint Account product\n\n- Designing and evaluating statistically rigorous experiments to support rapid iterative product development as we test our way through uncertainty\n\n- Defining metrics that will be our source of truth for product performance, quality of user experience, and progress on key results\n\n- Owning your analytics roadmap, proactively identifying opportunities for further analysis and prioritising the highest impact work\n\n- Building at the cutting edge of AI-enabled analytics, developing new tools for natural language insight generation and powerful internal data apps\n\nAbout you\n- Technical: Experience in an analytical role with strong data manipulation skills in SQL and/or Python. You’re comfortable getting stuck into large datasets and extracting insight that drives decision making \n\n- Delivery: You’ve worked in a fast-paced environment (e.g. fintech, start-up, consulting). You prioritise for impact and strike the right balance between precision and effort depending on the context \n\n- Clarity: You thrive in an environment with unstructured, open-ended problems. You’re able isolate signal from the noise and bring clarity to decision-makers \n\n- Influence: You communicate clearly and explain complex concepts to both technical and non-technical stakeholders. You’re not afraid to challenge where appropriate, but you always approach others with respect and sensitivity\n\n- Motivation: You are self-starter with a bias to action who doesn’t wait to be told what to do. You’re excited about building innovative banking products \n\nNice to have\n\n- You’ve conducted experiments such as A/B tests and run causal analyses to isolate statistically significant impacts of product changes and other events\n\n- You're an expert at creating intuitive data visualisations and self-serve data products that tell a story\n\n- You’re used to working in cross-functional teams, collaborating with a variety of stakeholders across different disciplines\n\n- You’ve defined and built metrics to track product performance on conversion, activation, retention and engagement\n\n- You have experience working with consumer-facing fintech (or similar) digital products",
+   "description": "Our Story\n \nHello there. We’re Zopa.\n \nWe started our journey back in 2005, building the first ever peer-to-peer lending company. Fast forward to 2020 and we launched Zopa Bank. A bank that listens to what our customers don’t like about finance and does the opposite. We’re redefining what it feels like to work in finance. Our vision for a new era of banking puts people front and centre — we’ve built a business that empowers everyone to aim high, every day, to move finance forward. Find out more about our fantastic offerings at Zopa.com! \n \nWe’re incredibly proud of our achievements and none of it would be possible without the amazing team here. It’s not just industry awards we’re winning, we’ve also been named in the top three UK’s Most Loved Workplaces. \n \nIf you embrace unconventional challenges, are unafraid to think differently and are driven to make an outsized impact, you’ll thrive here at Zopa, so join us, and make it count. Want to see us in action? Follow us on Instagram @zopalife\n\n\nAt Zopa, analysts are the people who inspire ideas and strategies to drive our business forward and make our products better for customers. Our analysts are a mix of creative problem solvers and number whizzes with a passion for translating data into business opportunities and delivering insights to drive decision-making. They're also excellent communicators with the ability to story-tell with data to both technical and non-technical stakeholders.\n\nOur analysts are deeply embedded into the business and will interact with individuals at every level, from managers to our leadership team.\n\nThe role \n\nWe’re looking for a Product Analyst to join our Joint Current Account team. \n\nYou will be joining the team as they launch a new product that is fundamental to the bank’s future growth ambitions. We operate like a startup within the wider bank; we’re obsessive about our mission to build a powerfully simple to use and feature-rich everyday account that customers will love.\n\nAs a Product Analyst, you will develop a detailed understanding of who our customers are and how they use the account, guiding product development towards innovative features and experiences and owning customer outcomes.\n\nThis role is ideal for someone who wants to work in a fast-paced environment where you can have an outsized impact in the early stages of a new product. With so many decisions to inform, quick high conviction directional insights will sometimes be more valuable than achieving 100% precision with every analysis.\n\n\nA day in the life \n- Partnering with Product Managers, Designers, Engineers and Analysts across Zopa, delivering trusted insights daily to inform decisions and improve the Joint Account product\n\n- Designing and evaluating statistically rigorous experiments to support rapid iterative product development as we test our way through uncertainty\n\n- Defining metrics that will be our source of truth for product performance, quality of user experience, and progress on key results\n\n- Owning your analytics roadmap, proactively identifying opportunities for further analysis and prioritising the highest impact work\n\n- Building at the cutting edge of AI-enabled analytics, developing new tools for natural language insight generation and powerful internal data apps\n\nAbout you\n- Technical: Experience in an analytical role with strong data manipulation skills in SQL and/or Python. You’re comfortable getting stuck into large datasets and extracting insight that drives decision making \nTo note, hands-on SQL will be assessed at 1st Stage, and you will need to complete the assessment independently, without any AI tools\n\n- Delivery: You’ve worked in a fast-paced environment (e.g. fintech, start-up, consulting). You prioritise for impact and strike the right balance between precision and effort depending on the context \n\n- Clarity: You thrive in an environment with unstructured, open-ended problems. You’re able isolate signal from the noise and bring clarity to decision-makers \n\n- Influence: You communicate clearly and explain complex concepts to both technical and non-technical stakeholders. You’re not afraid to challenge where appropriate, but you always approach others with respect and sensitivity\n\n- Motivation: You are self-starter with a bias to action who doesn’t wait to be told what to do. You’re excited about building innovative banking products \n\nNice to have\n\n- You’ve conducted experiments such as A/B tests and run causal analyses to isolate statistically significant impacts of product changes and other events\n\n- You're an expert at creating intuitive data visualisations and self-serve data products that tell a story\n\n- You’re used to working in cross-functional teams, collaborating with a variety of stakeholders across different disciplines\n\n- You’ve defined and built metrics to track product performance on conversion, activation, retention and engagement\n\n- You have experience working with consumer-facing fintech (or similar) digital products",
    "salary_text": null,
    "key": "lever:zopa:b00f2b6a-6c60-4b6e-8f8e-5c3630b1240c",
    "is_new": false,
