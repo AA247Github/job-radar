@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T16:01:03Z",
+ "generated_at": "2026-11-26T15:41:07Z",
  "counts": {
   "matches": 41,
   "new": 0,
@@ -10,7 +10,7 @@
   {
    "ats": "greenhouse",
    "token": "swordhealth",
-   "open_jobs": 19
+   "open_jobs": 18
   },
   {
    "ats": "greenhouse",
@@ -20,7 +20,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 53
+   "open_jobs": 57
   },
   {
    "ats": "greenhouse",
@@ -40,7 +40,7 @@
   {
    "ats": "greenhouse",
    "token": "gocardless",
-   "open_jobs": 27
+   "open_jobs": 23
   },
   {
    "ats": "greenhouse",
@@ -75,7 +75,7 @@
   {
    "ats": "ashby",
    "token": "synthesia",
-   "open_jobs": 24
+   "open_jobs": 22
   },
   {
    "ats": "ashby",
@@ -95,12 +95,12 @@
   {
    "ats": "ashby",
    "token": "oviva",
-   "open_jobs": 28
+   "open_jobs": 31
   },
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 23
+   "open_jobs": 22
   },
   {
    "ats": "ashby",
@@ -140,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 573
+   "open_jobs": 567
   }
  ],
  "discovered_tokens": [
@@ -159,7 +159,7 @@
   {
    "ats": "ashby",
    "token": "marshmallow",
-   "open_jobs": 6,
+   "open_jobs": 5,
    "matching": 1
   },
   {
@@ -171,7 +171,7 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 193,
+   "open_jobs": 192,
    "matching": 0
   },
   {
@@ -189,13 +189,13 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 117,
+   "open_jobs": 112,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 38,
+   "open_jobs": 36,
    "matching": 4
   },
   {
@@ -207,7 +207,7 @@
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 105,
+   "open_jobs": 107,
    "matching": 2
   }
  ],
@@ -405,7 +405,7 @@
    "url": "https://jobs.ashbyhq.com/tem/9d3b99f8-8b01-4bd9-99e0-a037aadc0b2e",
    "posted": "2026-09-10",
    "updated": "2026-09-10",
-   "description": "📈 Who We Are:\n\nWe are rebuilding the energy transaction, making it transparent and fair.\n\nWe're rebuilding how energy is bought and sold. That means cutting out middlemen, connecting businesses directly with renewable generators, and ensuring every transaction is traceable and transparent.\n\nWe're a 160+ person team - operators, data scientists, engineers, customer champions and energy experts - backed by top-tier investors including Lightspeed Venture Partners, Hitachi Ventures, Allianz, AlbionVC and Atomico. We closed a $75M Series B round in early 2026, taking our total funding to $94M, and we now power energy for over 4,000 UK businesses across 8,500+ sites, with over £75m in value returned to businesses and generators so far.\n\nWe're a technology company solving the energy industry, not an energy company. Some people call us a neo-utility, the neo-bank idea, applied to energy.\n\nThe industry is noticing. We were crowned Europe's Most Exciting Tech Company at the GP Bullhound Allstars awards https://www.gpbullhound.com/articles/allstars-awards-2026-winners-announced/, came in at #6 on LinkedIn's Top Startups 2026 https://www.linkedin.com/pulse/linkedin-top-startups-2026-20-uk-companies-rise-linkedin-news-uk-xoffc in the UK, #7 on the Scaling Europe 50 https://scalingeurope.co.uk/ of Europe's fastest-growing companies, and #14 on Sifted's AI 100 https://lnkd.in/p/ehxWgJyc.\n\nLearn more about us on our website https://www.tem.energy/.\n\n\n\n\nTHE ROLE\n\nWe're hiring a Senior Data Engineer.\n\nData sits at the core of what tem does. Our time-series data is the spine that runs from pricing through to billing: every transaction depends on it working. You'll be working across a genuinely varied set of workloads: textual data, time-series data, and event streams, each with its own ingestion and reliability challenges, including TSDS.\n\nYou'll join our Data Service team of 4, owning the design, reliability, and recovery strategy of specific ingestion pipelines and systems end-to-end. This is an individual contributor role: no team to manage, full ownership of the work you do. The team has more work than hands right now, and this role exists to close that gap so the business can move faster on the data it depends on.\n\nYou'll also work closely with our AI initiatives as they grow: the platform you own increasingly becomes the foundation those efforts depend on.\n\nYou will:\n\n - Own the design, reliability, and recovery strategy for the ingestion pipelines and systems in your domain.\n\n - Maintain and improve the data platform, including working through the existing tech debt backlog.\n\n - Build monitoring and alerting so issues surface before they become incidents.\n\n - Set the data quality checks that make an SLA commitment possible, and hold the line on them.\n\n - Help take the number of data products with a defined SLA from 2 to 10.\n\n\n\n\nRESPONSIBILITIES\n\nData Ingestion\n\n - Own the design, reliability, and resilience of ingestion pipelines end-to-end, including TSDS, with a clear recovery strategy when things break.\n\n - Build and maintain ETL/ELT pipelines for new and existing data sources.\n\n - Decide the right approach (batch vs. streaming) for each pipeline in your domain, including high-scale, low-latency requirements for time-series data.\n\n - Set data quality checks that make an SLA commitment possible, and hold the line on them.\n\nPlatform Maintenance\n\n - Own the day-to-day reliability of the data platform: monitoring, testing, and fixing issues before they become firefights.\n\n - Own code quality and standards for the systems you're responsible for, including CI checks (linting, tests, coverage).\n\n - Work through the existing tech debt backlog, prioritising fixes that unblock SLA commitments.\n\n - Optimise pipelines for performance and cost as data volumes grow.\n\n - Handle the failure modes specific to energy data: late arrivals, reprocessing, backfills.\n\nMonitoring & Alerting\n\n - Build and improve observability across your systems so problems surface before they cause downstream impact.\n\n - Set up alerting tied to the SLAs the team is committing to.\n\n - Investigate and resolve issues within your domain, escalating genuinely cross-system problems.\n\nSupporting Expansion\n\n - Help scope and prepare the platform for new data sources tied to international expansion.\n\n - Flag where current architecture won't hold up as scope grows, even if fixing it isn't your call to make alone.\n\n - Work closely with the AI team as their data needs on the platform grow.\n\n\n\n\nREQUIREMENTS\n\nMust haves\n\n - Strong Python skills, with proven experience building and maintaining production data pipelines.\n\n - Experience owning the design, reliability, and resilience of a data pipeline or system end-to-end, not just writing pipeline code.\n\n - AWS or GCP experience.\n\n - Great communication skills, comfortable working directly with stakeholders to scope and agree SLAs, and explaining technical trade-offs to non-technical audiences.\n\n - Strong team player, comfortable working independently against a backlog and making judgement calls on prioritisation, while fitting into an existing team of 4.\n\n - Terraform experience.\n\nBonus points\n\n - Experience with time-series data at scale.\n\n - Experience with modern data stack tooling (Airflow, Snowflake, BigQuery, Redshift, ClickHouse).\n\n - Experience in energy or climate tech.\n\n - Background in high-growth startups or scale-ups.\n\n - Genuine interest in how AI tooling and workflows intersect with data engineering.\n\nWe're open to someone who doesn't tick every box here, as long as they bring solid AWS or GCP experience and the ability to own their own work end-to-end.\n\n\n\n\nBENEFITS & PERKS\n\n - Salary aligned to internal benchmarks and reviewed twice a year.\n\n - Stock options so everyone has ownership in our mission.\n\n - 25 days holiday plus public holidays. Swap public holidays for the ones that matter most to you, and enjoy your birthday off.\n\n - Remote first and flexible working, with clear core hou",
+   "description": "📈 Who We Are:\n\nWe are rebuilding the energy transaction, making it transparent and fair.\n\nWe're rebuilding how energy is bought and sold. That means cutting out middlemen, connecting businesses directly with renewable generators, and ensuring every transaction is traceable and transparent.\n\nWe're a 180+ person team - operators, data scientists, engineers, customer champions and energy experts - backed by top-tier investors including Lightspeed Venture Partners, Hitachi Ventures, Allianz, AlbionVC and Atomico. We closed a $75M Series B round in early 2026, taking our total funding to $94M, and we now power energy for over 4,000 UK businesses across 8,500+ sites, with over £75m in value returned to businesses and generators so far.\n\nWe're a technology company solving the energy industry, not an energy company. Some people call us a neo-utility, the neo-bank idea, applied to energy.\n\nThe industry is noticing. We were crowned Europe's Most Exciting Tech Company at the GP Bullhound Allstars awards https://www.gpbullhound.com/articles/allstars-awards-2026-winners-announced/, came in at #6 on LinkedIn's Top Startups 2026 https://www.linkedin.com/pulse/linkedin-top-startups-2026-20-uk-companies-rise-linkedin-news-uk-xoffc in the UK, #7 on the Scaling Europe 50 https://scalingeurope.co.uk/ of Europe's fastest-growing companies, and #14 on Sifted's AI 100 https://lnkd.in/p/ehxWgJyc.\n\nLearn more about us on our website https://www.tem.energy/.\n\n\n\n\nTHE ROLE\n\nWe're hiring a Senior Data Engineer.\n\nData sits at the core of what tem does. Our time-series data is the spine that runs from pricing through to billing: every transaction depends on it working. You'll be working across a genuinely varied set of workloads: textual data, time-series data, and event streams, each with its own ingestion and reliability challenges, including TSDS.\n\nYou'll join our Data Service team of 4, owning the design, reliability, and recovery strategy of specific ingestion pipelines and systems end-to-end. This is an individual contributor role: no team to manage, full ownership of the work you do. The team has more work than hands right now, and this role exists to close that gap so the business can move faster on the data it depends on.\n\nYou'll also work closely with our AI initiatives as they grow: the platform you own increasingly becomes the foundation those efforts depend on.\n\nYou will:\n\n - Own the design, reliability, and recovery strategy for the ingestion pipelines and systems in your domain.\n\n - Maintain and improve the data platform, including working through the existing tech debt backlog.\n\n - Build monitoring and alerting so issues surface before they become incidents.\n\n - Set the data quality checks that make an SLA commitment possible, and hold the line on them.\n\n - Help take the number of data products with a defined SLA from 2 to 10.\n\n\n\n\nRESPONSIBILITIES\n\nData Ingestion\n\n - Own the design, reliability, and resilience of ingestion pipelines end-to-end, including TSDS, with a clear recovery strategy when things break.\n\n - Build and maintain ETL/ELT pipelines for new and existing data sources.\n\n - Decide the right approach (batch vs. streaming) for each pipeline in your domain, including high-scale, low-latency requirements for time-series data.\n\n - Set data quality checks that make an SLA commitment possible, and hold the line on them.\n\nPlatform Maintenance\n\n - Own the day-to-day reliability of the data platform: monitoring, testing, and fixing issues before they become firefights.\n\n - Own code quality and standards for the systems you're responsible for, including CI checks (linting, tests, coverage).\n\n - Work through the existing tech debt backlog, prioritising fixes that unblock SLA commitments.\n\n - Optimise pipelines for performance and cost as data volumes grow.\n\n - Handle the failure modes specific to energy data: late arrivals, reprocessing, backfills.\n\nMonitoring & Alerting\n\n - Build and improve observability across your systems so problems surface before they cause downstream impact.\n\n - Set up alerting tied to the SLAs the team is committing to.\n\n - Investigate and resolve issues within your domain, escalating genuinely cross-system problems.\n\nSupporting Expansion\n\n - Help scope and prepare the platform for new data sources tied to international expansion.\n\n - Flag where current architecture won't hold up as scope grows, even if fixing it isn't your call to make alone.\n\n - Work closely with the AI team as their data needs on the platform grow.\n\n\n\n\nREQUIREMENTS\n\nMust haves\n\n - Strong Python skills, with proven experience building and maintaining production data pipelines.\n\n - Experience owning the design, reliability, and resilience of a data pipeline or system end-to-end, not just writing pipeline code.\n\n - AWS or GCP experience.\n\n - Great communication skills, comfortable working directly with stakeholders to scope and agree SLAs, and explaining technical trade-offs to non-technical audiences.\n\n - Strong team player, comfortable working independently against a backlog and making judgement calls on prioritisation, while fitting into an existing team of 4.\n\n - Terraform experience.\n\nBonus points\n\n - Experience with time-series data at scale.\n\n - Experience with modern data stack tooling (Airflow, Snowflake, BigQuery, Redshift, ClickHouse).\n\n - Experience in energy or climate tech.\n\n - Background in high-growth startups or scale-ups.\n\n - Genuine interest in how AI tooling and workflows intersect with data engineering.\n\nWe're open to someone who doesn't tick every box here, as long as they bring solid AWS or GCP experience and the ability to own their own work end-to-end.\n\n\n\n\nBENEFITS & PERKS\n\n - Salary aligned to internal benchmarks and reviewed twice a year.\n\n - Stock options so everyone has ownership in our mission.\n\n - 25 days holiday plus public holidays. Swap public holidays for the ones that matter most to you, and enjoy your birthday off.\n\n - Remote first and flexible working, with clear core hou",
    "salary_text": "£82,700 – £93,350 • Offers Equity",
    "key": "ashby:tem:9d3b99f8-8b01-4bd9-99e0-a037aadc0b2e",
    "is_new": false,
