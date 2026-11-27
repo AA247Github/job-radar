@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T15:41:07Z",
+ "generated_at": "2026-11-27T15:31:46Z",
  "counts": {
-  "matches": 41,
-  "new": 0,
+  "matches": 42,
+  "new": 1,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -20,7 +20,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 57
+   "open_jobs": 58
   },
   {
    "ats": "greenhouse",
@@ -35,7 +35,7 @@
   {
    "ats": "greenhouse",
    "token": "tide",
-   "open_jobs": 92
+   "open_jobs": 94
   },
   {
    "ats": "greenhouse",
@@ -50,7 +50,7 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 38
+   "open_jobs": 37
   },
   {
    "ats": "greenhouse",
@@ -60,7 +60,7 @@
   {
    "ats": "ashby",
    "token": "accurx",
-   "open_jobs": 12
+   "open_jobs": 10
   },
   {
    "ats": "ashby",
@@ -90,7 +90,7 @@
   {
    "ats": "ashby",
    "token": "paddle",
-   "open_jobs": 15
+   "open_jobs": 13
   },
   {
    "ats": "ashby",
@@ -100,22 +100,22 @@
   {
    "ats": "ashby",
    "token": "multiverse",
-   "open_jobs": 22
+   "open_jobs": 21
   },
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 65
+   "open_jobs": 62
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 90
+   "open_jobs": 89
   },
   {
    "ats": "ashby",
    "token": "tem",
-   "open_jobs": 22
+   "open_jobs": 21
   },
   {
    "ats": "lever",
@@ -125,22 +125,22 @@
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 873
+   "open_jobs": 871
   },
   {
    "ats": "lever",
    "token": "zopa",
-   "open_jobs": 31
+   "open_jobs": 32
   },
   {
    "ats": "lever_eu",
    "token": "numan",
-   "open_jobs": 10
+   "open_jobs": 9
   },
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 567
+   "open_jobs": 570
   }
  ],
  "discovered_tokens": [
@@ -171,8 +171,8 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 192,
-   "matching": 0
+   "open_jobs": 194,
+   "matching": 1
   },
   {
    "ats": "ashby",
@@ -189,25 +189,25 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 112,
+   "open_jobs": 108,
    "matching": 3
   },
   {
    "ats": "ashby",
    "token": "trainline",
-   "open_jobs": 36,
+   "open_jobs": 38,
    "matching": 4
   },
   {
    "ats": "greenhouse",
    "token": "ohme",
-   "open_jobs": 22,
+   "open_jobs": 21,
    "matching": 2
   },
   {
    "ats": "ashby",
    "token": "teya",
-   "open_jobs": 107,
+   "open_jobs": 109,
    "matching": 2
   }
  ],
@@ -219,6 +219,22 @@
   }
  ],
  "jobs": [
+  {
+   "ats": "greenhouse",
+   "token": "deliveroo",
+   "id": "8202582",
+   "company": "Deliveroo ",
+   "role": "Senior Data Scientist - Business Operations",
+   "location": "London, England",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202582",
+   "posted": "2026-09-18",
+   "updated": "2026-11-27",
+   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nAbout Deliveroo\n\nOur mission is to transform the way people shop and eat, bringing the neighbourhood to your door by connecting consumers, restaurants, shops and riders. We are a technology-driven company at the forefront of one of the most rapidly expanding industries in the world: a complex, always-on, three-sided marketplace that impacts millions of people every day.\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.\n\nThe Team\n\nBizOps is the team that keeps its finger on the pulse of business performance: continuously, rigorously, and across multiple dimensions at once. We turn raw operational and financial data into actionable intelligence, surfacing what is happening, why it is happening, and what to expect next, for the operators, executives, and functional teams who run the business day to day.\n\nWe are not a reporting function that produces outputs on request. We work continuously, proactively watching, delivering, and questioning whether the signal is real, acting as \"first responders\" to surprising deviations from expectation and using what we learn to drive faster, better decision-making for the business at large.\n\nOur work spans the full stack of analytics: from the warehouse models that make metrics trustworthy, to the monitoring systems that catch problems early, to the reports and dashboards that make performance visible, to the deep-dive investigations that explain what the numbers mean and what we should do about it.\n\nWe anchor our analysis to the right reference points: how performance compares to plan, to prior periods, and to what we'd expect, and we bring causal rigour when the business needs to know whether an action actually worked.\n\nThe culture within the team is informal, fast-paced and entrepreneurial. Given the growth of the business and the level of senior stakeholder exposure, progression in the team can be fast.\n\nThe Role\n\nDeliveroo is hiring a Senior Data Scientist to join BizOps, based in our London HQ (hybrid, minimum three days per week in the office).\n\nThis role is largely project-based: starting from a strategic or performance question, you'll combine data, business context, and structured problem-solving to provide the insights that drive decision-making at a global level with senior stakeholders. You will own delivery end-to-end, from the messy, ambiguous question to a rigorous, trustworthy, and actionable answer.\n\nYou'll be equally comfortable building the systems that make performance visible and going deep on the investigations that explain it. One week you might diagnose why a key market has moved away from plan; the next, identify the drivers behind a change in customer or operational performance; the next, build monitoring that helps teams spot and understand emerging issues earlier.\n\nSuccess in this role requires building effective working relationships across Deliveroo, particularly with international markets, as well as the Data Science, Operations, Commercial, and Finance teams.\n\n&nbsp;\n\nWhat You'll Be Doing\n\n- \nAnswer the questions that matter, continuously. Maintain a rigorous view on business performance: Are we on track against our goals? What's changed? How does this compare with what we expected? What should we expect next? Then go further: Why is it happening, what matters most, and what should we do about it?”\n\n- \nOwn delivery end-to-end. Independently identify, define, and deliver impactful work aligned with business goals, operating with minimal guidance to ship fast, high-quality solutions.\n\n- \nNavigate ambiguity. Deconstruct broad, ambiguous problem spaces into structured analytical roadmaps, and understand how your work intersects with adjacent systems and teams.\n\n- \nBuild for scale, not one-offs. Build the pipelines, models, dashboards, monitoring, and investigative tooling that make performance visible and reliable. Automate wherever possible; redoing analyses by hand is slow and error-prone.\n\n- \nMeasure impact with discipline. Design measurement strategies from simple A/B tests to quasi-experimental designs (synthetic control, difference-in-differences, event studies) when trials aren't feasible, always with conservative, assumption-explicit language.\n\n- \nBe a first responder. Surface deviations before they become escalations, and be just as willing to give the confident \"this is noise, no action needed\" as the alarm.\n\n- \nCommunicate to influence. Translate complex findings into clear, simple, actionable recommendations for both technical and non-technical audiences that shape roadmaps and decisions.\n\n- \nRaise the bar. Contribute to the broader Analytics community, improve shared approaches and best practices, and help build data literacy across the business.\n\nWhat You'll Need to Thrive\n\nOur ideal candidate brings strong expertise in some of these areas and the curiosity to grow in others:\n\n- \nExperience in an analytical or data science role, such as data analytics, data science, forecasting, planning, strategy analytics, or a similar discipline. Experience in logistics, e-commerce, marketplaces, or another fast-moving, customer-focused business is useful but not essential.\n\n- \nProficiency with SQL and a scripting language such as Python or R, alongside experience with BI or visualisation tooling such as Looker, Tableau, or similar.\n\n- \nComfortable using modern AI-assisted tools to work efficiently while maintaining high standards of accuracy and reproducibility.\n\n- \nA pragmatic approach to problem-solving: you ",
+   "salary_text": null,
+   "key": "greenhouse:deliveroo:8202582",
+   "is_new": true,
+   "first_seen": "2026-11-27"
+  },
   {
    "ats": "greenhouse",
    "token": "monzo",
