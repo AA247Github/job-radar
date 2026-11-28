@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T15:31:46Z",
+ "generated_at": "2026-11-28T14:29:20Z",
  "counts": {
-  "matches": 42,
-  "new": 1,
+  "matches": 44,
+  "new": 2,
   "boards_ok": 27,
   "boards_failed": 1
  },
@@ -20,7 +20,7 @@
   {
    "ats": "greenhouse",
    "token": "monzo",
-   "open_jobs": 58
+   "open_jobs": 55
   },
   {
    "ats": "greenhouse",
@@ -50,12 +50,12 @@
   {
    "ats": "greenhouse",
    "token": "isomorphiclabs",
-   "open_jobs": 37
+   "open_jobs": 38
   },
   {
    "ats": "greenhouse",
    "token": "clearscoretechnologylimited",
-   "open_jobs": 9
+   "open_jobs": 10
   },
   {
    "ats": "ashby",
@@ -105,12 +105,12 @@
   {
    "ats": "ashby",
    "token": "lendable",
-   "open_jobs": 62
+   "open_jobs": 60
   },
   {
    "ats": "ashby",
    "token": "faculty",
-   "open_jobs": 89
+   "open_jobs": 92
   },
   {
    "ats": "ashby",
@@ -125,7 +125,7 @@
   {
    "ats": "lever",
    "token": "veeva",
-   "open_jobs": 871
+   "open_jobs": 865
   },
   {
    "ats": "lever",
@@ -140,7 +140,7 @@
   {
    "ats": "lever_eu",
    "token": "ivcevidensia",
-   "open_jobs": 570
+   "open_jobs": 572
   }
  ],
  "discovered_tokens": [
@@ -171,13 +171,13 @@
   {
    "ats": "greenhouse",
    "token": "deliveroo",
-   "open_jobs": 194,
+   "open_jobs": 197,
    "matching": 1
   },
   {
    "ats": "ashby",
    "token": "birdie",
-   "open_jobs": 2,
+   "open_jobs": 3,
    "matching": 0
   },
   {
@@ -189,7 +189,7 @@
   {
    "ats": "ashby",
    "token": "elevenlabs",
-   "open_jobs": 108,
+   "open_jobs": 109,
    "matching": 3
   },
   {
@@ -220,20 +220,36 @@
  ],
  "jobs": [
   {
-   "ats": "greenhouse",
-   "token": "deliveroo",
-   "id": "8202582",
-   "company": "Deliveroo ",
-   "role": "Senior Data Scientist - Business Operations",
-   "location": "London, England",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202582",
-   "posted": "2026-09-18",
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "3b2ac25e-8607-40bc-aae3-8705cd826831",
+   "company": "faculty",
+   "role": "Data Scientist",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/3b2ac25e-8607-40bc-aae3-8705cd826831",
+   "posted": "2026-11-27",
    "updated": "2026-11-27",
-   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nAbout Deliveroo\n\nOur mission is to transform the way people shop and eat, bringing the neighbourhood to your door by connecting consumers, restaurants, shops and riders. We are a technology-driven company at the forefront of one of the most rapidly expanding industries in the world: a complex, always-on, three-sided marketplace that impacts millions of people every day.\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.\n\nThe Team\n\nBizOps is the team that keeps its finger on the pulse of business performance: continuously, rigorously, and across multiple dimensions at once. We turn raw operational and financial data into actionable intelligence, surfacing what is happening, why it is happening, and what to expect next, for the operators, executives, and functional teams who run the business day to day.\n\nWe are not a reporting function that produces outputs on request. We work continuously, proactively watching, delivering, and questioning whether the signal is real, acting as \"first responders\" to surprising deviations from expectation and using what we learn to drive faster, better decision-making for the business at large.\n\nOur work spans the full stack of analytics: from the warehouse models that make metrics trustworthy, to the monitoring systems that catch problems early, to the reports and dashboards that make performance visible, to the deep-dive investigations that explain what the numbers mean and what we should do about it.\n\nWe anchor our analysis to the right reference points: how performance compares to plan, to prior periods, and to what we'd expect, and we bring causal rigour when the business needs to know whether an action actually worked.\n\nThe culture within the team is informal, fast-paced and entrepreneurial. Given the growth of the business and the level of senior stakeholder exposure, progression in the team can be fast.\n\nThe Role\n\nDeliveroo is hiring a Senior Data Scientist to join BizOps, based in our London HQ (hybrid, minimum three days per week in the office).\n\nThis role is largely project-based: starting from a strategic or performance question, you'll combine data, business context, and structured problem-solving to provide the insights that drive decision-making at a global level with senior stakeholders. You will own delivery end-to-end, from the messy, ambiguous question to a rigorous, trustworthy, and actionable answer.\n\nYou'll be equally comfortable building the systems that make performance visible and going deep on the investigations that explain it. One week you might diagnose why a key market has moved away from plan; the next, identify the drivers behind a change in customer or operational performance; the next, build monitoring that helps teams spot and understand emerging issues earlier.\n\nSuccess in this role requires building effective working relationships across Deliveroo, particularly with international markets, as well as the Data Science, Operations, Commercial, and Finance teams.\n\n&nbsp;\n\nWhat You'll Be Doing\n\n- \nAnswer the questions that matter, continuously. Maintain a rigorous view on business performance: Are we on track against our goals? What's changed? How does this compare with what we expected? What should we expect next? Then go further: Why is it happening, what matters most, and what should we do about it?”\n\n- \nOwn delivery end-to-end. Independently identify, define, and deliver impactful work aligned with business goals, operating with minimal guidance to ship fast, high-quality solutions.\n\n- \nNavigate ambiguity. Deconstruct broad, ambiguous problem spaces into structured analytical roadmaps, and understand how your work intersects with adjacent systems and teams.\n\n- \nBuild for scale, not one-offs. Build the pipelines, models, dashboards, monitoring, and investigative tooling that make performance visible and reliable. Automate wherever possible; redoing analyses by hand is slow and error-prone.\n\n- \nMeasure impact with discipline. Design measurement strategies from simple A/B tests to quasi-experimental designs (synthetic control, difference-in-differences, event studies) when trials aren't feasible, always with conservative, assumption-explicit language.\n\n- \nBe a first responder. Surface deviations before they become escalations, and be just as willing to give the confident \"this is noise, no action needed\" as the alarm.\n\n- \nCommunicate to influence. Translate complex findings into clear, simple, actionable recommendations for both technical and non-technical audiences that shape roadmaps and decisions.\n\n- \nRaise the bar. Contribute to the broader Analytics community, improve shared approaches and best practices, and help build data literacy across the business.\n\nWhat You'll Need to Thrive\n\nOur ideal candidate brings strong expertise in some of these areas and the curiosity to grow in others:\n\n- \nExperience in an analytical or data science role, such as data analytics, data science, forecasting, planning, strategy analytics, or a similar discipline. Experience in logistics, e-commerce, marketplaces, or another fast-moving, customer-focused business is useful but not essential.\n\n- \nProficiency with SQL and a scripting language such as Python or R, alongside experience with BI or visualisation tooling such as Looker, Tableau, or similar.\n\n- \nComfortable using modern AI-assisted tools to work efficiently while maintaining high standards of accuracy and reproducibility.\n\n- \nA pragmatic approach to problem-solving: you ",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\n\n\nABOUT FRONTIER\n\nFaculty Frontier™ is a decision operating system. It puts AI to work on the decisions that matter most to large organisations, such as where to invest, how to allocate resources, and when to act.\n\nEvery enterprise is investing heavily in AI, but few are confident it will improve performance. Too often it goes to what’s easy to automate, disconnected from the decisions that actually move the business.\n\nFrontier works backwards from objectives like revenue, margin and risk to the decisions that drive them, then connects the data, models and agents those decisions need into a world model of the business. Teams simulate and optimise options with ADA, our AI decision agent, and every decision is tracked against its outcome so the system keeps learning. Our ambition is to make business decisions as easy to navigate as getting around a city.\n\nWe don’t believe in AI that thinks for people. We believe in AI that helps people think, with humans and agents working together inside a decision system.\n\nCustomers start with one high-value decision and prove value in weeks. Over months they connect it into a wider decision network, and over years they build an adaptive enterprise.\n\nFrontier is built by Faculty, an AI company that has delivered more than 400 systems since 2014 and is now part of Accenture.\n\n\n\n\nABOUT THE ROLE\n\nAs a Data Scientist in the Frontier team, you'll dive straight into high-impact, cross-functional squads bringing our breakthrough Frontier platform to life for major enterprise clients. Here, real-world decision-making hinges on cutting-edge machine learning and intricate computational twins—and you'll be right at the helm, designing, building, and deploying the core models that power them.\n\nExcellence here goes far beyond mastering Frontier's development interfaces; it's about tapping into the heart of real-world data science: immersing yourself in complex customer challenges to unlock massive, tangible business value. From exploratory data analysis and groundbreaking model architecture to rigorous evaluation, you'll tackle the full end-to-end data science lifecycle to solve some of the most exciting problems in the industry.\n\n\n\n\nWHO WE'RE LOOKING FOR:\n\n - Experience in either a professional data science position or a quantitative academic field\n\n - Strong python programming skills as evidenced by earlier work in data science or software engineering.\n\n - An excellent command of the basic libraries for data science (e.g. NumPy, Pandas, Scikit-Learn) and familiarity with a deep-learning framework (e.g. TensorFlow, PyTorch, Caffe)\n\n - A high level of mathematical competence and proficiency in statistics\n\n - A solid grasp of essentially all of the standard data science techniques, for example, supervised/unsupervised machine learning, model cross validation, Bayesian inference, time-series analysis, simple NLP, effective SQL database querying, or using/writing simple APIs for models. We regard the ability to develop new algorithms when an innovative solution is needed as a fundamental skill\n\n - An appreciation for the scientific method as applied to the commercial world; a talent for converting business problems into a mathematical framework; resourcefulness in overcoming difficulties through creativity and commitment; a rigorous mindset in evaluating the performance and impact of models upon deployment\n\n - Some commercial experience, particularly if this involved client-facing work or project management; eagerness to work alongside our customers; business awareness and an ability to gauge the commercial value of projects; outstanding written and verbal communication skills; persuasiveness when presenting to a large or important audience\n\n - A product mindset, able to understand the needs of users and to learn how Frontier delivers them value\n   \n   \n\nOur Interview process:\n\n 1. Talent Team Screen (30 mins)\n\n 2. Technical Interview (90 mins)\n\n 3. Product & Commercial Interview (60 mins)\n\n 4. Meet the team (30 mins)\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so intervie",
    "salary_text": null,
-   "key": "greenhouse:deliveroo:8202582",
+   "key": "ashby:faculty:3b2ac25e-8607-40bc-aae3-8705cd826831",
    "is_new": true,
-   "first_seen": "2026-11-27"
+   "first_seen": "2026-11-28"
+  },
+  {
+   "ats": "ashby",
+   "token": "faculty",
+   "id": "718c905c-e996-429c-bc93-d0c9f2cbd9cc",
+   "company": "faculty",
+   "role": "Senior Data Scientist",
+   "location": "London; remote",
+   "url": "https://jobs.ashbyhq.com/faculty/718c905c-e996-429c-bc93-d0c9f2cbd9cc",
+   "posted": "2026-11-27",
+   "updated": "2026-11-27",
+   "description": "WHY FACULTY? \n\n\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.\n\n\n\nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n\n\n\nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n\n\n\nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n\n\n\nAbout Frontier\n\nFaculty Frontier™ is a decision operating system. It puts AI to work on the decisions that matter most to large organisations, such as where to invest, how to allocate resources, and when to act.\n\nEvery enterprise is investing heavily in AI, but few are confident it will improve performance. Too often it goes to what’s easy to automate, disconnected from the decisions that actually move the business.\n\nFrontier works backwards from objectives like revenue, margin and risk to the decisions that drive them, then connects the data, models and agents those decisions need into a world model of the business. Teams simulate and optimise options with ADA, our AI decision agent, and every decision is tracked against its outcome so the system keeps learning. Our ambition is to make business decisions as easy to navigate as getting around a city.\n\nWe don’t believe in AI that thinks for people. We believe in AI that helps people think, with humans and agents working together inside a decision system.\n\nCustomers start with one high-value decision and prove value in weeks. Over months they connect it into a wider decision network, and over years they build an adaptive enterprise.\n\nFrontier is built by Faculty, an AI company that has delivered more than 400 systems since 2014 and is now part of Accenture.\n\n\n\nAbout the role\n\nAs a Senior Data Scientist in the Frontier team, you'll dive straight into high-impact, cross-functional squads bringing our breakthrough Frontier platform to life for major enterprise clients. Here, real-world decision-making hinges on cutting-edge machine learning and intricate computational twins—and you'll be right at the helm, designing, building, and deploying the core models that power them.\n\nExcellence here goes far beyond mastering Frontier's development toolkit; it's about tapping into the heart of real-world data science: immersing yourself in complex customer challenges to unlock massive, tangible business value. From exploratory data analysis and groundbreaking model architecture to rigorous evaluation, you'll tackle the full end-to-end data science lifecycle to solve some of the most exciting problems in the industry.\n\n\n\n\nWhat you'll be doing:\n\n - Designing and building agents in high-consequence environments, where outputs need to be validated to a high standard\n\n - Leading data science efforts within cross-functional delivery teams — partnering with engineers, designers, and product leads for successful outcomes\n\n - Understanding deeply core customer problems to ensure technical solutions drive real value\n\n - Translating real-world problems into technical strategies and measuring impact with scientific rigor\n\n - Performing exploratory data analysis, model building, validation, and performance monitoring\n   \n   \n\nWho we're looking for:\n\n - You have senior-level experience in data science or quantitative research\n\n - You're proficient in Python and essential data science libraries (e.g. NumPy, Pandas, scikit-learn)\n\n - You possess a strong foundation in statistics and mathematics\n\n - You're experienced across the full data science toolkit — including supervised/unsupervised learning, time-series analysis, Bayesian methods, NLP, and model validation — and can develop new algorithms when needed\n\n - You bring a leadership mindset centred on technical excellence, team growth, and a collaborative culture\n\n - You exhibit scientific rigor and a business-focused approach: translating problems into technical strategies and measuring impact\n\n - You're product-oriented, deeply understanding user needs and how Frontier can deliver value to them\n\n - It would be great if you have experience building AI agents, following most recent best practices around evaluation, safety, and observability\n   \n   \n\nThe Interview Process\n\n 1. Talent Team Screen (30 minutes)\n\n 2. Hiring Manager Introduction (30 minutes)\n\n 3. Technical Interview (90 minutes)\n\n 4. Product Interview (60 minutes)\n\n\n\n\nOUR RECRUITMENT ETHOS\n\n\n\n\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.\n\n\n\nIf you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. \n\n\n\nA note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt ",
+   "salary_text": null,
+   "key": "ashby:faculty:718c905c-e996-429c-bc93-d0c9f2cbd9cc",
+   "is_new": true,
+   "first_seen": "2026-11-28"
   },
   {
    "ats": "greenhouse",
@@ -426,6 +442,22 @@
    "key": "ashby:tem:9d3b99f8-8b01-4bd9-99e0-a037aadc0b2e",
    "is_new": false,
    "first_seen": "2026-10-09"
+  },
+  {
+   "ats": "greenhouse",
+   "token": "deliveroo",
+   "id": "8202582",
+   "company": "Deliveroo ",
+   "role": "Senior Data Scientist - Business Operations",
+   "location": "London, England",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202582",
+   "posted": "2026-09-18",
+   "updated": "2026-11-27",
+   "description": "Our Global Structure\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\nAbout Deliveroo\n\nOur mission is to transform the way people shop and eat, bringing the neighbourhood to your door by connecting consumers, restaurants, shops and riders. We are a technology-driven company at the forefront of one of the most rapidly expanding industries in the world: a complex, always-on, three-sided marketplace that impacts millions of people every day.\n\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.\n\nThe Team\n\nBizOps is the team that keeps its finger on the pulse of business performance: continuously, rigorously, and across multiple dimensions at once. We turn raw operational and financial data into actionable intelligence, surfacing what is happening, why it is happening, and what to expect next, for the operators, executives, and functional teams who run the business day to day.\n\nWe are not a reporting function that produces outputs on request. We work continuously, proactively watching, delivering, and questioning whether the signal is real, acting as \"first responders\" to surprising deviations from expectation and using what we learn to drive faster, better decision-making for the business at large.\n\nOur work spans the full stack of analytics: from the warehouse models that make metrics trustworthy, to the monitoring systems that catch problems early, to the reports and dashboards that make performance visible, to the deep-dive investigations that explain what the numbers mean and what we should do about it.\n\nWe anchor our analysis to the right reference points: how performance compares to plan, to prior periods, and to what we'd expect, and we bring causal rigour when the business needs to know whether an action actually worked.\n\nThe culture within the team is informal, fast-paced and entrepreneurial. Given the growth of the business and the level of senior stakeholder exposure, progression in the team can be fast.\n\nThe Role\n\nDeliveroo is hiring a Senior Data Scientist to join BizOps, based in our London HQ (hybrid, minimum three days per week in the office).\n\nThis role is largely project-based: starting from a strategic or performance question, you'll combine data, business context, and structured problem-solving to provide the insights that drive decision-making at a global level with senior stakeholders. You will own delivery end-to-end, from the messy, ambiguous question to a rigorous, trustworthy, and actionable answer.\n\nYou'll be equally comfortable building the systems that make performance visible and going deep on the investigations that explain it. One week you might diagnose why a key market has moved away from plan; the next, identify the drivers behind a change in customer or operational performance; the next, build monitoring that helps teams spot and understand emerging issues earlier.\n\nSuccess in this role requires building effective working relationships across Deliveroo, particularly with international markets, as well as the Data Science, Operations, Commercial, and Finance teams.\n\n&nbsp;\n\nWhat You'll Be Doing\n\n- \nAnswer the questions that matter, continuously. Maintain a rigorous view on business performance: Are we on track against our goals? What's changed? How does this compare with what we expected? What should we expect next? Then go further: Why is it happening, what matters most, and what should we do about it?”\n\n- \nOwn delivery end-to-end. Independently identify, define, and deliver impactful work aligned with business goals, operating with minimal guidance to ship fast, high-quality solutions.\n\n- \nNavigate ambiguity. Deconstruct broad, ambiguous problem spaces into structured analytical roadmaps, and understand how your work intersects with adjacent systems and teams.\n\n- \nBuild for scale, not one-offs. Build the pipelines, models, dashboards, monitoring, and investigative tooling that make performance visible and reliable. Automate wherever possible; redoing analyses by hand is slow and error-prone.\n\n- \nMeasure impact with discipline. Design measurement strategies from simple A/B tests to quasi-experimental designs (synthetic control, difference-in-differences, event studies) when trials aren't feasible, always with conservative, assumption-explicit language.\n\n- \nBe a first responder. Surface deviations before they become escalations, and be just as willing to give the confident \"this is noise, no action needed\" as the alarm.\n\n- \nCommunicate to influence. Translate complex findings into clear, simple, actionable recommendations for both technical and non-technical audiences that shape roadmaps and decisions.\n\n- \nRaise the bar. Contribute to the broader Analytics community, improve shared approaches and best practices, and help build data literacy across the business.\n\nWhat You'll Need to Thrive\n\nOur ideal candidate brings strong expertise in some of these areas and the curiosity to grow in others:\n\n- \nExperience in an analytical or data science role, such as data analytics, data science, forecasting, planning, strategy analytics, or a similar discipline. Experience in logistics, e-commerce, marketplaces, or another fast-moving, customer-focused business is useful but not essential.\n\n- \nProficiency with SQL and a scripting language such as Python or R, alongside experience with BI or visualisation tooling such as Looker, Tableau, or similar.\n\n- \nComfortable using modern AI-assisted tools to work efficiently while maintaining high standards of accuracy and reproducibility.\n\n- \nA pragmatic approach to problem-solving: you ",
+   "salary_text": null,
+   "key": "greenhouse:deliveroo:8202582",
+   "is_new": false,
+   "first_seen": "2026-11-27"
   },
   {
    "ats": "lever",
